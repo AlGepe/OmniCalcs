@@ -86,7 +86,16 @@ This was the simple example of a rectangle, but the same is applicable to the <p
 
 ## Shadows and right triangles (radius of the Earth)
 
-## Triangles, polygons and video games
+We have talked a lot about triangles, in particular right triangles, and their applications in maths and geometry. What we haven't talk about yet is the usefulness of the right triangles for calculating things in real life. It might seem like the applications outside of geometry are limited but let's look at shadows.
 
+Yes, shadows; the dark shade projected by an object when it is illuminated. If we were to look at the shape made by the shadow, the object and the ground... it is a right angled triangle!! At least it is when the object is perfectly vertical and so is the ground. But most of the times this is the case, or at least close enough. This means we can use the right triangle calculator to find different things abut objects in the sun, let's see how.
+
+Imagine that we have a building of which we want to know the height, but be cannot measure it directly because it's too high to drop a measuring tape from the top. What one can do is measure the length of the shadow in the street and then with the help of any angle measuring tool and a piece of paper we can find out the angle between the shadow and the ground. Knowing that the angle between the building and the ground is 90º, we can input these data values into the <portal cid=1101>Right triangle side and angle calculator</portal> and obtain the value of the height of the building.
+
+Using this technique we can measure the height of many objects as long as we have a bright sunny day or other means of illuminating the subject. In act this use to be a very common measuring technique in the olden days. Probably the most interesting and mind-blowing use of right triangles in history is that of Eratosthenes. He manage to use right angled triangles and shadows to measure the radius of the Earth, and now we are gonna explain how. 
+
+Eratosthenes noticed that on the summer solstice there was a place on Earth where the wells did not have shadow at midday, i.e.: the sun shined straight down them. Noting this he set up a column of a known height at a known distance from that well and measured the size of the shadow at the same time of the day, the same day of the year. Then using right angled triangles and trigonometry he was able to measure the angle between the two cities and also the radius of the Earth.
+
+Quite an astonishing feat that now you can do much more easily by just using the necessary Omni calculators that we have created for you. 
 
 <later>Sometimes you may encounter a problem where two or all three side lengths area missing. In such cases, the right triangle calculator, hypotenuse calculator and method on how to find the area of a right triangle won't help. You will use trigonometric functions to solve for these missing pieces. This can be accomplished by hand or by using a <portal cid="185">triangle calculator</portal>.</later>
