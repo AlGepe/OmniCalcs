@@ -12,8 +12,6 @@
 
 `right angled triangle`
 
-`how to find the area of a right triangle`
-
 - [X] 53 - Pythagorean theorem calculator
 - [X] 151 - square root calculator
 - [X] 184 - slope calculator
@@ -21,10 +19,10 @@
 - [X] 1098 - hypotenuse calculator
 - [ ] 1085 - area of a square
 - [ ] 1114 - area of a polygon
-- [ ] 906 - area of a triangle
+- [X] 906 - area of a triangle
 - [ ] 983 - equilateral triangle calculator
 - [ ] 1094 - diagonal of a rectangle calculator
 - [ ] 1077 - 30 60 90 triangle calculator
-- [ ] 1100 - area of the right triangle
+- [X] 1100 - area of the right triangle
 - [ ] 1076 - 45 45 90 triangle calculator
 - [ ] 933 - area of a parallelogram

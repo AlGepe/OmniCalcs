@@ -31,11 +31,13 @@ Now let's see what the process would be using one of Omni's calculator, for exam
 
 ## How to find the area of a right triangle
 
+We have seen already that calculating the area of a right angle triangle is very easy when using the right triangle calculator. At Omni we have a calculator specifically designed for that purpose as well: <portal cid=1100> Area of a right triangle calculator</portal> and even one for the adventurous amongst you that would like to calculate the area of any triangle: <portal cid=906> area of a triangle calculator</portal>. Let's now see a bit more in-depth how to calculate areas of right triangles.
+
 The method for finding the area of a right triangle is quite simple. All that is needed is the length of the base and the height. In a right triangle the base and the height are the two sides which form the right angle. The formula is `Area = (1/2)base * height`. If you don't know the base or the height, you can find it using the Pythagorean theorem. Use the right triangle calculator to check your calculations or calculate the area of triangles with sides that have larger or decimal value length.
 
 ## Other considerations when dealing with a right triangle
 
-Notice the sides of a triangle have a certain degree of gradient or slope. We can use a <portal cid="184">slope calculator</portal> to determine the slope of each side. The formula for slope if you wish to calculate by hand is 
+Now we're gonna see other stuff that can be calculated from a right triangle using some of the tools available at Omni. The sides of a triangle have a certain gradient or slope. We can use a <portal cid="184">slope calculator</portal> to determine the slope of each side. The formula for the slope (in case you want to calculate by hand) is 
 
 `(y₂ - y₁)/(x₂ - x₁)`
 
@@ -49,4 +51,13 @@ There is an easy way to convert angles from radians to degrees and degrees to ra
 **If angle is in degrees**
 1. Multiply by `π/180`
 
+## Right angled triangles and parallelograms
+
+## Special triangles
+
+## Special right triangles
+
+## Shadows and right triangles (radius of the Earth)
+
+## Triangles, polygons and video games
 <later>Sometimes you may encounter a problem where two or all three side lengths area missing. In such cases, the right triangle calculator, hypotenuse calculator and method on how to find the area of a right triangle won't help. You will use trigonometric functions to solve for these missing pieces. This can be accomplished by hand or by using a <portal cid="185">triangle calculator</portal>.</later>
