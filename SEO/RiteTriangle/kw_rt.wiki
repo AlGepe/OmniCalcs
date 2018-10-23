@@ -1,0 +1,15 @@
+`right triangle calculator`
+
+`how to find the area of a right triangle`
+
+- [ ] 53 - Pythagorean theorem calculator
+- [ ] 151 - square root calculator
+- [ ] 184 - slope calculator
+- [ ] 211 - angle conversion
+- [ ] 1098 - hypotenuse calculator
+- [ ] 1085 - area of a square
+- [ ] 1114 - area of a polygon
+- [ ] 927 - kite area
+- [ ] 906 - area of a triangle
+- [ ] 1105 - area of a sphere
+- [ ] 752 - Circle calc: find c, d, a, r

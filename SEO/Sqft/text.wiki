@@ -1,0 +1,59 @@
+Square footage calculator is an easy tool that enables its users to calculate an area in square feet. In this article, we are going to explain how to use this tool and how many square feet there are in an acre. Moreover, we will instruct you on how to convert  between the many area units that exist, that includes converting square inches to square feet, sqm to sqft (square meters to square feet) and acres to sqft (acres to square feet) amongst others.
+
+## What is a square foot? 
+It is a unit of area measurement equal to a square measuring one foot on each side. This unit is used mainly in the United States, Canada, United Kingdom and China.
+Its symbol is a simple square with a vertical line bisecting it, commonly used in many branches like architecture, real estate, and interior space plans. It may also be occasionally written as a square with a slash through it. Its abbreviation is commonly written as **sqft** or sq ft.
+
+In order to calculate your area, it is good to know these two measurements:
+the ratio of sqm to sqft and the ratio of acres to square foot.
+
+The ratios go as follows:
+* `1 sqm = 10.7639104 sqft`
+* `1 acre = 43 560 sqft`
+
+## How to calculate square footage
+
+<video-embed src="https://www.youtube.com/embed/t2JptVk0urs"></video-embed>
+
+Calculating your square footage is very easy. All you need is the length of one side of a regular quadrilateral and the length of an adjacent side. If you multiply the former by the latter, you will get the square footage. 
+
+Let's say our rectangle is 0,5 foot high and 2 foot long. 
+* We multiply its height (0,5 foot) by its length (2 foot): 0,5 x 2 
+* The product is your square foot: 1 sq ft
+
+You might have also heard about another unit, called a <portal cid="844">board foot</portal>. It is, however, a unit of volume - make sure never to confuse it with square footage!
+
+## How many square feet in an acre?
+This information is crucial for your future calculations because the SI units are slightly different in some regions. 
+* `1 acres = 43 560 sq feet`
+
+You may also want to use our <portal cid="177">body surface area calculator</portal>.
+
+## How to convert acres to sq ft?
+First, you need to know how many feet are in an acre. 
+* `1 acres = 43 560 sq feet`
+Let's say our area is 100 ac. How many sq ft is it?
+* Multiply your area by `43 560: 100 ac x 43 56 `
+* The product is you area in sq ft: `4356000ft²`
+
+Also check out our <portal cid="210">area conversation</portal>
+
+## How to convert sqm to sqft? 
+[[The]] “square meter” is the SI derived unit of area, with symbol m2. This unit is commonly used in Europe. For that reason you may need to convert them into sqft before you can calculate your square footage. You can find our instructions on how to do that below:
+
+First, you need to know how many sqm are a sq ft. 
+* `ft² =m² * 10.764`
+Let's say our are is 100 m². How many sq ft is it?
+* `Multiply your area by 10.764: 100 m² x 10.764 `
+* The product is you area in sq ft: `1076.391ft²`
+
+If you don't have a foot unit at your disposal, and you need to calculate your square footage, you may want to use these following conversions:
+1 square foot is equivalent to:
+* 144 square inches (Sq In)
+* 1/9 square yards (Sq Yd)
+* 0.09290304 square metres (symbol: m2)
+
+<later>Square footage calculator is an easy tool to calculate your area. It's a necessary tool for many professionals such architects and construction workers, but it may be useful for any individual. </later>
+
+<later>This article has covered everything you need to know to convert your sqm to sqft and acres to sq ft in a few taps. People who used the square footage calculator also found this useful: <portal cid="257">How to find the area of a right triangle</portal>.</later>
+

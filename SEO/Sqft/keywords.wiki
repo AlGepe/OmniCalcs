@@ -1,0 +1,37 @@
+* `square footage calculator`
+
+* `calculate square footage`
+
+* `square inches to square feet`
+
+* `square meters to square feet`
+
+* `acres to square feet`
+
+* `acres to sqft`
+
+* `sqm to sqft`
+
+* `how many square feet in an acre`
+
+* `calculate square footage`
+
+* `square footage`
+
+* `how to calculate square footage`
+
+* `how to measure square footage`
+
+* `square footage formula`
+
+
+
+- [X]  210 - area conversion
+- [X]  906 - triangle
+- [X]  753 - circle
+- [X]  483 - paint calculator
+- [ ]  844 - board foot (volume)
+- [X] 1114 - area of a polygon
+- [ ]  177 - body surface area
+
+

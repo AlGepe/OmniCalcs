@@ -1,0 +1,83 @@
+Square footage calculator is an easy tool that enables its users to calculate an area in square feet as well as perform conversion such as finding out how many square feet are in an acre. In this article, we are going to explain how to calculate square footage and understand the square footage formula. Moreover, we will instruct you on how to find the square footage given the area in some other units, that includes converting square inches to square feet, sqm to sqft (square meters to square feet) and acres to sq ft (acres to square feet) amongst others. In fact, we're feeling so generous we will even talk about how to measure square footage of a house.
+
+## What is a square foot?
+
+A square foot or _sqft_ is an imperial unit of area that is widely used in the United States, Canada and also China and United Kingdom. Its symbol is a simple square with a vertical line bisecting it, commonly used in many branches like architecture, real estate, and interior space plans. It may also be occasionally written as a square with a slash through it. Its abbreviation is commonly written as **sqft** or sq ft.
+
+<img src='https://uploads-cdn.omnicalculator.com/images/Al_plans.jpg' width='700' alt="calculate square footage"> </img>
+
+As a unit of area it has a magnitude equivalent to the area of a square of side 1 foot. This size makes it helpful to talk about the area size of common everyday objects such as a house (typically 500-1000 sq ft), a room (~100 sq ft) and even an A4 piece of paper (0.65 sq ft) without having to use either very big or very small numbers. There exist, obviously, other area units that can express the same magnitude as the sq ft and might even be more suitable for very small objects (like the square inch) very big objects (like the acre) or simply to communicate with the rest of the world by using the standardized SI units (whose default unit of area is the square meter). 
+
+We will see in a moment how to convert from square meters to square feet, from square inches to square feet, etc... But for now let us talk about some situations in which you might want to calculate square footage of something by using a simple square footage formula. This situations include selling, leasing, renting or buying a house or a room; building a shed or a garage for your car; or maybe even when painting a room. In all this situations this square footage calculator will help you, though for the later of the three we recommend looking at our <portal cid=483>paint calculator</portal>. 
+
+## Calculate square footage (sq ft) from other units (sqm to sqft, square inches to square feet, acres to square feet...)
+
+Let's now see how to calculate square footage when you already know the area in different units. This is the most simple usage of the square footage calculator. To use this conversion feature you could use the <portal cid="210">area conversion</portal> tool on this website or simply follow the next steps:
+
+1) On the square footage calculator find the `Area` tab and select the units you want to convert from.
+1) With the correct (_"from"_) units selected, you can now enter the value of the area in those units.
+1) Click again on the unit switcher and select square feet (sq ft)
+1) Automatically the calculator will show the value in sq ft
+ 
+Applying this method it is also possible to convert in the other direction i.e. from a different unit like square meters to square feet. We will now show some examples of conversions from and to square footage. 
+
+For example, we might want to know how big a 100 m<sup>2</sup> or sqm is in sq ft. So we would convert from sqm to sqft and find out the square footage of that house, which incidentally is:
+* `100sqm * 10.764 sqft/sqm = 1076.391 sqft`
+ 
+The procedure to convert from square inches to square feet or from acres to sq ft is the same as converting from square meters to square feet so we will show some examples include how to find out the simplest of conversions: how many square feet in a acre.
+
+* `1 acre * 43 560 sqft/acre = 43 560 sq ft`
+* `30 sq in * 0.00694 sqft/sqin = 0.208333 sq ft`
+
+Intuitively, this process can also be done in reverse so that we can not only find square footage values given other units but also find out the value in any units of a given square footage.
+
+## How to calculate areas and what is the square footage formula?
+
+Technically it is not correct to ask for a _square footage formula_ and we should rather talk about _area formula_ but as long as we understand that a square footage formula is just a way to say that we will take a area formula and apply it using square feet, I think we can all agree the precise technical term doesn't matter that much. 
+
+The square footage formula is different depending on the object of which we want to calculate the area. The simplest and most common case is the square or, more generally, the rectangle.For this polygon the formula is as simple as taking the length of two consecutive sides in feet and multiplying them together. Since we are working with a rectangle we know that taking two consecutive sides it's the same as taking the height and the width of it. If we name these two side A and B, the other two necessarily have to have the same dimensions as A and B, respectively.
+
+<img src='https://uploads-cdn.omnicalculator.com/images/Al_areaRectangle.png' width='700' alt="calculate square footage"> </img>
+
+* `Square_footage = length_A * length_B`
+
+This might sound like a very mathematical formula but it is exactly how to measure the square footage of a rectangular room in real life. We would just need to measure two consecutive sides in feet and multiply the values together. This square footage formula is in fact the same as the one used in the <portal cid=749>area of a rectangle calculator</portal> but use to find square footage instead of calculating polygons.
+
+ Not all rooms are perfect squares of rectangles so then it becomes more tricky to calculate square footage in such a situation. If the room is almost rectangular, one can get a pretty good approximation just by pretending it is rectangular and performing a similar calculation as we have seen before. But when the shape of the room (or whatever you want to measure) is far from rectangular we definitely recommend using the corresponding _*Omni*_ calculator for that shape, be it a <portal cid=906>triangle area calculator</portal>, the <portal cid=752>area of a circle calculator</portal>, or any other shape.
+ 
+ Note that these calculators for geometrical shapes can calculate the areas in almost any unit you'd deserve. This means that you can convert from acres to sq ft to square meters to square feet again... Using the same procedure that we have described above.
+ 
+ ## How to calculate square footage pricing
+ 
+Once again we tackle a very common issue that despite the complications that might arise in real life has some rather simple maths underlying in our case. The calculations of square footage pricing is mathematically the simple division of the price of a certain property by its total square footage. In everyday life this value changes greatly depending on factors such as location of the property, intended or potential use... But it is nonetheless a useful quantity to evaluate the value of a certain house or property.
+
+<img src='https://uploads-cdn.omnicalculator.com/images/Al_house.jpg' width='700' alt="calculate square footage"> </img>
+ 
+Before we talk a bit more about the usefulness of this measurement, let's take a look at how we can use this calculator to our advantage when the square footage pricing comes into play. For this part we need to use the last 3 boxes in _Advanced Mode_. The area should be already calculated from the previous steps or can also be input by the user. Then either the price per sq ft or the total cost should be provided by the user to obtain the other value. Let's look at a complete example:
+
+1) [optional] Input the size of the property's (or property chunk's) width and length in your desired units
+1) [optional] Input the number of properties/chunks of the property with the size input above
+1) Click the button: `Advanced Mode`
+1) [only if you didn't follow the first 2 steps] input the total area in your desired units
+1) Input the total pricing of the property
+1) Obtain the square footage pricing as dollars (or your local currency) per sq ft
+
+This is an example of one the simplest use-case scenarios but it is very representative of the typical uses for the advance mode of this square footage calculator. We think that it is important not only to know how to calculate square footage or how to measure square footage but also it's helpful to know what you can do with those values once you get them. 
+
+When it comes to square footage pricing it's usefulness resides on the fact that allows to compare properties (mostly houses) with different sizes and prices. It's the equivalent to *performance per dollar* charts of computer parts, for example. In this manner one could compare a 1500 sq ft with a 500 sq ft and know which one represent a better real state option, looking beyond just the price or the size of them. In fact this can be used with any other area unit with or without converting from square meters to square feet or acres to square feet, every time we want to do a fair comparison.
+
+## How to measure square footage of a house or property
+
+We have touched previously on how to calculate and measure square footage in simple situation like a rectangular room/house or a circular, triangular... But there are situation in which the shape of the property we want to measure square footage from is a bit more complicated than that. In those cases there are two options: _(1)_ using the <portal cid=1114> area of a polygon calculator</portal> and other similar calculators by Omni (we can recommend the <portal cid=574>hexagon calculator</portal>, <portal cid=569>octogon area calculator</portal> or _(2)_ get creative as we're gonna see now. 
+
+<img src='https://uploads-cdn.omnicalculator.com/images/Al_polygons.png' width='700' alt="Decomposing one complex polygon into many simple ones"> </img>
+
+For very complicated and irregular shapes there is no simple recipe for how to measure square footage of a house  using just one tool. But we can use a simple trick to achieve the result. We can try to decompose the item into small regular pieces that have an regular shape for which we can calculate square footage. To each of those pieces we apply the square footage formula corresponding to its polygonal shape (using different omni calculators will prove useful here). If we then add up the result from every piece, we will obtain the total square footage of the house no matter its shape. 
+
+There is a chance that the house will have rounded corners of curvy shapes (they are very popular nowadays) and this might seem impossible to do. But in reality one can get a very good approximation using a straight line that goes in the middle of the curved ones or, if we want to be more precise, many small polygons; it will not be a perfect job, but it can be as precise as one needs.
+
+## Final remarks about square footage
+
+If you live in North America or one of the other few countries that still uses the Imperial system, talking about square footage of things might be natural, but it is important to remember that most of the countries in the world use the metric system, which measures are in square meters. Having a basic, approximate idea of what the conversion from square meters to square feet is can prove valuable in communications across different countries. A good "ball park" value that's easy to remember is that `10 sqft ~ sqm` so to convert from sqm to sqft we just need to add a zero at the end of the number.
+
+Another important thing to remember is that, although the sound very similar, a *board foot* is not a unit of area but rather a unit of volume, so there is no conversion possible between them and the are not equivalent by any means. So even though _how many acres in a square feet?_ is a valid (yet grammatically handicapped) question to ask, asking _how many board feet in a square foot?_ is like saying how many tables in a swimming pool. But, if you wish to know more about board feet or you feel like calculating some volumes for fun (don't judge, there's people for everything), then feel free to check the <portal cid=844>board foot calculator</portal>.
