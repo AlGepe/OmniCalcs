@@ -67,7 +67,7 @@ Of all the special right triangles, probably the most special of them all is the
 
 This right triangle is the kind of triangle that one obtains when one divides a square by its diagonal, which is why both cathetus (sides of the square) are of equal length. For those interested in knowing more about the most special of the special right triangles we recommend checking out the <portal cid=1076> 45 45 90 triangle calculator</portal> made for this purpose.
 
-Another very interesting triangle from the group of special right triangles is the so-called "30 60 90" triangle. The name comes from having one right angle (90º)and then one angle of 30º and another of 60º. This angles are special because of the values of their trigonometric functions (cosine, sine, tangent...). The consequences of this can be seeing and understood in the <portal cid=1077>30 60 90 triangle calculator </portal> but for those too lazy to click the link we will summarise some of them here. Assuming that the shorter side is of length a the triangle follows:
+Another very interesting triangle from the group of special right triangles is the so-called "30 60 90" triangle. The name comes from having one right angle (90º)and then one angle of 30º and another of 60º. This angles are special because of the values of their trigonometric functions (cosine, sine, tangent...). The consequences of this can be seeing and understood in the <portal cid=1077>30 60 90 triangle calculator </portal> but for those too lazy to click the link we will summarise some of them here. Assuming that the shorter side is of length `a` the triangle follows:
 
 1) the second leg is equal to `a√3`
 1) the hypotenuse is `2a`
@@ -75,6 +75,14 @@ Another very interesting triangle from the group of special right triangles is t
 1) the perimeter equals `a(3 + √3)`
 
 ## Right angled triangles and parallelograms
+
+It might seem at first sights that a right triangle and a parallelogram do not have anything in common. How can a triangle solver help with understanding a parallelogram? The reality is that any parallelogram can be decomposed in 2 or more right triangles. Let's take the example of the rectangle which is the easiest one to see it. 
+
+Imagine a rectangle, any rectangle; now imagine to trace one of the diagonals of this rectangle (you can learn more about this on the <portal cid=1094>diagonal of a rectangle calculator</portal>). If we take a look now and separate the rectangle by the diagonal what we obtain is two right angled triangles. Looking at the triangles there is no need to use the right triangle calculator to see that both are equal, so their areas will be the same. This means that the area of the rectangle is double that of each of the rectangles.
+
+If we think about the equations it makes all the sense since the <portal cid=749>area of a rectangle</portal> of sides `a` and `b` is exactly: `area = a * b` whilst for the right triangle is: `area = base * height / 2` which in this case would mean `area = a * b /2` which is exactly what we already saw by just cutting the rectangle by the diagonal.
+
+This was the simple example of a rectangle, but the same is applicable to the <portal cid=1085>area of a square</portal> in exactly the same way. For other parallelograms the process becomes a bit more complicated (it might involve up to 4 right triangles of different size) but with a bit of skill one can use the same idea and calculate the <portal cid=933>area of a parallelogram</portal> using right angled triangles, or you can be more efficient even and just use our calculator.
 
 ## Shadows and right triangles (radius of the Earth)
 
