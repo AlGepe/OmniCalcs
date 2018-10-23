@@ -1,4 +1,4 @@
-The right triangle calculator will determine the length of any side of a right triangle given the other two sides. It will also calculate the area of the triangle. The hypotenuse calculator is also useful for solving right triangles. We will answer the questions on how do we find the hypotenuse and how to find the area of a right triangle in the upcoming sections.
+The right triangle calculator will help you find the length of the sides in a right angled triangle. This triangle solver will also help you find the area of a right triangle as well as give plenty of information about the practical uses of a right triangle.
 
 ## Hypotenuse calculator
 
