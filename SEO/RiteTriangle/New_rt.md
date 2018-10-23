@@ -1,17 +1,33 @@
 The right triangle calculator will help you find the length of the sides in a right angled triangle. This triangle solver will also help you find the area of a right triangle as well as give plenty of information about the practical uses of a right triangle.
 
+## What is a right triangle (or right angled triangle)?
+
+First things first, let's explain what a right triangle is. The definition is very simple and might even seem obvious for those who already know it: a right angled triangle is a triangle that has one angle with the exact value of 90º. The rest of the angles will clearly be smaller than the right angle because the sum of all angles in a triangle is always 180º
+
+This right angle also allows to define the sides of a right triangle in a special way. The side opposing the right angle is always the biggest in the triangle and receives the name of hypotenuse. The other two sides are called cathetus. The relationship between the hypotenuse and the cathetus is a very simple one as we will see when we talk about Pythagoras' theorem 
+
 ## Hypotenuse calculator
 
-<portal cid="1098">The hypotenuse calculator</portal> solves for the longest side of the right triangle, known as the hypotenuse. This side is opposite the right angle is can be solved by using the Pythagorean theorem and solves for the hypotenuse. In a right triangle with legs `a` and `b` with hypotenuse `c`, the equation used is `a² + b² = c²`. To solve for `c` take the <portal cid="151">square root</portal> of both sides to get `c = √b²-a²`. This extension of the Pythagorean theorem is not given the name "hypotenuse formula". The <portal cid="53">Pythagorean theorem calculator</portal> is also an excellent tool for calculating the hypotenuse.
+If all one wants to calculate is the hypotenuse of a right triangle, this page and its right triangle calculator will work just fine. However we would recommend also to use the specific tool we have developed at Omni: <portal cid="1098">The hypotenuse calculator</portal>. This side is opposite the right angle and can be solved by using the Pythagorean theorem. In a right triangle with cathetus `a` and `b` with hypotenuse `c`, Pythagoras' theorem states that: `a² + b² = c²`. 
 
-For example, legs of the right triangle are `4` and `7`. What is the hypotenuse? 
+To solve for `c` take the <portal cid="151">square root</portal> of both sides to get `c = √b²-a²`. This extension of the Pythagorean theorem is not given the name "hypotenuse formula". The <portal cid="53">Pythagorean theorem calculator</portal> is also an excellent tool for calculating the hypotenuse.
 
-1. Insert `a` and `b` into the hypotenuse calculator equation.
+Let's see now a practical example of what it would take to calculate the hypotenuse of a right triangle without using any of the calculators available at Omni:
+
+1. Obtain the values of `a` and `b`
 1. Square `a` and `b`.
-1. Evaluate `a² + b²`
-1. Take the square root to solve for `c`. 
+1. Sum up both values: `a² + b²`
+1. Take the square root of the result. 
 1. The square root will yield a positive and negative result. Since we are dealing with length, disregard the negative result.
-1. The right triangle calculator is suggested to check the answer.
+1. The resulting value is the value of the hypotenuse `c`
+
+
+Now let's see what the process would be using one of Omni's calculator, for example the right triangle calculator in this webpage:
+
+1) Insert the value of `a` and `b` into the calculator
+1) Obtain the value of `c` immediately
+1) As a bonus you will get the value of the area for such a triangle.
+
 
 ## How to find the area of a right triangle
 
