@@ -6,17 +6,17 @@ Any line in a flat plane can be described mathematically as a relationship betwe
 
 In this slope intercept form calculator we will focus only on the straight line, but those interested in knowing more about the parabolic function should not worry. We have two special calculators dedicate to such an equation, namely the <portal cid="485">Parabola calculator</portal> and the <portal cid="486">Quadratic formula calculator</portal> in which everything about this type of functions is explained in detail.
 
-Linear equations, or straight line equations, can be recognized by having no terms with exponents on them. (For example, you will find an **x** or a **y**, but never an **x²**.) Each linear equation describes a straight line.
+Linear equations, or straight line equations, can be recognized by having no terms with exponents on them. (For example, you will find an `x` or a `y`, but never an `x²`.) Each linear equation describes a straight line.
 
-You can present the equation of any line in the form of `y = mx + b`. This is the so-called slope intercept form, because it gives you two important informations: about the slope **m** and the y-intercept **b** of the line. You can use these values for <portal cid="486">linear interpolation</portal> later.
+As we have seen before, you can write the equation of any line in the form of `y = mx + b`. This is the so-called slope intercept form, because it gives you two important pieces of information: the slope `m` and the y-intercept `b` of the line. You can use these values for <portal cid="486">linear interpolation</portal> later.
 
-**Slope** is the inclination, or gradient, of a line. If it is positive, the values of **y** increase with increasing **x**; if it is negative, **y** decreases with an increasing **x**. You can read more about it in the description of our <portal cid="184">slope calculator</portal>.
+The term `slope` is the inclination, or gradient, of a line. It tells us how much `y` changes for a fixed change in `x`. If it is positive, the values of `y` increase with increasing `x`; if it is negative, `y` decreases with an increasing `x`. You can read more about it in the description of our <portal cid="184">slope calculator</portal>.
 
-**Y-intercept** is the value of **y** at which the line crosses the y-axis. To find it, you have to substitute an x = 0 to the linear equation. 
+`Y-intercept` is the value of `y` at which the line crosses the y-axis. To find it, you have to substitute an x = 0 to the linear equation. We will see later how the y-intercept is an important parameter in linear equations and we will also see the physical meaning of its value in certain real-world examples.
 
 ## Slope intercept formula derivation
 
-How to find the slope intercept form of a linear equation, then? We will assume you know two points that the straight line goes through. The first one will have coordinates (x₁, y₁) and the second one (x₂, y₂). Your unknowns are the slope **m** and the y-intercept **b**.
+How to find the slope intercept form of a linear equation, then? We will assume you know two points that the straight line goes through. The first one will have coordinates (x₁, y₁) and the second one (x₂, y₂). Your unknowns are the slope `m` and the y-intercept `b`.
 
 Firstly, substitute the coordinates of the two points into the slope intercept equation:
 
