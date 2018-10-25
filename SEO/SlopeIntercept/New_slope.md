@@ -1,6 +1,10 @@
-The slope intercept form calculator tells you how to find the equation of a line for any given two points that this line passes through. It will help you find the coefficients of slope and y-intercept, as well as the x-intercept, using the slope intercept formulas. Read on to learn what is the slope intercept form of a linear equation.
+The slope intercept form calculator tells you how to find the equation of a line for any two points that this line passes through. It will help you find the coefficients of slope and y-intercept, as well as the x-intercept, using the slope intercept formulas. Read on to learn what is the slope intercept form of a linear equation.
 
 ## What is the slope intercept form
+
+Any line in a flat plane can be described mathematically as a relationship between the vertical (y-axis) and horizontal (x-axis) position of each of those points. This relation can be written as `y = [something with x]`, and the specific form of `[something with x]` will determine what kind of line we have. For example `y = x^2 + x` is a parabola, also called a quadratic function. On the other hand `y = mx + b` (with `m` and `b` representing any number) is the relationship of a straight line.
+
+In this slope intercept form calculator we will focus only on the straight line, but those interested in knowing more about the parabolic function should not worry. We have two special calculators dedicate to such an equation, namely the <portal cid="485">Parabola calculator</portal> and the <portal cid="486">Quadratic formula calculator</portal> in which everything about this type of functions is explained in detail.
 
 Linear equations, or straight line equations, can be recognized by having no terms with exponents on them. (For example, you will find an **x** or a **y**, but never an **x²**.) Each linear equation describes a straight line.
 
@@ -39,11 +43,11 @@ Once you have found the slope, you can substitute it into the first or second eq
 This slope intercept form calculator allows you to find the equation of a line in the slope intercept form, if all you have given are two points that the line goes through. You need to follow the procedure outlined below.
 
 1. Write down the coordinates of the first point. Let's assume it is a point with x₁ = 1 and y₁ = 1. 
-2. Write down the coordinates of the second point as well. Let's take a point with x₂ = 2 and y₂ = 3.
-3. Use the slope intercept formula to find the slope: `m = (y₂ - y₁)/(x₂ - x₁) = (3-1)/(2-1) = 2/1 = 2`.
-4. Calculate the y-intercept: `b = y₁ - m * x₁ = 1 - 2*1 = -1`. You can also use x₂ and y₂ instead of x₁ and y₂ here.
-5. Put all these values together to construct the slope intercept form of a linear equation: `y = 2x - 1`.
-6. You can also use the <portal cid="144">distance calculator</portal> to find the distance between the two points.
+1. Write down the coordinates of the second point as well. Let's take a point with x₂ = 2 and y₂ = 3.
+1. Use the slope intercept formula to find the slope: `m = (y₂ - y₁)/(x₂ - x₁) = (3-1)/(2-1) = 2/1 = 2`.
+1. Calculate the y-intercept: `b = y₁ - m * x₁ = 1 - 2*1 = -1`. You can also use x₂ and y₂ instead of x₁ and y₂ here.
+1. Put all these values together to construct the slope intercept form of a linear equation: `y = 2x - 1`.
+1. You can also use the <portal cid="144">distance calculator</portal> to find the distance between the two points.
 
 ## x-intercept and y-intercept
 
@@ -54,3 +58,13 @@ You can also find the x-intercept of the line. It is the value of x at which the
 `x = -b/m`
 
 Our slope intercept calculator will display the values of x-intercept and y-intercept for you.
+
+## Real world use cases of y-intercept and x-intercept (kelvin scale)
+
+## Other equations with y-intercept
+
+## Equations with NO why intercept (asymptote)
+
+## The importance of slopes and linear equations (derivatives)
+
+## Using the y-intercept to reconstruct the past (car moving cte speed example)
