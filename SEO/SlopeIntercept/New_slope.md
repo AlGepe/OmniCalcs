@@ -79,6 +79,12 @@ However, unlike humans, not all equations are equal. Some of the formulas descri
 
 ## Equations with NO why intercept (asymptote)
 
+We can distinguish 3 groups of equations depending on whether they have y-intercept only, x-intercept only or none of them. In the first group (only y intercept) we can have almost any type of equation, including linear equations. A good easy example is `y = 3` (or any other constant value of y except for `0`) since this is a line parallel to the x-axis and will, thus, never cross or intercept it.
+
+The second and third group of equations are a bit more tricky to imagine and to understand them well we need to introduce the concept of an **asymptote**. An asymptote is a line (can be expressed as a linear equation) to which the function or curve we are talking about gets closer and closer but that it never crosses or touches.
+
+
+
 ## The importance of slopes and linear equations (derivatives)
 
 ## Using the y-intercept to reconstruct the past (car moving cte speed example)
