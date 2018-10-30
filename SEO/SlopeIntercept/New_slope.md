@@ -63,9 +63,19 @@ Our slope intercept calculator will display the values of x-intercept and y-inte
 
 To understand why the slope intercept form is so useful and what kind of applications it can have in the real world, let's see a couple of examples. Let us start with simple ones from physics, so that you can get an intuitive idea of what the y-intercept and x-intercept mean.
 
-Imagine we have a car moving at a certain speed. We can plot this movement as the time versus the distance from the car to us. This means that the x-axis will represent the time passed and the y-axis will tell us about the distance to the car. We can even imagine the car having started to move before we started the timer (so before t=0).
+Imagine we have a car moving at a certain speed. We can plot this movement as the time versus the distance from the car to us. This means that the x-axis will represent the time passed and the y-axis will tell us about the distance to the car. We can even imagine the car having started to move before we started the timer (so before `t=0`).
+
+Now if we look at the y-intercept (`x = 0`) it is the point at which we started to keep track of time (`t=0`). And so, the value of `y` will tell us the position (distance) of the car with respect to us. This value is, like we have discussed before, the same as the value of `b` in the slop intercept form of a straight line equation.
+
+Looking now at the x-intercept (`y=0`) this will be the point at which the distance from the car to us will be `0`. Then the value of `x` at this point will be the time when we and the car where at the same place. Let's hope that means we were inside the car, and not under.
 
 ## Other equations with y-intercept
+
+The example above is a very simple one that should help you understand why the slope intercept form is important and more specifically, the meaning of the `x/y -intercept`. In this article we are mostly talking about straight line, but the intercept points can be calculated for any kind of curve.
+
+In fact the example above does not require a linear equation and would be the same for a parabola or any other shape, except for the slope intercept form which might have other names(if any at all).
+
+However, unlike humans, not all equations are equal. Some of the formulas describe curves that might never intercept the x-axis, or the y-axis or both. Let's see in a bit more detail how this can be.
 
 ## Equations with NO why intercept (asymptote)
 
