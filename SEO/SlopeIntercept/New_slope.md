@@ -61,6 +61,10 @@ Our slope intercept calculator will display the values of x-intercept and y-inte
 
 ## Real world use cases of y-intercept and x-intercept (kelvin scale)
 
+To understand why the slope intercept form is so useful and what kind of applications it can have in the real world, let's see a couple of examples. Let us start with simple ones from physics, so that you can get an intuitive idea of what the y-intercept and x-intercept mean.
+
+Imagine we have a car moving at a certain speed. We can plot this movement as the time versus the distance from the car to us. This means that the x-axis will represent the time passed and the y-axis will tell us about the distance to the car. We can even imagine the car having started to move before we started the timer (so before t=0).
+
 ## Other equations with y-intercept
 
 ## Equations with NO why intercept (asymptote)
