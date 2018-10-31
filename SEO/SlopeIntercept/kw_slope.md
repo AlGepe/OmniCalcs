@@ -22,8 +22,8 @@
  144 - distance calculator
  184 - slope calculator
  486 - linear interpolation calculator
- [] 700 - perpendicular line
- [] 463 - chi square
+ 700 - perpendicular line
+ 463 - chi square
  485 - parabola
  486 - Quadratic formula
  [] 206 - temperature conversion

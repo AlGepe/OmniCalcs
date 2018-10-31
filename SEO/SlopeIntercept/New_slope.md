@@ -100,7 +100,15 @@ Before we move to our next topic it is important to note that we have made extre
 
 One could easily think that the usefulness of linear equations is very limited due to their simplicity. However the reality is a bit different, linear equations are at the core of some of the most powerful methods to solve minimization/optimization problems.
 
-The
+Minimization problems are a type of problem in which one would like to find how to make one of the variables as small as possible. This variable could be for example the difference between a prediction made by a model and the reality. This kind of problems are one of the most common ones and are at the core of machine learning and scientific experiments.
+
+One of the most common and powerful methods to find the minimum value of an equation or formula is the so-called **Newton Method**, named after the genius that invented it. The way it works is by using derivatives, linear equations and x-intercepts. 
+
+This method consists on choosing a value of `x` for the equation and calculating the derivative of the equation at that point. Using the derivative as the slope of a linear equation that passes through that exact `(x, y)` point the x-intercept is then calculated. This is one of the situations in which the slope intercept form comes in handy.
+
+Once the x-intercept is calculated, that value of `x` is used to repeat the process above until we arrive at a value of `y` that is minimum (which means that the derivative will be `0`). In real life arriving at the exact minimal point is not possible to do in a finite amount of time, so typically people will settle for a 'close enough' value.
+
+One very common example is when using the <portal cid=463> Chi Square</portal> method to fit some data to a formula or trend. In this case the value that we want to minimize is the sum of the squared distanced from the trend line to the data points. Where the distance is calculated along a <poral cid=700>Perpendicular line</portal> form the point to the trend line.
 
 
 
