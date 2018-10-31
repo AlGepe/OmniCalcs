@@ -75,6 +75,9 @@ The example above is a very simple one that should help you understand why the s
 
 In fact the example above does not require a linear equation and would be the same for a parabola or any other shape, except for the slope intercept form which might have other names(if any at all).
 
+One equations that is guaranteed to have a y-intercept but not necessarily an x-intercept is the <portal cid=485>Parabola</portal>. This is an equation with the same shown in the image. It has a maximum (or a minimum depending on the orientation) and if this maximum (minimum) is below (above) the x-axis there will never be an x-intercept.
+
+
 However, unlike humans, not all equations are equal. Some of the formulas describe curves that might never intercept the x-axis, or the y-axis or both. Let's see in a bit more detail how this can be.
 
 ## Equations with NO why intercept (asymptote)
@@ -83,8 +86,22 @@ We can distinguish 3 groups of equations depending on whether they have y-interc
 
 The second and third group of equations are a bit more tricky to imagine and to understand them well we need to introduce the concept of an **asymptote**. An asymptote is a line (can be expressed as a linear equation) to which the function or curve we are talking about gets closer and closer but that it never crosses or touches.
 
+The definition might not seem totally clear but if we look at an **example equation**, we will have less problems understanding. Let's take the equation `y = 1/x`. If we try to **find the y-intercept** by substituting `x=0` we arrive at what is called a **mathematically undefined expression** since it makes no sense to divide by `0`. 
+
+If we take values closer and closer to `0` (something like `0.1`, then `0.001`, `0.000001`...) we can see that the vale of `y` increases very rapidly. So around the point `x=0` we know that `y` would have a huge value but because of how maths work it does not have a defined value for that exact point. Sometimes people may say `1/0 = infinity` but the reality is that **infinity is not a number but a concept**.
+
+In this case the linear equation `x = 0` represents the asymptote of the function `y = 1/x` which means that `y = 1/x` will never intercept that line and thus, will not have a y-intercept. In general any time that a function has an asymptote that corresponds with one of the axis, it will be missing at least one of the intercepting points.
+
+In fact the example we have shown with `y = 1/x` has also an asymptote for `y=0`, i.e.: the x-axis. For the same reason as before `y=0` is never achievable by the formula because it would require `x=infinite` and as we said before it is impossible to achieve that since infinity is a concept and not a number.
+
+Before we move to our next topic it is important to note that we have made extreme over-simplifications when talking about infinity, but we feel is a good and fast approach for those not used to the concept of working with infinity in maths. For those keen in learning more about _the proper ways of the infinity_ we do recommend to do so, maybe starting with the <a href=https://en.wikipedia.org/wiki/Undefined_(mathematics)>undefined expressions in maths</a> and following form there.
+
+## Intercepts and linear equations to solve the most important problems in the world
+
+One could easily think that the usefulness of linear equations is very limited due to their simplicity. However the reality is a bit different, linear equations are at the core of some of the most powerful methods to solve minimization/optimization problems.
+
+The
 
 
-## The importance of slopes and linear equations (derivatives)
 
-## Using the y-intercept to reconstruct the past (car moving cte speed example)
+## Using the x-intercept to define temperature
