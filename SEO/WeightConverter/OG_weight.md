@@ -1,23 +1,25 @@
 Weight conversion enables smooth change between units the weight (or mass) is expressed in. Available units for weight conversion include both imperial and metric units:
 
-* microgram (µg) - 1 millionth of a gram
-* milligram (mg) - 1 thousandth of a gram
-* gram (g)
-* kilogram (kg) - 1 thousand grams, but a kilogram is a default unit in the metric system
-* metric ton (t) - 1000 kilograms
-* grain (gr) - 1/7000 of a pound
-* drachm (dr) - 1/16 of an ounce, 1/256 of a pound
-* ounce (oz) - 1/16 of a pound
-* pound (lb) - basic unit in the US
-* stone (st) - 14 pounds. Often used to quote a person's weight in English-speaking countries. A plural form is also "stone".
-* US ton, also called a short ton - 2000 pounds
-* long ton, used in US - 2240 pounds
+* `microgram (µg)` - 1 millionth of a gram
+* `milligram (mg)` - 1 thousandth of a gram
+* `gram (g)`
+* `kilogram (kg)` - 1 thousand grams, but a kilogram is a default unit in the metric system
+* `metric ton (t)` - 1000 kilograms
+* `grain (gr)` - 1/7000 of a pound
+* `drachm (dr)` - 1/16 of an ounce, 1/256 of a pound
+* `ounce (oz)` - 1/16 of a pound
+* `pound (lb)` - basic unit in the US
+* `stone (st)` - 14 pounds. Often used to quote a person's weight mostly in the UK and Ireland.
+* `US ton, also called a short ton` - 2000 pounds
+* `long ton, used in US` - 2240 pounds
 
-To quickly look up values between main units feel free to use weight conversion chart below. Other similar tools include <portal cid="204">density calculator</portal> used for calculating density in different units or similar tool to weight conversion - <portal cid="208">length conversion</portal>.
+To quickly look up values between main units feel free to use weight conversion chart below. Conversion charts and conversion tables are a very visual way to find the equivalence between different units of any magnitude, not only weight. For example there exists similar conversion tables for length like on our own <portal cid="208">length conversion tool</portal>, <portal cid="206">temperature conversion tool</portal> or the <portal cid="205">density converter</portal> to name a few.
+
+For a full list of conversion tools from Omni you can visit the <a href="https://www.omnicalculator.com/conversion">Omnicalculator Converter section</a>.
 
 ## Weight conversion chart
 
-To quickly find values expressed in multiple units you can use one of the countless weight conversion charts (known also as weight conversion tables) available on the web. Below we attach probably the most standard weight conversion chart available which compares between kilograms, ounces, pounds and stones.
+To quickly find values expressed in multiple units you can use our weight conversion charts (known also as weight conversion tables) that can be created in this web page. Below we attach probably the most standard weight conversion chart available which compares between kilograms, ounces, pounds and stones, making it easy to convert from kg to lbs (and back from lbs to kg), from kg to ounces...
 
 <table>
 <thead><tr><th>Kilograms</th><th>Ounces</th><th>Stones</th><th>Pounds</th></tr></thead><tbody>
@@ -42,8 +44,8 @@ To quickly find values expressed in multiple units you can use one of the countl
  <tr><td>100</td><td>3527.4</td><td>15.747</td><td>220.46</td></tr>
 </tbody></table>
 
-<later>Other common weight conversion charts include those comparing grams and ounces, kilograms and pounds, pounds and grams or tons and stones. Tables will vary depending on countries and systems in use.</later>
+<later>Other common weight conversion charts include those conversion from grams to ounces, kilograms to pounds (kg to lbs), pounds to grams, tons to stones... And the other way arounf: pounds to kilograms (lbs to kg), ounces to grams... Tables will vary depending on countries and measuring systems used.</later>
 
 ## How to build a weight conversion table?
 
-The table above includes only 4 out of 12 units we have available in this weight conversion tool. To build your own simply choose the desired units from the drop-down menus and type in any of the values. The tool will return results in real time in each of the other 3 units. <later>Weight conversion between metric units is quite basic and for regular numbers can be performed without any table - e.g. 1 kilograms = 1000 grams or 1 ton equals 1000 kilograms. Things get a bit more complicated when using the imperial system. Here for example 1 stone = 14 pounds which equals 224 ounces.</later><later>Conversion between systems requires using a calculator above, as 1 kilogram = 35.274 ounces, 0.15757 stones and 2.2046 pounds. Try building the weight conversion table with the calculator in any configuration you desire.</later>
+The table above includes only 4 out of 12 units we have available in this weight conversion tool. To build your own simply choose the desired units from the drop-down menus and type in the desired values. The tool will return results in real time in each of the other 3 units. <later>Weight conversion between metric units is quite basic and for regular numbers can be performed without any table - e.g. 1 kilograms = 1000 grams or 1 ton equals 1000 kilograms. Things get a bit more complicated when using the imperial system. Here for example 1 stone = 14 pounds which equals 224 ounces.</later><later>Conversion between systems requires using a calculator above, as 1 kilogram = 35.274 ounces, 0.15757 stones and 2.2046 pounds. Try building the weight conversion table with the calculator in any configuration you desire.</later>

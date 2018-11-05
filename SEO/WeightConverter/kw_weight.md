@@ -1,30 +1,30 @@
-* weight converter
+**weight converter**
 
-* weight conversion chart
+**weight conversion chart**
 
-* weight conversion table
+**weight conversion table**
 
-* weight converter lbs to kg
+**weight converter lbs to kg**
 
-* weight converter kg to lbs
+**weight converter kg to lbs**
 
-* lbs to kg
+**lbs to kg**
           
-* kg to lbs
+**kg to lbs**
 
-* Convert lbs to kg
+**Convert lbs to kg**
 
-* Convert kg to lbs
+**Convert kg to lbs**
 
-* Convert pounds to kg
+**Convert pounds to kg**
 
-* Convert kg to pounds
+**Convert kg to pounds**
 
-* is weight a force
+**is weight a force**
 
-* weight
+**weight**
 
-* how to gain/lose weight
+**how to gain/lose weight**
 
 
 [] 65 - size to weight
@@ -32,8 +32,6 @@
 [] 123 - leand body mass
 [] 129 - Pizza comparison
 [] 204 - density calculator
-[] 205 - density conversion
-[] 208 - length converter?
 [] 226 - ideal weight calculator
 [] 231 - how many calories should I eat /food calories
 [] 232 - army body fat calculator
@@ -60,5 +58,9 @@
 [] 1159 - running for weight loss
 [] HEALTH CALCULATORS IN GRAL
 [] SPORTS CALCULATORS IN GRAL
+CONVERSION TOOLS IN GENERAL
+205 - density conversion
+206 - temperature conversion
+208 - length converter
 
-TARGET WC: 3000
+TARGET WC: 3300
