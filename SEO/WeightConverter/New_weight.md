@@ -6,7 +6,7 @@ Before we begin talking about weight units and how to convert between them, we n
 
 <p style="text-align:center;"><img src="https://imgs.xkcd.com/comics/technically.png" alt="funny joke about pedantic people" style="width:60%" align="center"> </p>
 
-What we normally call __"weight"__ in our everyday life is technically referred to as `Mass` and it measures the amount of matter in an object. Because the <portal cid="438">gravitational force</portal> that the Earth exerts on us is effectively constant, **we can utilise mass and weight almost interchangeably** by just multiplying or diving by the gravitational field on the surface of the Earth `g`.
+What we normally call __"weight"__ in our everyday life is technically referred to as `Mass` and it measures the amount of matter in an object. Because the <portal cid="438">gravitational force</portal> that the Earth exerts on us is effectively constant, **we can utilise mass and weight almost interchangeably** by just multiplying or diving by the gravitational field on the surface of the Earth `g`. If you still wish to know more about the real units of weight, they are the same as force and you can find almost all of them in our <portal cid="1145">force converter</portal> and even play with conversion tables as well.
 
 To avoid confusion or unnecessary complications we will now talk about **mass units referring to them as weight units**, that is **we will adopt the common way of speaking** in stead of the technical one. For those who would like to be more technical and precise we will remind them that an object of `1kg` mass on the Earth will weigh at `9.8N`. But hereafter we will simply say that this object _"weighs 1kg"_.
 
@@ -67,7 +67,7 @@ To quickly find values expressed in multiple units you can use our weight conver
 The table above includes only 4 out of 12 units we have available in this weight conversion tool. To build your own simply choose the desired units from the drop-down menus and type in the desired values. The tool will return results in real time in each of the other 3 units. <later>Weight conversion between metric units is quite basic and for regular numbers can be performed without any table - e.g. 1 kilograms = 1000 grams or 1 ton equals 1000 kilograms. Things get a bit more complicated when using the imperial system. Here for example 1 stone = 14 pounds which equals 224 ounces.</later><later>Conversion between systems requires using a calculator above, as 1 kilogram = 35.274 ounces, 0.15757 stones and 2.2046 pounds. Try building the weight conversion table with the calculator in any configuration you desire.</later>
 
 
-## Different units for weight
+## Understanding a weight converter (weight units explained)
 
 Like with any other magnitude, there are several systems (and units within each system) to measure weight (mass). The most popular and widespread of them is, as always, the **International System and its units: kilogram**, gram, decagram... We will talk in depth about these units later. Another major system of units is the **Imperial System with units such as the pound (lbs)**, ounce (oz)... These are not the only systems/units used in the world, so we will now explain in more detail some of the ost common units.
 
@@ -110,25 +110,39 @@ The second approach (which you can see in the video above) uses **the purest mos
 
 It is important to note that this will not change the actual value of a kilogram or how we convert kg to pounds. It would just **give us a way to re-create a kilogram** (and all other units) even if we lose the reference kilogram, or if we move to a different planet where the conditions might be very different.
 
-## weight and free-fall (w/(o) air resist)
+## Is weight a force? Can we have a mass to weight conversion table?
 
-We have mentioned before that mass and weight are not the same but we can treat them as the same as long as we stay on the Earth. Now we will see a very classical example that will help us see why this is the case. The experiment we will deal with is the famous Galilean free-fall experiment. We will consider the experiment without any air resistance first. 
+We have mentioned before that **mass and weight are not the same but we can treat them as the same** as long as we stay on the Earth. Now we will see a very classical example that will help us see why this is the case. The experiment we will deal with is the **famous Galilean free-fall experiment**. We will consider the experiment without any air resistance first. 
 
-Briefly explained the experiment consists in dropping 2 objects with the same mass/weight from a certain height. In the case where there is no <portal cid="439">force of friction</portal> (air resistance is zero) both objects should land at the same time. To learn more about the experiment itself we recommend checking out our <portal cid="451">free-fall calculator</portal>, since here we will focus on the relationship between force and weight.
+<p style="text-align:center;"><img src="LINK" alt="Galilean free-fall experiment helps understand mass and weight conversion" style="width:60%" align="center"> </p>
 
-The reason we can talk about weight and mass in our daily life is that they are both proportional, let's see that using <portalcid="1170">Newton's second law</portal>. This law states that the **force and mass are proportional to the acceleration** for any one object. `F = m * a` where `F` is the force (for us now is the _weight_), `m` is the mass of the object, and `a` is the acceleration which for a falling object is `g` or the gravitational field.
+Briefly explained the experiment consists in **dropping 2 objects with the same mass/weight from a certain height**. In the case where there is no <portal cid="439">force of friction</portal> (air resistance is zero) both objects should land at the same time. To learn more about the experiment itself we recommend checking out our <portal cid="451">free-fall calculator</portal>, since here we will focus on the **relationship between force and weight**.
 
-The important part of this experiment is that for all objects on the Earth the acceleration downwards will always be the same: `g = 9.8 m/s²`. This means that the weight `F` and the mass `m` are still not the same thing but they are exactly proportional so you can from weight convert into mass and vice versa. A weight conversion chart or a weight conversion table should never (technically) have kg to lbs or pounds to kg conversion, but if we forget about the technicalities we can still talk about forces in kg and mass in pounds without any problem of communication.
+We **avoid talking about the experiment of **<poral cid="711">**free-fall with air resistance**</portal> because in that situation the shape of the objects becomes important. Also you would have to watch out for changes in air density (about which you can learn more on our <portal cid="585">air density calculator<portal>). All this would only take away from the **important factors that we want to talk about: weight, mass and gravity**
 
-Well... That is not totally true. If we move from one planet to another, this start to get a bit more complicated. We will now talk about this scenario which should also help explain the difference between mass and weight in a more clear way.
+The reason we can talk about weight and mass in our daily life is that they are both proportional, let's see that using <portalcid="1170">Newton's second law</portal>. This law states that the **force and mass are proportional to the acceleration** for any one object. `F = m * a` where `F` is the force (for us now is the _weight_), `m` is the mass of the object, and `a` is the acceleration which for a falling object is `g` or the **gravitational field**.
 
-## weight (and free-fall) in other planets 
+<p style="text-align:center;"><img src="LINK" alt="Mass and weight are not the same thing, but similar" style="width:60%" align="center"> </p>
 
-## body weight
+The important part of this experiment is that for all objects on the Earth the **acceleration downwards will always be the same**: `g = 9.8 m/s²`. This means that the weight `F` and the mass `m` are still not the same thing but they are **exactly proportional** so you can from weight convert into mass and vice versa. A weight conversion chart or a weight conversion table should never (technically) have kg to lbs or pounds to kg conversion, but if we forget about the technicalities **we could still talk about forces in kg** and mass in pounds without any problem of communication.
 
-## body weight fat and health
+Well... That is not totally true. If we move from **one planet to another, this start to get a bit more complicated**. We will now talk about this scenario which should also help explain the difference between mass and weight in a more clear way.
 
-## loose weight in body (healthily)
+## A guide on weight and mass for interplanetary travellers
 
-## gain weight in body (healthily)
+We have already seen than **mass and weight are interchangeable if we stay in one planet** like the Earth, because the value of acceleration/gravitational field is always the same. However, when we move from one planet to another the value of `g` will most likely change and so will the relationship between mass and weight. This makes it **impractical to talk about weight in units of mass** (from lbs to kg, through grams and stones) and we need to be more careful about the technicalities. Let's see how this happens.
+
+
+<p style="text-align:center;"><img src="LINK" alt="Weight changes in different planet, but the mass doesn't" style="width:60%" align="center"> </p>
+
+Each planet has a different composition in terms of mass, radius... Which means that the **gravitational acceleration/field will  not be the same** when we move to a different planet. This translates in the same object (with the same mass all the time) will have different weight depending on the planet they are on. If you don't believe me you can see this effect on our <portal cid="347"> weight on other planets calculator</portal> and even make your own weight conversion table. Only it will **convert weight from one planet into another**, in stead of convert pounds to kg or convert kg to lbs.
+
+In **practical terms** this all means that even though the mass of one body does not change depending on the planet, the weight does. So if we would like to keep talking about weight in kilograms we will need to also specify the `g` value on each planet, which **makes it less convenient**. One exception would be if we found a planet with the same size and mass as the Earth. This planet will have the same density (which you can check with our <portal cid="204">density calculator</portal>).
+
+Another instance in which the mass and the **weight can change independently** is when we get submerged in a liquid, such as water. In this case the value of `g` is the same all the time but a **new effect comes into play: buoyancy**. This is the force that a liquid exerts upwards on a body inside of it, so it counters the force called weight. You can learn more about the buoyancy and its properties on our <portal cid="607"> buoyancy calculator</portal>, but you probably already know about this phenomenon under the name of **Arquimedes principle** and the story on how he helped the king spot a counterfeit golden crown just using water.
+
+## Weight of human body obsessions, rules, tricks.... (shameless mega-plug of millions of Omni calculators)
+
+
+
 
