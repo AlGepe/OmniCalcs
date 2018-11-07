@@ -147,15 +147,21 @@ So far we have discussed weight, how to use the weight converter, different weig
 
 From a beauty point of view to the health aspect of it, weight and **body weight is something that matters most of us**. It is such a broad topic that it would take several days worth of reading to cover it, but since you are already here and this topic might matter a lot to you, we will just mention **some key points and resources**. We are confident you will find very helpful information from our <a href="">Health Calculators</a> and also from the calculators in the <a href="">Sports section</a>
 
+As a rule of thumb **more activity and a healthy diet** are always good for your health. If you can, commuting by bike is very healthy for you and for the environment as you can see using our <portal cid="833">Car vs bike</portal> comparison tool. Walking is also advisable, but by far the **best thing you can do for your health is quite smoking, now**. We'll provide you with some help using our <portal cid="378">Smoking recovery calculator</portal> that will show you **how much longer you will live** after making the change.
+
 
 ### Does body weight really matters for your health?
 
 The simple reality of the body weight connection with health is that **only a medical exam can properly tell you**. But short of that (or before you actually take one) there are **several indicators that can help you get an idea** of whether you should be concerned about your health or not. One of the most common ones is the <portal cid="81">BMI indicator</portal> which gives healthy and unhealthy ranges for body weight with respect to height. Alternatively you can learn more about your "ideal weight" using our <portal cid="226"> ideal weight calculator</portal>.
 
-Despite being widely used, BMI is not the _"be all and end all"_ indicator since, for example, many **high level athletes tend to rank "Obese"** in such marker. This is because it doesn't measure the amount of fat in one's body (which is the main risk factor) so that the amount of water in your body (which you can estimate with out <portal cid="777">Water calculator by body weight</portal>) could also affect your BMI as can muscle as well. The **best option is to get a body composition exam** but you can also estimate your <portal cid="123"> lean body mass</portal> using our calculator.
+Despite being widely used, BMI is not the _"be all and end all"_ indicator since, for example, many **high level athletes tend to rank "Obese"** in such marker. This is because it doesn't measure the amount of fat in one's body (which is the main risk factor) so that the amount of water in your body (which you can estimate with out <portal cid="777">Water calculator by body weight</portal>) could also affect your BMI as can muscle as well. 
+
+The **best option is to get a body composition exam** but you can also estimate your <portal cid="123"> lean body mass</portal> using our calculator. And if you can get such a body composition exam, why not compare how you would stack up compared to some elite forces using our <portal cid="232">army body fat calculator</portal>?
 
 ### How to lose weight in a healthy manner
 
 The desire to lose or gain weight comes hand in hand with **caring about your health and physique**, and the only correct to do it is **following professional advice**. However, as we've said before when talking about body weight, there are several broad guidelines that are generally accepted as **healthy ways to lose weight: watch your diet and exercise**. Let's see now some tools that can help you in such endeavour.
+
+
 
 ### How to gain weight in a healthy manner
