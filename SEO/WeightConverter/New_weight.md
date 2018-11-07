@@ -112,6 +112,16 @@ It is important to note that this will not change the actual value of a kilogram
 
 ## weight and free-fall (w/(o) air resist)
 
+We have mentioned before that mass and weight are not the same but we can treat them as the same as long as we stay on the Earth. Now we will see a very classical example that will help us see why this is the case. The experiment we will deal with is the famous Galilean free-fall experiment. We will consider the experiment without any air resistance first. 
+
+Briefly explained the experiment consists in dropping 2 objects with the same mass/weight from a certain height. In the case where there is no <portal cid="439">force of friction</portal> (air resistance is zero) both objects should land at the same time. To learn more about the experiment itself we recommend checking out our <portal cid="451">free-fall calculator</portal>, since here we will focus on the relationship between force and weight.
+
+The reason we can talk about weight and mass in our daily life is that they are both proportional, let's see that using <portalcid="1170">Newton's second law</portal>. This law states that the **force and mass are proportional to the acceleration** for any one object. `F = m * a` where `F` is the force (for us now is the _weight_), `m` is the mass of the object, and `a` is the acceleration which for a falling object is `g` or the gravitational field.
+
+The important part of this experiment is that for all objects on the Earth the acceleration downwards will always be the same: `g = 9.8 m/s²`. This means that the weight `F` and the mass `m` are still not the same thing but they are exactly proportional so you can from weight convert into mass and vice versa. A weight conversion chart or a weight conversion table should never (technically) have kg to lbs or pounds to kg conversion, but if we forget about the technicalities we can still talk about forces in kg and mass in pounds without any problem of communication.
+
+Well... That is not totally true. If we move from one planet to another, this start to get a bit more complicated. We will now talk about this scenario which should also help explain the difference between mass and weight in a more clear way.
+
 ## weight (and free-fall) in other planets 
 
 ## body weight
