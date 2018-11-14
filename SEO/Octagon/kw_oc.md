@@ -29,13 +29,7 @@ OCTAGONAL PRISM
 
 [] 173 - square footage calculator
 [] 190 - tile calculator
-[] 211 - angle conversion
-[] 288 - circumference calculator
 [] 568 - ellipse calculator
-[] 574 - hexagon calculator
-[] 595 - area of a trapezoid
-[] 749 - area of a rectangle
-[] 752 - area of a circle calculator
 [] 1027 - aperture area calculator
 [] 1113 - regular pentagon
 [] 1116 - polygon calculator
@@ -43,7 +37,13 @@ OCTAGONAL PRISM
 [] /future - carpet calculator
 
 
+211 - angle conversion
 257 - right triangles
+288 - circumference calculator
+574 - hexagon calculator
+595 - area of a trapezoid
+749 - area of a rectangle
+752 - area of a circle calculator
 906 - area of a triangle
 933 - area of a parallelogram
 1082 - height of a triangle

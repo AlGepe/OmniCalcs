@@ -11,31 +11,57 @@ We will dive a bit deeper on the Greek origin of the octagon shape when we talk 
 
 ## Octagon angles: What is an octagon?
 
-If we look at the **origin of the word** "_Octagon_" it comes from the Greek for: "_eight angles_" meaning a polygon that is **composed of 8 angles joined by straight sides**. As a necessary consequence of have 8 angles, an octagon will always have 8 sides. In fact the standard octagon definition defines the octagon as have 8 sides rather than 8 angles, but we already know that **both definitions are virtually the same**. So the question _what is an octagon?_ is equally well answered by saying "a 8-sided polygon" as it is by the equivalent "a polygon with 8 angles".
+If we look at the **origin of the word** "_Octagon_" it comes from the Greek for: "_eight angles_" meaning a polygon that is **composed of 8 angles joined by straight sides**. As a necessary consequence of have 8 angles, an octagon will always have 8 sides. In fact the standard octagon definition defines the octagon as have 8 sides rather than 8 angles, but you already know that **both definitions are virtually the same**. So the question _what is an octagon?_ is equally well answered by saying "a 8-sided polygon" as it is by the equivalent "a polygon with 8 angles".
 
 <p style="text-align:center;"><img src="LINK" alt="Octagon angles and properties" style="width:60%" align="center"> </p>
 
 While the sides of an octagon can have any length, the octagon angles are restricted. There is **not restriction imposed on each of the angles**, but on the sum of all of them. This is a **geometrical restriction** since it would be impossible to join all 8 side together without following this rule. For all octagons the **sum of all its internal angles is always `1080º`**, whilst for the **external angles sum `360º` as it is the case for every polygon**.
 
-This means that a **regular octagon** will have internal octagon angles of **exactly `1080º/8 = 135º**. A regular octagon is more than a pretty octagon shape, we'll see now how to get the area of an octagon and the **tricks that can be used with a regular octagon**.
+This means that a **regular octagon** will have internal octagon angles of **exactly `1080º/8 = 135º** (if you prefer other units, feel free to use our <portal cid='211'>angle converter</portal>). A regular octagon is more than a pretty octagon shape, we'll see now how to get the area of an octagon and the **tricks that can be used with a regular octagon**.
 
 ## Area of an octagon: How to find the area of a regular octagon?
 
 To find the area of a regular octagon by hand, the **easiest procedure is to apply the standard formula** for the <portal cid="1114">area of a regular polygon </portal>. The formula is the following: `Area = Perimeter * Apothem / 2`. Where the _Apothem_ is the **distance between the center of the polygon and the mid-point of a side**. The perimeter can be calculated by summing the length of each side, multiplying the length of one side times the number of sides, or, if you're feeling lazy, you can also use our <portal cid='1115'>perimeter of a polygon calculator</portal>.
 
-A trick to remember this formula is to **understand where it comes from**. If we look at the apothem we can see that it's the <portal cid='1082'> height of a triangle </portal> made by taking a line from the vertices of the polygon/octagon to the centre of it. The resulting triangle is what is called an <portal cid='981'> Isosceles triangle</portal> and its area is `Area = Base * Height / 2` as we explained in the <portal cid='906'> triangle area calculator</portal>. Note that the `Base` of the triangle is the **length of the side of the octagon**. Since there are as many of these triangles as the polygon has sides (8 for an octagon), if we **multiply the area of the triangle by the number of sides** we obtain the total area of the octagon: `Area(octagon) = #sides * Base * Height / 2 = perimeter * apothem / 2`.
+A trick to remember this formula is to **understand where it comes from**. If you look at the apothem you can see that it's the <portal cid='1082'> height of a triangle </portal> made by taking a line from the vertices of the polygon/octagon to the centre of it. The resulting triangle is what is called an <portal cid='981'> Isosceles triangle</portal> and its area is `Area = Base * Height / 2` as we explained in the <portal cid='906'> triangle area calculator</portal>. Note that the `Base` of the triangle is the **length of the side of the octagon**. Since there are as many of these triangles as the polygon has sides (8 for an octagon), if you **multiply the area of the triangle by the number of sides** you will obtain the total area of the octagon: `Area(octagon) = #sides * Base * Height / 2 = perimeter * apothem / 2`.
 
-Apart from using triangles there are **other tricks we can use to calculate the area of an octagon** if we don't remember the formula. For example if we imagine an octagon shape inside of a square we can see that the difference is only 4 <portal cid='257'> right triangles</portal>. "How to find the area of a regular octagon with this information?" you might ask. **It is very easy**: 
+
+**These tricks work on any polygon**, from octagons to <portal cid='574'> hexagons</portal> and anything you can think of, **as long as it is regular**. Apart from using triangles there are **other tricks you can use to calculate the area of an octagon** if you don't remember the formula, but they will not work on other polygons. For example if you imagine an octagon shape inside of a square you can see that the difference is only 4 <portal cid='257'> right triangles</portal>. "How to find the area of a regular octagon with this information?" you might ask. **It is very easy**: 
+
 1) Calculate the <portal cid='1085'> area of the square</portal> (the side is `2*apothem`)
 1) Calculate the sides of the right triangles either using the <portal cid='1076'> 45 45 90 triangle calculator</portal> or the fact that they are **right isosceles triangles** and use the <portal cid='1078'>special right triangles calculator</portal>
 1) Subtract the <portal cid='1100'>area of a right triangle</portal> four times from the area of the square
 1) Enjoy the success!
 
-Alternatively you can use **a trick**: if you organise the right triangles correctly you can construct a square from all 4 of them. In this case the side is **the hypotenuse which is also the side of the octagon**. Then you can calculate the <portal cid='933'>area of the parallelogram</portal> we just made from the 4 right triangles and **subtract it from the area of the big square**.
+Alternatively you can use **a trick**: if you organise the right triangles correctly you can construct a square from all 4 of them. In this case the side is **the hypotenuse which is also the side of the octagon**. Then you can calculate the <portal cid='933'>area of the parallelogram</portal> you just made from the 4 right triangles and **subtract it from the area of the big square**.
+
+On top of these you can **get even more creative** and for example imagine the octagon as being composed by a **rectangle with 2 trapezoids on above and below it**. In this case it will be much easier to calculate the area since you **only have to sum up** the <portal cid='749'>area of the rectangle</portal> plus twice the <portal cid='595'>area of a trapezoid</portal> since **both trapezoids are equal**.
+
 ## Octagon shape: How to draw an octagon?
+
+It might seem easy to draw an octagon at first, and in principle it is: **just draw any shape with 8 straight sides and you're done**. But normally what people want to draw is **not _any_ octagon, but a regular octagon**, since that is the octagon shape most people think about by default. So let's see now **how to draw an octagon as regular as possible** and as easy as possible.
+
+The most precise way would be to use **proper drawing tools and start drawing the regular octagon shape one side at a time**, joining them with the corresponding 135º regular octagon angles. But **not everyone has such tools laying around** so it is not a very practical method. To obtain the octagon shape we are looking for you are better of starting with a <portal cid='288'>circumference</portal>, since that can be drawn by hand (not recommended) or **using a glass, cup or even a coin**.
+
+With the circumference drawn, you will start dividing the corresponding <portal cid='752'>circle area</portal> in halves. First you will do 2 half-circles, you then divide them in half again and get 4 quarter circles, one more halving and **you end up with 8 circle-eights**. We can now take the **points of division along the circumference and join the contiguous ones with a straight line**. The result is a perfectly regular octagon, minus the human error you make whilst drawing and halving.
+
+Another trick on how to draw an octagon would be the **one we have already seen** when learning hot to find the area of an octagon with squares. **Start by drawing a big square** and then 'chop off' the corners of it, the mathematical term is **truncate the square** and if you do it right you will get a regular octagon shape out of it. This method is not as precise as the previous one, but it's **easir to perform without any tools at all**.  
+
 ## How to use the Octagon calculator
-## Octagons and circles: Circumradius and inradius
-## Diagonals of a regular octagon
+
+Using the octagon calculator **is not complicated** but just in case someone might have any doubts and for the sake of completeness, **let's go over the features and use cases** of this octagon area calculator. First of all we should look at the **different fields and what they mean**.
+
+ * `Side Length` It is the length of each side of the regular octagon. 
+ * `Perimeter` Sum of the length of all the sides of the octagon
+ * `Area` Space enclosed by the octagon itself
+ * `Longest diagonal` Length of the line joining 2 furthest vertices
+ * `Medium diagonal` Length of the line joining 2 vertices with 3 vertices between them
+ * `Shortest diagonal` Length of the line joining 2 vertices with 2 vertices in between them
+ * `Circumcircle radius` Radius of the circumference that contains all 8 vertices of the regular octagon
+ * `Incircle radius` Radius of the smallest circumference that is tangent to all 8 sides
+
+ Now that you know what each of the parameters is, **it is time to see how to use the otagon calculator** to easily obtain the values you came here looking for. The best feature of this calculator is that **it only requires one input** to calculate the rest of the values.
+
 ## Octagons in real life: The octagon house
 ## Octagon tiles and flooring
 
