@@ -2,7 +2,7 @@ Introducing the **octagon calculator**, the ultimate tool for everything octagon
 
 ## Octagon definition: How many sides does an octagon have?
 
-The standard deifnition of an octagon goes something similar to: "_An octagon is a polygon with **8 straigth sides delimiting a closed area**_". For anyone with **basic notions of Greek** this will be almost obvious and could answer the question _how many sides does an octagon have_ without any notions of Mathematics. That is because "_Octo-_" in Greek means eight, so it is safe to assume an **octagon has eight sides**, or that an octopus has eight legs. 
+The standard definition of an octagon goes something similar to: "_An octagon is a polygon with **8 straigth sides delimiting a closed area**_". For anyone with **basic notions of Greek** this will be almost obvious and could answer the question _how many sides does an octagon have_ without any notions of Mathematics. That is because "_Octo-_" in Greek means eight, so it is safe to assume an **octagon has eight sides**, or that an octopus has eight legs. 
 
 <p style="text-align:center;"><img src="LINK" alt="How many sides does an octagon have? 8 side, according to the octagon definition" style="width:60%" align="center"> </p>
 
@@ -20,6 +20,18 @@ While the sides of an octagon can have any length, the octagon angles are restri
 This means that a **regular octagon** will have internal octagon angles of **exactly `1080º/8 = 135º**. A regular octagon is more than a pretty octagon shape, we'll see now how to get the area of an octagon and the **tricks that can be used with a regular octagon**.
 
 ## Area of an octagon: How to find the area of a regular octagon?
+
+To find the area of a regular octagon by hand, the **easiest procedure is to apply the standard formula** for the <portal cid="1114">area of a regular polygon </portal>. The formula is the following: `Area = Perimeter * Apothem / 2`. Where the _Apothem_ is the **distance between the center of the polygon and the mid-point of a side**. The perimeter can be calculated by summing the length of each side, multiplying the length of one side times the number of sides, or, if you're feeling lazy, you can also use our <portal cid='1115'>perimeter of a polygon calculator</portal>.
+
+A trick to remember this formula is to **understand where it comes from**. If we look at the apothem we can see that it's the <portal cid='1082'> height of a triangle </portal> made by taking a line from the vertices of the polygon/octagon to the centre of it. The resulting triangle is what is called an <portal cid='981'> Isosceles triangle</portal> and its area is `Area = Base * Height / 2` as we explained in the <portal cid='906'> triangle area calculator</portal>. Note that the `Base` of the triangle is the **length of the side of the octagon**. Since there are as many of these triangles as the polygon has sides (8 for an octagon), if we **multiply the area of the triangle by the number of sides** we obtain the total area of the octagon: `Area(octagon) = #sides * Base * Height / 2 = perimeter * apothem / 2`.
+
+Apart from using triangles there are **other tricks we can use to calculate the area of an octagon** if we don't remember the formula. For example if we imagine an octagon shape inside of a square we can see that the difference is only 4 <portal cid='257'> right triangles</portal>. "How to find the area of a regular octagon with this information?" you might ask. **It is very easy**: 
+1) Calculate the <portal cid='1085'> area of the square</portal> (the side is `2*apothem`)
+1) Calculate the sides of the right triangles either using the <portal cid='1076'> 45 45 90 triangle calculator</portal> or the fact that they are **right isosceles triangles** and use the <portal cid='1078'>special right triangles calculator</portal>
+1) Subtract the <portal cid='1100'>area of a right triangle</portal> four times from the area of the square
+1) Enjoy the success!
+
+Alternatively you can use **a trick**: if you organise the right triangles correctly you can construct a square from all 4 of them. In this case the side is **the hypotenuse which is also the side of the octagon**. Then you can calculate the <portal cid='933'>area of the parallelogram</portal> we just made from the 4 right triangles and **subtract it from the area of the big square**.
 ## Octagon shape: How to draw an octagon?
 ## How to use the Octagon calculator
 ## Octagons and circles: Circumradius and inradius
