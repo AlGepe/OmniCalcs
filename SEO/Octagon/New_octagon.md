@@ -60,9 +60,14 @@ Using the octagon calculator **is not complicated** but just in case someone mig
  * `Circumcircle radius` Radius of the circumference that contains all 8 vertices of the regular octagon
  * `Incircle radius` Radius of the smallest circumference that is tangent to all 8 sides
 
- Now that you know what each of the parameters is, **it is time to see how to use the otagon calculator** to easily obtain the values you came here looking for. The best feature of this calculator is that **it only requires one input** to calculate the rest of the values.
+ Now that you know what each of the parameters is, **it is time to see how to use the otagon calculator** to easily obtain the values you came here looking for. The best feature of this calculator is that **it only requires one input** to calculate the rest of the values. This makes the octagon calculator the **fastest way to calculate any properties of an octagon**, by a long shot.
 
 ## Octagons in real life: The octagon house
+
+So far we have talked about the octagon definition, how to draw an octagon, we've seen pictures of an octagon and even answered the (now obvious) question of how many sides does an octagon have. Now it is time to see **how octagons are used in real life**. The octagon shape is easier to manufacture and design around than a circle due to the flat sides and the octagon angles. This is the reason we can find **octagon tiles for flooring, or even houses with an octagon shape**, most notably the famous "_Octagon House_".
+
+The Octagon House is a house build with an octagon shape that exists in the USA
+
 ## Octagon tiles and flooring
 
 <later>
