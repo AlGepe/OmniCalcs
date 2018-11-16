@@ -73,9 +73,18 @@ So far we have talked about the octagon definition, how to draw an octagon, we'v
 
 <p style="text-align:center;"><img src="LINK" alt="The Octagon house in the USA" style="width:60%" align="center"> </p>
 
-The Octagon House is a house build with an octagon shape that exists in the USA
+The Octagon House is a house build with an octagon shape in Washington,D.C. in the USA. It was built for Colonel John Tayloe III which is the reason it's **also known as Colonel John Tayloe III House**. It follows the American "tradition" of naming buildings after their shape like they did with the Pentagon, which is the headquarters of the United States Department of Defence and was built in the shape of a <portal cid='1113'>regular pentagon</portal>. 
 
-## Octagon tiles and flooring
+The Octagon house has **many interesting architectural features** such a triangular service stairway, a bigger oval stairway or the obvious octagonal shape of the building. On top of such special characteristics there are several ghost stories surrounding the house, partly because the owner was an **important figure in the early American history**. 
+
+## More real world uses of Octagons: Octagon tiles and camera apertures
+
+Like any regular polygon, the octagon shape turns out to be **useful in different applications**. We have already talked about making houses in octagon shape and sticking with buildings, more specifically <portal cid='1195'>flooring</portal>, we find our **next use case: octagon tiles**. The shape of a regular octagon means that we can **combine octagon tiles and square tiles** to completely fill the floor of any room, no matter the <portal cid='173'> square footage </portal> of it. Using different pattern in each type of tile, or using different colours, this combinations would allow you to have a nice flooring for your kitchen, bathroom... Just remember to use out <portal cid='190'>tile calculator</portal> to help you.
+
+Another interesting use of octagons is **inside of photographic cameras**. In particular the shutter that protects the sensor from the light when the camera is not in use. This shutter or aperture is always made following a regular polygon shape, including the octagon shape. You can learn more about aperture and how to play with it to get more professional looking pictures in our <portal cid='1027'>aperture area calculator</portal>. 
+
+Before you head out to check that calculator we want to give you a quick tip/trick. When you see a picture of a bright source of light, you might have notice that it looks like a star with different number of pointy arm, depending on the camera. This is the key to know if your camera has an octagon aperture or not: the number of pointy arm is equal to the numbers of sides in the polygon that makes up the aperture. And how many sides does an octagon have? Exactly! So you only need to look for 'star shapes' with 8 pointy arms and you'll know that this picture was taking using an octagonal aperture. It works every time, it's physics, more specifically a <portal cid='682'>diffraction pattern</portal>
+
 
 #########################################################################################################################################
 
