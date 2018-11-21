@@ -61,61 +61,52 @@ Another pair of values that are important in a hexagon are the circumradius and 
 * Inradius: the radius of a circle inscribed in the regular hexagon is equal to a half of its height, which is also the apothem : `r = √3/2 * a`.
 
 ## How to draw a hexagon shape
-<p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexDraw.png" alt="How to draw a hexagon shape, the easy way" style="width:60%" align="center"> </p>
+
+Now we are going to explore a more practical and less mathematical world: how to draw a hexagon. For a randome (irregular) hexagon the answer is simple: draw any 6-sided shape so that it is a closed polygon and you're done. But for a **regular hexagon things are not so easy** since we have to make sure all the sides are the same length.
+
+<p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexDraw.gif" alt="How to draw a hexagon shape, the easy way" style="width:60%" align="center"> </p>
+
+Ideally we would have a **drawing compass** and we would get a perfect result. Just draw a circumference and with the same radius start making marks along it starting at a random point and **making the next mark using the previous one as the anchor** point for the compass. You will end up with 6 marks and if you **join them with a straight line**, you will have yourself a regular hexagon. You can see a similar process on **the animation above**.
+
 ## The easiest way to find a hexagon side, area... The hexagon calculator
 
-built in <portal cid=208>length conversion</portal> tool.
+The hexagon calculator allows you to calculate several interesting parameter of 6-sided shape that we normally call hexagon. The usage is as simple as it can possibly get with only one of the parameters needed to calculate the rest and a built-in <portal cid=208>length conversion</portal> tool for each of them. 
+
+We have discussed all the parameters of the calculator but for the sake of clarity and completeness we will now go over them briefly:
+
+* `Area`: 2-D surface enclosed by the polygon
+* `Side Length`: Distance from one vertex to the other
+* `Perimeter`: Sum of the length of all sides
+* `Long Diagonal`: Distance from one vertex to the opposed one
+* `Short Diagonal`: Same as the height of the 6-sided polygon
+* `Circumcircle radius`: Same as the radius of the polygon 
+* `Incircle radius`: Same as the apothem
+
+If you like the simplicity of this calculator we invite you to try other polygon calculators such as the <portal cid=1113>regular pentagon calculator</portal> or even 3-D calculators such as the  <portal cid=900>pyramid calculator</portal>, <portal cid=956> triangular prism calculator</portal>, or the  <portal cid=955>rectangular prism calculator</portal>.
+
 ## Hexagon tiles and real-world uses of the 6-sided polygon
+
+Everyone loves a **good real-world application**, and hexagons are definitely one of the most used polygons in the world. Starting with human usages the easiest (and probably least interesting) is hexagon <portal cid=190>tiles</portal> for flooring purposes. The hexagon is a really good shape because it perfectly fits with one another to cover any desired area. If you're interested in such a use we recommend the <portal cid=1195>flooring calculator</portal> and the <portal cid=173>square footage calculator</portal> as very good tool for this purpose.
+
+<p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexDiffraction.jpg" alt="Diffraction grating pattern for different apperture shapes, including the hexagon" style="width:80%" align="center"> </p>
+
+The next use case is common to all polygons but it is still interesting to see. In photography, the opening of the sensor almost always have a polygonal shape. This part of the camera called <portal cid=1027>aperture</portal> dictates many properties and features of the pictures taken by the camera. The most unexpected one is the shape of very bright (point-lik) objects due to the effect called <portal cid=682>diffraction grating</portal> and it is illustrated in the picture above.
+
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexTelescope.png" alt="The six sided polygon is widely use in photography and astronomy" style="width:60%" align="center"> </p>
+
+One of the most important uses of hexagons in the modern era, closely related to the one we've talked about in photography, is the one in astronomy. In astronomy one of the biggest problems when trying to observe distant stars is how faint they are in the night sky. That is because despite being very bright objects the are so far away that only a very small amount of their light reaches us; you can learn more about that in our <portal cid=723> luminosity calculator</portal>. On top of that due to relativistic effects (similar to <portal cid=431>time dilation</portal> and <portal cid=751>length contraction</portal>), their light arrives on the Earth with less energy that it was emitted. This effect is called <portal cid=990>red-shift</portal>.
+
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexTelescope2.jpg" alt="Segmented mirror for a telescope" style="width:60%" align="center"> </p>
+
+All in all the result is that we get very small amount of energy and with a bigger <portal cid=421>wavelength</portal> than we would like. The best way to counteract this is to build telescopes as big as possible. The problem is that making a one-piece lens or mirror bigger than a couple meter is almost impossible, not to talk about the problems with the logistics. The solutions is to build a modular mirror using hexagon tiles like the ones you can see in the pictures.
+
+Making such big mirrors improves the <portal cid=969>angular resolution</portal> of the telescope as well as the <portal cid=901>magnification factor</portal> due to the geometrical properties of a _"Cassegrain telescope"_. So we can say that thanks to regular hexagons we can see better, further and more clear than we could have ever done with only one-piece lenses or mirrors.
+
 ## Honeycomb pattern and why the 6-sided shape is so popular in nature
+
+
+
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexHoneycomb.jpeg" alt="Honeycomb patter is very efficient and strong" style="width:60%" align="center"> </p>
-
-
-
-
-#########################################################################################################################
-
-
-If you're stuck solving geometry problems involving polygons, this hexagon calculator will surely be of use to you. Apart from a handy hexagon area formula and perimeter formula, it will also help you in calculating the lengths of its diagonals and the radii or an inscribed and circumscribed <portal cid="288">circle</portal>. Stop wondering what are the internal angles equal to, or how to find the area of a hexagon, and solve those pesky math problems in no time!
-
-## Properties of a regular hexagon
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Regular_polygon_6_annotated.svg/503px-Regular_polygon_6_annotated.svg.png" alt="regular hexagon" class="TopicIllustration" style="width:100%"/>
-
- A regular hexagon, just like an <portal cid="569">octagon</portal>, is a geometric figure called a polygon. It has six edges of equal <portal cid="208">length</portal>. The internal angle at each of the six vertices measures exactly 120°. The total number of hexagon's diagonals is equal to 9 - three of these are long diagonals that cross the central point, and the other six are also called the "height" of the hexagon.
- 
-The easiest way to construct a regular hexagon is by drawing six equilateral triangles that all have a common vertex in the central point of the hexagon.
-
-## How to find the area of a hexagon?
-
-Calculating the <portal cid="210">area</portal> of the hexagon is very simple. The general idea is to calculate the areas of the six triangles that the hexagon is comprised of and adding them together.
-
-The length of a hexagon's edge - and consequently, also the length of a triangle's edge - is called **a**. Then, we can express the area of one triangle as:
-
-`A₀ = a * h / 2 = a * √3/2 * a / 2 = √3/4 * a²`
-
-After multiplying this area by six, we get the hexagon area formula:
-
-`A = 6 * A₀ = 6 * √3/4 * a²`
-
-`A = 3 * √3/2 * a²`
-
-Of course, you don't have to perform these calculations manually - just plug the edge length into the hexagon calculator and watch it determine the area for you!
-
-## Diagonals of a hexagon
-
-Our hexagon calculator can also spare you some tedious calculations while determining the lengths of the hexagon's diagonals. There are two types of these diagonals:
-
-* Long diagonals - they always cross the central point of the hexagon. As you can notice from the picture above, the length of such a diagonal is equal to two edge lengths: `D = 2a`.
-* Short diagonals - also called the height of the triangle, these diagonals do not cross the central point. Their length is equal to `d = √3 * a`.
-
-## Circumradius and inradius 
-
-The last two values that our hexagon calculator can easily find are the radii of a circumscribed and an inscribed circle. 
-
-* Circumradius: to find the radius of a circle circumscribed on the regular hexagon, you need to determine the distance between the central point of the hexagon (that is also the center of the circle) and any of the vertices. It is simply equal to `R = a`.
-* Inradius: the radius of a circle inscribed in the regular hexagon is equal to a half of its height: `r = √3/2 * a`.
 
 
 
