@@ -18,10 +18,13 @@ init: ~600
 211 - angle conversion
 257 - right triangles
 288 - circumference calculator
+319 - reading speed calculator
 421 - wavelength calculator
 431 - time dilation
+443 - stress calculator
 569 - octagon calculator
 595 - area of a trapezoid
+676 - efficiency calculator
 682 - diffraction grating
 723 - luminosity calculator
 749 - area of a rectangle
@@ -47,4 +50,6 @@ init: ~600
 1114 - area of a polygon
 1115 - perimeter of a polygon
 1116 - polygon calculator
+1145 - force converter
 1195 - flooring calculator
+Chem_Calcs

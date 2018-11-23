@@ -104,10 +104,22 @@ Making such big mirrors improves the <portal cid=969>angular resolution</portal>
 
 ## Honeycomb pattern and why the 6-sided shape is so popular in nature
 
-The Honeycomb pattern composed of regular hexagon arrange side by side filling the entire surface the spam without any whole in between them. This honeycomb pattern appears not only in honeycombs (surprise!) but in many other places in nature. In fact, it is so popular that one could say it is the default shape when conflicting forces are at play and spheres are not possible due to the nature of the problem.
+The honeycomb pattern composed of **regular hexagons arrange side by side** filling the entire surface the spam without any whole in between them. This honeycomb pattern appears not only in honeycombs (surprise!) but in **many other places in nature**. In fact, it is so popular that one could say it is the default shape when conflicting forces are at play and spheres are not possible due to the nature of the problem.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pypd_yKGYpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+From bee _'houses'_ to rock cracks through organic<a href="https://www.omnicalculator.com/chemistry">chemistry</a>, the regular hexagon is the most common polygonal shape that exists in nature. And there is a reason for that: the hexagon angles. The 120º angle is the most mechanically stable of all, and coincidentally it is also the **angle at which the sides meet at the vertices** when we line up hexagons side by side. For a full description of the importance and the advantages of regular hexagons, we recommend watching the video. To those who are hard-core readers we will try to explain briefly, a we will recommend them checking how fast the read with the <portal cid=319>reading speed calculator</portal>
+
+The way that 120º angles distribute amongst 2 of the sides the <portal cid=1145>forces</portal> (and in turn the <portal cid=443>stress</portal>) exerted on one the other one makes it a very stable and mechanically <portal cid=676>efficient</portal> geometry. This is a very important advantage that hexagons have. Another important advantage of the regular hexagon is that it belongs to the group of polygons that can **fill a surface with no gaps in between them** (regular triangle, square and hexagon). On top of that, the regular 6-sided shape has the **smallest perimeter for the biggest area** amongst this surface-filling polygons, which obviously makes it very efficient. 
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexHoneycomb.jpeg" alt="Honeycomb patter is very efficient and strong" style="width:60%" align="center"> </p>
 
+So those are the main reasons you can find hexagons in many places. Just to name a few, one can find regular hexagonal patterns in:
 
+* Honeycombs
+* Organic compounds 
+* Stacks of bubbles
+* Rock formations (like <a href="https://en.wikipedia.org/wiki/Giant%27s_Causeway">Giant's Causeway</a>)
+* Eyes of insects
+* ...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Pypd_yKGYpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
