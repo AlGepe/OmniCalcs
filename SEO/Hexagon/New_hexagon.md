@@ -6,10 +6,10 @@ It should come as no surprise that the hexagon (a.k.a. _"6-sided polygon"_) has 
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexSides.png" alt="Reference picture of hexagon sides" style="width:60%" align="center"> </p>
 
-There will be a whole section dedicated to the important properties of the hexagon shape but first, we need to know the technical answer to: "What is a hexagon?" This will help us understand the tricks we can use to **calculate the area of a hexagon without using the hexagon area formula** blindly. This tricks will involve using other <portal cid=1116>polygons</portal> such as the <portal cid=1085>square</portal>, <portal cid=906>triangles</portal> and even <portal cid=933> parallelograms</portal>.
+There will be a whole section dedicated to the important properties of the hexagon shape, but first, we need to know the technical answer to: "What is a hexagon?" This will help us understand the tricks we can use to **calculate the area of a hexagon without using the hexagon area formula** blindly. This tricks will involve using other <portal cid=1116>polygons</portal> such as the <portal cid=1085>square</portal>, <portal cid=906>triangles</portal> and even <portal cid=933> parallelograms</portal>.
 ## Hexagon definition, what is a hexagon?
 
-In very much the same fashion as an <portal cid=569>octagon</portal> is defined as having 8 angles, the hexagonal shape is technically **defined as having 6 angles** which conversely means that (as we saw before) that the hexagonal shape is always a 6-sided shape. The angles of an arbitrary hexagon can have any value but they all together have to sum up to 720º which you can easily convert to other units using our <portal cid=211>angle conversion calculator</portal>.
+In very much the same fashion as an <portal cid=569>octagon</portal> is defined as having 8 angles, the hexagonal shape is technically **defined as having 6 angles** which conversely means that (as we saw before) that the hexagonal shape is always a 6-sided shape. The angles of an arbitrary hexagon can have any value, but they all together have to sum up to 720º which you can easily convert to other units using our <portal cid=211>angle conversion calculator</portal>.
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexLetters.png" alt="According to the Hexagon definition this is an hexagon" style="width:60%" align="center"> </p>
 
@@ -66,13 +66,13 @@ Now we are going to explore a more practical and less mathematical world: how to
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexDraw.gif" alt="How to draw a hexagon shape, the easy way" style="width:60%" align="center"> </p>
 
-Ideally, we would have a **drawing compass** and we would get a perfect result. Just draw a circumference and with the same radius start making marks along it starting at a random point and **making the next mark using the previous one as the anchor** point for the compass. You will end up with 6 marks and if you **join them with a straight line**, you will have yourself a regular hexagon. You can see a similar process on **the animation above**.
+Ideally, we would have a **drawing compass** and we would get a perfect result. Just draw a circumference and with the same radius start making marks along it starting at a random point and **making the next mark using the previous one as the anchor** point for the compass. You will end up with 6 marks, and if you **join them with a straight line**, you will have yourself a regular hexagon. You can see a similar process on **the animation above**.
 
 ## The easiest way to find a hexagon side, area... The hexagon calculator
 
-The hexagon calculator allows you to calculate several interesting parameters of 6-sided shape that we normally call hexagon. The usage is as simple as it can possibly get with only one of the parameters needed to calculate the rest and a built-in <portal cid=208>length conversion</portal> tool for each of them. 
+The hexagon calculator allows you to calculate several interesting parameters of 6-sided shape that we usually call hexagon. The usage is as simple as it can possibly get with only one of the parameters needed to calculate the rest and a built-in <portal cid=208>length conversion</portal> tool for each of them. 
 
-We have discussed all the parameters of the calculator but for the sake of clarity and completeness we will now go over them briefly:
+We have discussed all the parameters of the calculator, but for the sake of clarity and completeness we will now go over them briefly:
 
 * `Area`: 2-D surface enclosed by the polygon
 * `Side Length`: Distance from one vertex to the other
@@ -86,23 +86,23 @@ If you like the simplicity of this calculator we invite you to try other polygon
 
 ## Hexagon tiles and real-world uses of the 6-sided polygon
 
-Everyone loves a **good real-world application**, and hexagons are definitely one of the most used polygons in the world. Starting with human usages the easiest (and probably least interesting) is hexagon <portal cid=190>tiles</portal> for flooring purposes. The hexagon is a really good shape because it perfectly fits with one another to cover any desired area. If you're interested in such a use we recommend the <portal cid=1195>flooring calculator</portal> and the <portal cid=173>square footage calculator</portal> as very good tool for this purpose.
+Everyone loves a **good real-world application**, and hexagons are definitely one of the most used polygons in the world. Starting with human usages the easiest (and probably least interesting) is hexagon <portal cid=190>tiles</portal> for flooring purposes. The hexagon is an excellent shape because it perfectly fits with one another to cover any desired area. If you're interested in such a use we recommend the <portal cid=1195>flooring calculator</portal> and the <portal cid=173>square footage calculator</portal> as very good tool for this purpose.
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexDiffraction.jpg" alt="Diffraction grating pattern for different apperture shapes, including the hexagon" style="width:80%" align="center"> </p>
 
-The next use case is common to all polygons but it is still interesting to see. In photography, the opening of the sensor almost always has a polygonal shape. This part of the camera called <portal cid=1027>aperture</portal> dictates many properties and features of the pictures taken by the camera. The most unexpected one is the shape of very bright (point-like) objects due to the effect called <portal cid=682>diffraction grating</portal> and it is illustrated in the picture above.
+The next use case is common to all polygons, but it is still interesting to see. In photography, the opening of the sensor almost always has a polygonal shape. This part of the camera called <portal cid=1027>aperture</portal> dictates many properties and features of the pictures taken by the camera. The most unexpected one is the shape of very bright (point-like) objects due to the effect called <portal cid=682>diffraction grating</portal>, and it is illustrated in the picture above.
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexTelescope.png" alt="The six sided polygon is widely use in photography and astronomy" style="width:60%" align="center"> </p>
 
-One of the most important uses of hexagons in the modern era, closely related to the one we've talked about in photography, is the one in astronomy. In astronomy one of the biggest problems when trying to observe distant stars is how faint they are in the night sky. That is because despite being very bright objects, they are so far away that only a very small amount of their light reaches us; you can learn more about that in our <portal cid=723> luminosity calculator</portal>. On top of that due to relativistic effects (similar to <portal cid=431>time dilation</portal> and <portal cid=751>length contraction</portal>), their light arrives on the Earth with less energy than it was emitted. This effect is called <portal cid=990>red-shift</portal>.
+One of the most important uses of hexagons in the modern era, closely related to the one we've talked about in photography, is the one in astronomy. In astronomy one of the biggest problems when trying to observe distant stars is how faint they are in the night sky. That is because despite being very bright objects, they are so far away that only a minimal amount of their light reaches us; you can learn more about that in our <portal cid=723> luminosity calculator</portal>. On top of that due to relativistic effects (similar to <portal cid=431>time dilation</portal> and <portal cid=751>length contraction</portal>), their light arrives on the Earth with less energy than it was emitted. This effect is called <portal cid=990>red-shift</portal>.
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexTelescope2.jpg" alt="Segmented mirror for a telescope" style="width:60%" align="center"> </p>
 
-All in all the result is that we get a very small amount of energy and with a bigger <portal cid=421>wavelength</portal> than we would like. The best way to counteract this is to build telescopes as big as possible. The problem is that making a one-piece lens or mirror bigger than a couple meter is almost impossible, not to talk about the problems with the logistics. The solution is to build a modular mirror using hexagon tiles like the ones you can see in the pictures.
+All in all the result is that we get a tiny amount of energy and with a bigger <portal cid=421>wavelength</portal> than we would like. The best way to counteract this is to build telescopes as big as possible. The problem is that making a one-piece lens or mirror bigger than a couple meter is almost impossible, not to talk about the issues with the logistics. The solution is to build a modular mirror using hexagon tiles like the ones you can see in the pictures.
 
 Making such big mirrors improves the <portal cid=969>angular resolution</portal> of the telescope as well as the <portal cid=901>magnification factor</portal> due to the geometrical properties of a _"Cassegrain telescope"_. So we can say that thanks to regular hexagons we can see better, further and more clear than we could have ever done with only one-piece lenses or mirrors.
 
-## Honeycomb pattern and why the 6-sided shape is so popular in nature
+## Honeycomb pattern and why the 6-sided shape is so prevalent in nature
 
 The honeycomb pattern composed of **regular hexagons arrange side by side** filling the entire surface the spam without any whole in between them. This honeycomb pattern appears not only in honeycombs (surprise!) but in **many other places in nature**. In fact, it is so popular that one could say it is the default shape when conflicting forces are at play and spheres are not possible due to the nature of the problem.
 
@@ -110,7 +110,7 @@ The honeycomb pattern composed of **regular hexagons arrange side by side** fill
 
 From bee _'houses'_ to rock cracks through organic<a href="https://www.omnicalculator.com/chemistry">chemistry</a>, the regular hexagon is the most common polygonal shape that exists in nature. And there is a reason for that: the hexagon angles. The 120º angle is the most mechanically stable of all, and coincidentally it is also the **angle at which the sides meet at the vertices** when we line up hexagons side by side. For a full description of the importance and the advantages of regular hexagons, we recommend watching the video. To those who are hard-core readers, we will try to explain briefly, and we will recommend them checking how fast the read with the <portal cid=319>reading speed calculator</portal>
 
-The way that 120º angles distribute amongst 2 of the sides the <portal cid=1145>forces</portal> (and in turn the <portal cid=443>stress</portal>) exerted on one the other one makes it a very stable and mechanically <portal cid=676>efficient</portal> geometry. This is a very important advantage that hexagons have. Another important advantage of the regular hexagon is that it belongs to the group of polygons that can **fill a surface with no gaps in between them** (regular triangle, square and hexagon). On top of that, the regular 6-sided shape has the **smallest perimeter for the biggest area** amongst these surface-filling polygons, which obviously makes it very efficient. 
+The way that 120º angles distribute amongst 2 of the sides the <portal cid=1145>forces</portal> (and in turn the <portal cid=443>stress</portal>) exerted on one the other one makes it a very stable and mechanically <portal cid=676>efficient</portal> geometry. This is a significant advantage that hexagons have. Another important advantage of the regular hexagon is that it belongs to the group of polygons that can **fill a surface with no gaps in between them** (regular triangle, square and hexagon). On top of that, the regular 6-sided shape has the **smallest perimeter for the biggest area** amongst these surface-filling polygons, which obviously makes it very efficient. 
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexHoneycomb.jpeg" alt="Honeycomb patter is very efficient and strong" style="width:60%" align="center"> </p>
 
@@ -122,3 +122,4 @@ So those are the main reasons you can find hexagons in many places. Just to name
 * Rock formations (like <a href="https://en.wikipedia.org/wiki/Giant%27s_Causeway">Giant's Causeway</a>)
 * Eyes of insects
 * ...
+
