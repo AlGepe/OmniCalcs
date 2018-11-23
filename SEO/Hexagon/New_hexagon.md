@@ -104,7 +104,7 @@ Making such big mirrors improves the <portal cid=969>angular resolution</portal>
 
 ## Honeycomb pattern and why the 6-sided shape is so popular in nature
 
-
+The Honeycomb pattern composed of regular hexagon arrange side by side filling the entire surface the spam without any whole in between them. This honeycomb pattern appears not only in honeycombs (surprise!) but in many other places in nature. In fact, it is so popular that one could say it is the default shape when conflicting forces are at play and spheres are not possible due to the nature of the problem.
 
 <p style="text-align:center;"><img src="https://uploads-cdn.omnicalculator.com/images/Al_HexHoneycomb.jpeg" alt="Honeycomb patter is very efficient and strong" style="width:60%" align="center"> </p>
 
