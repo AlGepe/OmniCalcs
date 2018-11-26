@@ -2,6 +2,18 @@ Our factorial calculator is a tool that can determine the factorial of any natur
 
 ## Exclamation point in Maths: What is a factorial?
 
+ <-- WAT IMAGE-->
+
+ When you see for the first time an exclamation point in maths you probably got shocked or even thought you that there was some kind of mistake or typo. But the reality is different: this exclamation point in maths is called the factorial or n-factorial. The factorial is a fairly unknown operator, that in reality can be viewed more as an abbreviation than a true operator in itself, at least at the beginning.
+
+To understand what the factorial does or means we should start with an example. We could chose any number `n` and calculate its n-factorial value but the best is to choose a fairly small number, so let's use 5-factorial.
+
+`5! = 5 * 4 * 3 * 2 * 1 = 120`
+
+From this example you can get and intuition of what is a factorial and even take a guess at the factorial formula. You can also understand why this exclamation point in maths can be regarded as an abbreviation, since it is not a new operation but rather a collection of multiplications.
+
+ 
+
 The easiest definition of n-factorial, denoted *n!*, is a product of all positive natural numbers smaller or equal to *n*. For example,
 
 `6! = 6*5*4*3*2*1 = 720`
@@ -30,7 +42,7 @@ Of course, you can also use our factorial calculator and spare yourself some tim
 
 ## Basic values of factorials
 
-Let's check now some of the value for the factorial of several small numbers like zero factorial (0 factorial), 5 factorial, 3 factorial... Pay special attention to the value of 0 factorial because it is the most important one and we will talk more about it later.
+Let's check now some of the value for the n-factorial of several small `n`, like zero factorial (0 factorial), 5 factorial, 3 factorial... Pay special attention to the value of 0 factorial because it is the most important one and we will talk more about it later.
 
 * 0! = 1
 * 1! = 1
