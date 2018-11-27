@@ -10,7 +10,6 @@ FACTORIAL DESIGN
 [] 169 - GCF calculator
 [] 170 - LCM calculator
 [] 392 - significant figures
-[] 427 - permutation calculator
 [] 430 - binomial calculator
 [] 442 - thermal conductivity
 [] 978 - rocket equation/ideal rocket
@@ -18,3 +17,5 @@ FACTORIAL DESIGN
 
 Target: 1700
 Init: ~360
+
+427 - permutation calculator
