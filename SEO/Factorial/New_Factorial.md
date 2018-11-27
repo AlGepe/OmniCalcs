@@ -1,10 +1,12 @@
-######Our factorial calculator is a tool that can determine the factorial of any natural number from 0 up to 170
+Welcome to the factorial calculator: a tool that calculates the factorial of any integer from 0 to a 170. On top of calculating the 0-factorial, 5-factorial... And any other factorial, we will also provide information about the n-factorial formula and the applications it can have. We will answer the question of "what is a factorial?" using the factorial definition, and we will dive into the maths behind it to find how we can include more than just positive integers. 
 
 ## Exclamation point in Maths: What is a factorial?
 
  <-- WAT IMAGE-->
 
  When you see for the first time an exclamation point in maths you probably got shocked or even thought you that there was some kind of mistake or typo. But the reality is different: this exclamation point in maths is called the factorial or n-factorial. The factorial is a fairly unknown operator, that in reality can be viewed more as an abbreviation than a true operator in itself, at least at the beginning.
+
+It is important not to confuse the factorial with <portal cid=143>prime factorization</portal> which is a way of obtaining the prime numbers that when multiply give you a known number. Prime factorization has its uses in maths and is arguably more known than the n-factorial. Part of the reason prime factorization is more popular is its usefulness when calculating <portal cid=169>Greatest Common Factor</portal> and the <portal cid=170>Least Common Multiplier</portal>, but we are digressing now.
 
 To understand what the factorial does or means we should start with an example. We could chose any number `n` and calculate its n-factorial value but the best is to choose a fairly small number, so let's use 5-factorial.
 
@@ -58,7 +60,7 @@ Let's check now some of the value for the n-factorial of several small `n`, like
 * 9! = 362 880
 * 10! = 3 628 800
 
-For factorials of numbers greater than 10, don't hesitate to use the factorial calculator above.
+We can see hot fast the factorial of a number increases as we keep using bigger numbers. This is yet another situation where  <portal cid=161>scientific notation</portal> can save the day if you need to work with such big numbers. For factorials of numbers greater than 10, don't hesitate to use the factorial calculator above.
 
 ## 0-Factorial and why it is so special
 
@@ -97,12 +99,10 @@ After all you might be bewildered by the complexity of the maths behind this fac
 Interestingly, the factorial formula is still valid here. So, for example,
 
 `(2.5)! = 2.5 * (1.5)! = 2.5 * 1.5 * (0.5)! = 1.875√π`
+
 ## Python factorial and how to calculate factorial in programming languages
 
 In our modern world the tedious calculations are generally left off to the computers (just like you're doing by using this calculator). Increasingly common is the usage of coding languages to create small programs that will make those calculations for us. The n-factorial is a perfect candidate since it's not really complex conceptually but for big numbers it requires too much time for humans to calculate. For those of you that are using programming languages we will leave you some example for some of the most coding languages.
-
- 
-
 
 * **Python factorial**(after 2.6): Use `math.factorial(x)` to get in Python factorial values
 * **Java factorial**: There is no 'Java factorial' method in the standard Java packages.
@@ -111,10 +111,9 @@ In our modern world the tedious calculations are generally left off to the compu
 * **Factorial c++**: There is not factorial c++ function included in the standard libraries
 * **Factorial javascript**: There is not factorial javascript function included in the standard libraries
 
-
-
-
 ## Real world applications
+
+
 
 
 **NEW
@@ -153,7 +152,7 @@ Let's check now some of the value for the n-factorial of several small `n`, like
 * 9! = 362 880
 * 10! = 3 628 800
 
-For factorials of numbers greater than 10, don't hesitate to use the factorial calculator above.
+We can see hot fast the factorial of a number increases as we keep using bigger numbers. This is yet another situation where  <portal cid=161>scientific notation</portal> can save the day if you need to work with such big numbers. For factorials of numbers greater than 10, don't hesitate to use the factorial calculator above.
 
 ## 0-Factorial and why it is so special
 
