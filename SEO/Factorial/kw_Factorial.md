@@ -5,7 +5,6 @@ EXCLAMATION POINT IN MATHS || GAMMA FUNCTION
 FACTORIAL DEFINITION || FACTORIAL IN EXCEL 
 FACTORIAL DESIGN
 
-978 - rocket equation/ideal rocket
 [] 1060 - latent heat calculator
 
 Target: 1800
@@ -19,3 +18,4 @@ Init: ~360
 427 - permutation calculator
 430 - binomial calculator
 442 - thermal conductivity
+978 - rocket equation/ideal rocket
