@@ -12,7 +12,7 @@ To understand what the factorial does or means we should start with an example. 
 
 `5! = 5 * 4 * 3 * 2 * 1 = 120`
 
-From this example you can get and intuition of what is a factorial and even take a guess at the factorial formula. You can also understand why this exclamation point in maths can be regarded as an abbreviation, since it is not a new operation but rather a collection of multiplications. In short and rather informally we can define the factorial as the multiplications of all the positive integers equal of smaller than the given number. 
+From this example you can see that it is not <portal cid=978>rocket</portal> science; and you might even take a guess at the factorial formula. You can also understand why this exclamation point in maths can be regarded as an abbreviation, since it is not a new operation but rather a collection of multiplications. In short and rather informally we can define the factorial as the multiplications of all the positive integers equal of smaller than the given number. 
 
 Playing a bit with this we can see that for 5-factorial we can relate it to 4-factorial in a very simple way:
 
@@ -60,7 +60,7 @@ Let's check now some of the value for the n-factorial of several small `n`, like
 * 9! = 362 880
 * 10! = 3 628 800
 
-We can see hot fast the factorial of a number increases as we keep using bigger numbers. This is yet another situation where  <portal cid=161>scientific notation</portal> can save the day if you need to work with such big numbers. For factorials of numbers greater than 10, don't hesitate to use the factorial calculator above.
+We can see hot fast the factorial of a number increases as we keep using bigger numbers. This is yet another situation where  <portal cid=161>scientific notation</portal> can save the day (if we know how to properly truncate to the necessary <portal cid=392>significant figures</portal>) if you need to work with such big numbers. For factorials of numbers greater than 10, don't hesitate to use the factorial calculator above.
 
 ## 0-Factorial and why it is so special
 
@@ -112,6 +112,12 @@ In our modern world the tedious calculations are generally left off to the compu
 * **Factorial javascript**: There is not factorial javascript function included in the standard libraries
 
 ## Real world applications
+
+We have already discussed that the factorial is commonly used in probabilistic calculations, permutations... But there is more to it, so let's see what other places does the n-factorial appear. Keeping within the realm of pure maths, we arrive at the <portal cid=430>binomial distribution</portal> that helps calculate probabilities of, for example, independent experiments having similar results.
+
+Aside from pure maths, the n-factorial appears in many other calculations, most notably in **statistical physics and particle physics** which are parts of physics that deal with permutations of particles, amongst other things. In particular statistical physics is a very useful area of physics that can be thought of as a "_microscopic_" version of thermodynamics. That is because statistical physics deals with thermodynamics problems (like calculating the <portal cid=1060>latent heat</portal> or the <portal cid=442>thermal conductivity</portal>) but it **does it from from a particle-by-particle basis**.
+
+There are other areas (mostly of physics) that use factorials for calculation and we could dive very deep into how and why they use the factorial formula in their calculations, but for a simple calculator like this one that would be well beyond its reach.
 
 
 
