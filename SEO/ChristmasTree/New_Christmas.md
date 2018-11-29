@@ -1,8 +1,11 @@
 Welcome to the Christmas tree decorations calculator, where you will find how to decorate a christmas tree in the best way. Let's explore together the way to put the, hopefully, LED christmas tree lights and predict how many you will actually need. We will talk about the first christmas tree history, how would the best christmas tree with lights be and answer the age old debate of whether christmas tree ribbons are superior or not to lights as christmas decorations.
 
-Christmas is upon us; 
+## Oh Christmas tree! The ultimate of Christmas decorations
 
-## The ubiquitous Christmas tree
+Christmas is upon us, much closer than you might think, but still further than advertisements want you to think. The real conclusion if you look at <portal cid=1212>how many days remain until Christmas</portal> is that is we should start getting ready for it. One of the things you will probably want to set up is your Christmas tree. And no christmas tree is complete without christmas tree ribbons or lights. Whichs bring an important question: How many christmas tree lights do you need to decorate your tree properly?
+
+The term "properly" is a subjective one but assuming you already have a perfect way the tree should look like, how do you know the length of lights you will need to fully decorate your christmas tree? We have the solution.
+
 ## =How to use the calculator
 
 ## =how the calculator works (maybe 2 sections)
