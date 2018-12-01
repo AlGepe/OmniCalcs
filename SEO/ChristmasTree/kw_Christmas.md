@@ -22,26 +22,26 @@
 
 [] 20 - Electricity cost (single)
 [] 151 - square root
-[] 178 - Ohm's law
-[] 193 - electricity cost
 [] 208 - length converter
-[] 216 - LED resistor
 [] 378 - quit smoking
 [] 518 - sled ride 
-[] 550 - voltage drop
-[] 676 - efficiency
 [] 704 - parallel line
 [] 739 - lumen
-[] 775 - rc circuit
 [] 826 - lighting
 [] 1004 - energy conversion
-[] 1009 - wire resistance
-[] 1052 - electrical power
-[] 1063 - Shockley diode
 [] 1139 - snow load
 [] 1146 - power converter
 [] 1151 - how many leaves are on the tree
 
 
+178 - Ohm's law
+193 - electricity cost
+216 - LED resistor
+550 - voltage drop
+676 - efficiency
+775 - rc circuit
+1009 - wire resistance
+1052 - electrical power
+1063 - Shockley diode
 1212 - how many days until Christmas
 

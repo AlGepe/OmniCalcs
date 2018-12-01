@@ -4,10 +4,15 @@ Welcome to the Christmas tree decorations calculator, where you will find how to
 
 Christmas is upon us, much closer than you might think, but still further than advertisements want you to think. The real conclusion if you look at <portal cid=1212>how many days remain until Christmas</portal> is that is we should start getting ready for it. One of the things you will probably want to set up is your Christmas tree. And no Christmas tree is complete without Christmas tree ribbons or lights. Which bring an important question: How many Christmas tree lights do you need to decorate your tree properly?
 
-The term "properly" is a subjective one but assuming you already have a perfect way the tree should look like, how do you know the length of lights you will need to fully decorate your Christmas tree? We have the solution. In the following sections we will show you how to wrap a XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+The term "properly" is a subjective one but assuming you already have a perfect way the tree should look like, how do you know the length of lights you will need to fully decorate your Christmas tree? We have the solution. In the following sections we will show you how to wrap a Christmas tree in the most efficient and aesthetic way. How? -you might ask- How to decorate a Christmas tree the perfect way? It's easy, we will just need maths and a bit of ingenuity. 
+
+There are many subjective things to take into consideration when deciding how to decorate a Christmas tree. Whether you prefer Christmas tree ribbons or light, what colors to use, how bright (brightness is measured in <portal cid=739>lumen</portal>) you want it to be, how much <portal cid=20>electricity cost</portal> are you willing to assume, and even where you want your Christmas tree (indoor or outdoor Christmas tree). However, there are certain aesthetic factors that will please most people such as uniformity, symmetry, proportionality... And those are the kinds of things that we can help you with in our Christmas tree decorations calculator.
+
+## What makes the best Christmas tree?
+
+Now that we know what we have to look at, let's do it.
 
 
-## =what makes the best Christmas tree
 
 ## How to decorate a Christmas tree with lights [Theory]
 
