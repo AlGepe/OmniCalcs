@@ -10,7 +10,11 @@ There are many subjective things to take into consideration when deciding how to
 
 ## What makes the best Christmas tree?
 
-Now that we know what we have to look at, let's do it.
+Now that we know what we have to look at, let's do it. To achieve such a high level of Christmas tree decorations we need the aforementioned symmetry, uniformity... And that only leaves us one possible path to walk: Maths. Using maths we can predict the <portal cid=208>length</portal> of Christmas tree decorations (lights or ribbons) that we will need to achieve our desired level of "tree coverage". Using maths we can also calculate the amount of baubles we will need for our tree; let us show you how.
+
+The first thing we have to decide is the best way to wrap the light around the tree. For this, the best option is the mathematical shape called: **_Conical Helix_**. The best way to understand this curve (aside from looking at the picture above this text) is to imagine a helix wrapped around a cone, so that as it goes up, it gets narrower and narrower. This shapes gives us very good uniformity when seen from the side or from the top (not that many people look at christmas trees from this side, but it's good to have all the bases covered) and it has almost rotational symmetry so that it does not matter where you start wrapping the Christmas tree or if you turn it around.
+
+
 
 
 
