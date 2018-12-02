@@ -12,17 +12,26 @@ There are many subjective things to take into consideration when deciding how to
 
 Now that we know what we have to look at, let's do it. To achieve such a high level of Christmas tree decorations we need the aforementioned symmetry, uniformity... And that only leaves us one possible path to walk: Maths. Using maths we can predict the <portal cid=208>length</portal> of Christmas tree decorations (lights or ribbons) that we will need to achieve our desired level of "tree coverage". Using maths we can also calculate the amount of baubles we will need for our tree; let us show you how.
 
-The first thing we have to decide is the best way to wrap the light around the tree. For this, the best option is the mathematical shape called: **_Conical Helix_**. The best way to understand this curve (aside from looking at the picture above this text) is to imagine a helix wrapped around a cone, so that as it goes up, it gets narrower and narrower. This shapes gives us very good uniformity when seen from the side or from the top (not that many people look at christmas trees from this side, but it's good to have all the bases covered) and it has almost rotational symmetry so that it does not matter where you start wrapping the Christmas tree or if you turn it around.
+The first thing we have to decide is the best way to wrap the light around the tree. For this, the best option is the mathematical shape called: **_Conical Helix_**. The best way to understand this curve (aside from looking at the picture above this text) is to imagine a helix wrapped around a cone, so that as it goes up, it gets narrower and narrower. Since we can all agree that a typical Christmas tree looks very similar to a cone, it is easy to see how this shape is a good way to wrap our Christmas tree decorations.
 
+The conical helix gives us very good uniformity when seen from the side or from the top (not that many people look at christmas trees from this side, but it's good to have all the bases covered) and it has almost rotational symmetry so that it does not matter where you start wrapping the Christmas tree or if you turn it around. With this in mind, the next step is to explore the mathematical equations that define such a shape. Those are not as complicated as one might think, the most complicated operations are an integral and a <portal cid=151>square root</portal>. Let's introduce them:
 
+`x(t) = r * (1-t) * cos(wt)`
+`y(t) = r * (1-t) * sin(wt)`
+`z(t) = h * t`
 
+`Length = ∫√[x(t)² + y(t)² + z(t)²]dt`
 
+Where `t` determines what point of the conical helix we're in and `r` is the starting radius(which for us is the diameter at the base of the tree)
+
+It might look like a complicated set of formulas but with a very basic understanding of integration you could solve it by hand. You don't need to do it, though, because we have created for you this easy calculator to do all the dirty work for you. 
+
+The calculator can not only determine the length needed to properly cover the tree, but also the amount of Christmas baubles that you will need to use to decorate the tree. For this second calculation there is no fancy maths required since the calculator will compute the area of the cone formed by the Christmas tree. With this value and your desired density of baubles, the calculator will obtain the necessary number of baubles as well as tell you what <portal cid=404>percentage</portal> of the surface of the tree will be covered by this bubbly Christmas decorations.
 
 ## How to decorate a Christmas tree with lights [Theory]
 
 XXXXXXXXXXXXXXXXXX
 
-But Christmas tree decorations, Christmas tree farms and all that surrounds this symbol of Christmas time, was not always as prevalent as we think. In fact the Christmas tree history is a very interesting one as we will explain now. Spoiler alert: the first Christmas tree probably appeared much later than you think.
 ## =How to use the calculator
 
 Now that we know how the Christmas tree decorations calculator works internally, we can see how to use it for our purposes. To begin the explanation let us explain what each of the fields is referring to.
@@ -55,16 +64,16 @@ Another option is to build your own set of Christmas tree lights. If you embark 
 
 If you also plan to use LED lights, congratulations because you will have lower <portal cid=1052>electrical power consumption</portal> with all the benefits associated to it. However LEDs are complex diodes that don't follow <portal cid=178>Ohm's law</portal>. So if you want to truly understand them we recommend checking our <portal cid=1063>ideal diode calculator</portal><portal cid=216>LED resistor calculator</portal>.
 
-`## =how the calculator works (maybe 2 sections)`
+But Christmas tree decorations, and all that surrounds this symbol of Christmas time, was not always as prevalent as we think. In fact the Christmas tree history is a very interesting one as we will explain now. Spoiler alert: the first Christmas tree probably appeared much later than you think.
 
 
 ## Mini Christmas tree history: the first Christmas tree
 
 In a culture greatly influenced by Christian traditions, like the western culture is, the thought of a Christmas tree makes some people uncomfortable. A Christmas tree is thought of by some as a pagan symbol that is opposed to their religious believes, but is it really a pagan symbol? Let's talk a little bit about the Christmas tree history. Despite the widespread thought that Christmas trees are specifically mentioned in the Bible as a form of sacrilege, it is very unlikely that Christmas trees existed at that time. 
 
-Even though evergreen branches were used since longer than recorded history as a decoration, the first real Christmas tree seem to have appeared in 1510 in Riga. This is first Christmas tree was located in the main square of the Estonian capital as Christmas decoration and burnt after the holidays. The first Christmas tree was not the start of a widespread tradition but something more anecdotal. History points towards germany as the next important milestone in widespread Christmas tree adoption. Proestant founder Martin Luther used them as Christmas decorations.
+Even though evergreen branches were used since longer than recorded history as a decoration, the first real Christmas tree seem to have appeared in 1510 in Riga. This is first Christmas tree was located in the main square of the Estonian capital as Christmas decoration and burnt after the holidays. The first Christmas tree was not the start of a widespread tradition but something more anecdotal. History points towards Germany as the next important milestone in widespread Christmas tree adoption. Protestant founder Martin Luther used them as Christmas decorations.
 
-From there it would seem like adoption started growing as german settlers in Pennsylvania started using real Christmas trees as part of the decoration, and using candles as Christmas tree lights. Most of the concerns about pagan symbolism started to disappear as the royal family was drawn celebrating Christmas with a mini Christmas tree as decoration. From them the usage of Christmas trees and Christmas tree ornaments grew (apparently spreading from east to west) in the USA until it became one of the key symbols of Christmas.
+From there it would seem like adoption started growing as German settlers in Pennsylvania started using real Christmas trees as part of the decoration, and using candles as Christmas tree lights. Most of the concerns about pagan symbolism started to disappear as the royal family was drawn celebrating Christmas with a mini Christmas tree as decoration. From them the usage of Christmas trees and Christmas tree ornaments grew (apparently spreading from east to west) in the USA until it became one of the key symbols of Christmas.
 
 Still today there are concerns about the (pagan) symbolism of a real Christmas tree but most of the people embrace this tradition and have their Christmas tree home. It is very hard nowadays to imagine Christmas decorations without thinking of a Christmas tree with all its Christmas ornaments.
 
@@ -75,7 +84,7 @@ Nobody should be discriminated for their color, and neither should Christmas dec
 
 So whether you are in love with LED Christmas tree lights or you swear by Christmas tree ribbons, we have you covered. The calculator will provide you with a result, no matter what type of decoration you want to use. As long as you are wrapping the Christmas lights/ribbons in the conical helix shape we have discussed above, you will be fine and our calculations will give you useful results. 
 
-Just remember: all Christmas decorations are equal and have their places, you should not judge people for choosing one over the other, just respect. Tolerance is the key to a good healthy relationship so if you see someone using Christmas tree ribbons instead of LED lights, just tell them that they are not alone XXXXXXXXXXXXXXyou love them anyway and that you will help them XXXXXXXXXXXXXXXXXXXXXXXX
+Just remember: all Christmas decorations are equal and have their places, you should not judge people for choosing one over the other, just respect. Tolerance is the key to a good healthy relationship so if you see someone using Christmas tree ribbons instead of LED lights, just tell them that they are not alone, that you love them anyway and that you will help them get their life back together ;)
 
 
 

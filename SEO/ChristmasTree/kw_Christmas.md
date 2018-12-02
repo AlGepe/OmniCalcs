@@ -21,8 +21,6 @@
 
 
 [] 20 - Electricity cost (single)
-[] 151 - square root
-[] 208 - length converter
 [] 378 - quit smoking
 [] 518 - sled ride 
 [] 704 - parallel line
@@ -34,9 +32,12 @@
 [] 1151 - how many leaves are on the tree
 
 
+151 - square root
 178 - Ohm's law
 193 - electricity cost
+208 - length converter
 216 - LED resistor
+404 - percentage
 550 - voltage drop
 676 - efficiency
 775 - rc circuit
