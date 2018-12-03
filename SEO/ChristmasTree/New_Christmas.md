@@ -28,10 +28,6 @@ It might look like a complicated set of formulas but with a very basic understan
 
 The calculator can not only determine the length needed to properly cover the tree, but also the amount of Christmas baubles that you will need to use to decorate the tree. For this second calculation there is no fancy maths required since the calculator will compute the area of the cone formed by the Christmas tree. With this value and your desired density of baubles, the calculator will obtain the necessary number of baubles as well as tell you what <portal cid=404>percentage</portal> of the surface of the tree will be covered by this bubbly Christmas decorations.
 
-## How to decorate a Christmas tree with lights [Theory]
-
-XXXXXXXXXXXXXXXXXX
-
 ## =How to use the calculator
 
 Now that we know how the Christmas tree decorations calculator works internally, we can see how to use it for our purposes. To begin the explanation let us explain what each of the fields is referring to.
@@ -56,14 +52,6 @@ The Christmas tree decorations calculator has 3 sections. The first section is d
 
 For both the Christmas tree area and the baubles sections you will need to provide 2 inputs in each sections while for the Christmas tree ribbon / lights section you only need to provide one. We have discussed previously how to decorate a Christmas tree in the most effective and harmonious way, so that is how the calculator assumes you will do it.
 
-## You calculated everything, now what?
-
-Now that you have figured out how many lights you need, you just need to consider the <portal cid=193>electricity cost</portal> to decide how long you want to keep them on. Alternatively you can buy better <portal cid=676> efficiency</portal> LED Christmas tree lights and run them for longer or save money. 
-
-Another option is to build your own set of Christmas tree lights. If you embark in such a DIY project you can probably make us of some of our electrical calculators such as the <portal cid=550>voltage drop calculator</portal><portal cid=775>RC circuit calculator</portal><portal cid=1009>wire resistance calculator</portal> as a starting point. 
-
-If you also plan to use LED lights, congratulations because you will have lower <portal cid=1052>electrical power consumption</portal> with all the benefits associated to it. However LEDs are complex diodes that don't follow <portal cid=178>Ohm's law</portal>. So if you want to truly understand them we recommend checking our <portal cid=1063>ideal diode calculator</portal><portal cid=216>LED resistor calculator</portal>.
-
 But Christmas tree decorations, and all that surrounds this symbol of Christmas time, was not always as prevalent as we think. In fact the Christmas tree history is a very interesting one as we will explain now. Spoiler alert: the first Christmas tree probably appeared much later than you think.
 
 
@@ -87,4 +75,12 @@ So whether you are in love with LED Christmas tree lights or you swear by Christ
 Just remember: all Christmas decorations are equal and have their places, you should not judge people for choosing one over the other, just respect. Tolerance is the key to a good healthy relationship so if you see someone using Christmas tree ribbons instead of LED lights, just tell them that they are not alone, that you love them anyway and that you will help them get their life back together ;)
 
 
+
+## You calculated everything, now what?
+
+Now that you have figured out how many lights you need, you just need to consider the <portal cid=193>electricity cost</portal> to decide how long you want to keep them on. Alternatively you can buy better <portal cid=676> efficiency</portal> LED Christmas tree lights and run them for longer or save money. 
+
+Another option is to build your own set of Christmas tree lights. If you embark in such a DIY project you can probably make us of some of our electrical calculators such as the <portal cid=550>voltage drop calculator</portal><portal cid=775>RC circuit calculator</portal><portal cid=1009>wire resistance calculator</portal> as a starting point. 
+
+If you also plan to use LED lights, congratulations because you will have lower <portal cid=1052>electrical power consumption</portal> with all the benefits associated to it. However LEDs are complex diodes that don't follow <portal cid=178>Ohm's law</portal>. So if you want to truly understand them we recommend checking our <portal cid=1063>ideal diode calculator</portal><portal cid=216>LED resistor calculator</portal>.
 
