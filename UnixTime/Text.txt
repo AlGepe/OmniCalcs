@@ -1,0 +1,34 @@
+The UNIX time converter calculator allows you to convert from UNIX time or UNIX epoch time to the corresponding date in any of the time-zones in the world, and vice versa. All time-zones are available including the different names by which they are referred to, making it easy to calculate the current UNIX time no matter where or when in the world you are.
+
+## What is UNIX time?
+
+UNIX time or UNIX epoch time is the standard way in which computers keep track of time and it consists in a number stored in the computer that gets increased by one every second. This number is the current UNIX time and it represents the number of seconds that have passed since the 1st January 1970 at 00:00 (UTC/GMT time). This date was chose as it was (at the time) a fairly close date that had some importance (change of year) but it was still an arbitrary decision. 
+
+The usage of UNIX time made it easy and fast to keep track of time and sync different systems, since it means times is a universal number that should always be the same in all computers independently of the time-zone. To turn that number (fairly difficult to read for humans) into an intelligible date the computer performs a series of calculations, as we do in this UNIX time calculator, so that instead of the current UNIX time number you see a date that makes sense to you.
+
+## Problems with UNIX epoch time
+
+UNIX epoch time is not perfect, though. It has two flaws that make it complicated to use for super precise measurements and means it would need to be replaced or updated at some point. The first of the problems is that UNIX epoch time does not take into account leap seconds. Leap seconds are extra seconds added to some years to account for the slowing down in Earth's rotation, and avoid mismatched between solar time and our 'everyday time' which is currently called Universal Time Coordinated (UTC).
+
+The second problem with UNIX time is that the number is stored in computers in such a way that it has an upper limit of `2147483647` which using the UNIX time converter calculator we can see that would correspond to 03:14:07 UTC on 19th January 2038. If we would add one more second to that maximum possible number it would become `-2147483647` due to an unavoidable process called **integer overflow**. After the overflow happens the computer will read a negative current UNIX time and will hence show the date to be 13 December 1901 (2147483647 seconds before 1st January 1970).
+
+This problem is very similar as the <a href=https://en.wikipedia.org/wiki/Year_2000_problem> "Year 2000 Problem" </a> and has no universal fix. Luckily newer systems are being equipped with bigger memory allocated to store the value of UNIX time (from `int32` to `int64`) so that this problem will never happen again (`int64` can store the number of seconds well passed the current age of the universe).
+
+## How to use the UNIX time converter calculator
+
+There are two many ways to use the UNIX time converter calculator: to convert back and forth any UNIX time to/from regular date, and to **use it as a world-clock** converting from/to different time-zones. We will now explain how to do both things and comment some tips and tricks to take into account.
+
+For the first usage (using the calculator as a UNIX time converter) you simply need to introduce the desired date into the corresponding time-zone box and you will get the corresponding value in UNIX time; or, conversely you can introduce the current UNIX time (or your desired one) and see what date it correlates to in your time-zone of interest.
+
+[need to ask about problems here] Note that UNIX epoch time can take any value even though in computers it is generally an integer between -2147483647 and 2147483647.
+
+To use the UNIX time converter calculator as a world clock the procedure is the same:
+
+1) Look the time zone you want to convert from
+1) Input the desired date
+1) Look for the time zone you want to convert to
+1) Profit!
+
+A simple trick for those not familiar with the abbreviations or wanting to use military zones is to hoover the mouse over the time zones abbreviations in the calculator and wait for the help information to be displayed. This information includes the full name of the time zone, the delay with respect to the reference time zone (GMT/UTC) and the military denomination of such zone. 
+
+Time zones are grouped as either `Western`, `Eastern`, `Western Summer` and `Easter Summer` where eastern and western represent their location with respect to the GMT/UTC time zone. For simplicity only a few time zones are shown by default but if you click on `Advanced Mode` you will be able to see all existing time zones as well as summer time zones for those countries which have daylight savings time.
