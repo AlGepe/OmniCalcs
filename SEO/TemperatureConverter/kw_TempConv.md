@@ -55,6 +55,7 @@ CONVERSION TOOLS IN GENERAL
 [] 439 - force of friction
 [] 440 - thermal expansion
 [] 463 - chi square
+[] 472 - normal distribution
 [] 481 - slope intercept
 [] 486 - linear interpolation
 [] 499 - Boiling point at altitude
