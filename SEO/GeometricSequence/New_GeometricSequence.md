@@ -4,7 +4,7 @@ As found on the (https://en.wikipedia.org/wiki/Geometric_progression)[Wikipedia]
 
 Before we dissect the definition properly it's important to clarify a **few things to avoid confusion**. First of all we need to understand that even though the geometric progression is made up by constantly multiplying numbers by a factor, this is not related to the <portal cid=395>factorial</portal>. What it is indeed related is to the greatest common factor (GFC) and Lowest Common Multiplier (LCM)</portal> since all but the first number share a common factor. 
 
-This means that the <portal cid=169>GCF</portal> is simply the _commmon ratio_ to a different power (the exponent depends on what terms from the sequence we are considering). Conversely, the <portal cid=169>LCM</portal> is just the smallest of the number we are interested in.
+This means that the <portal cid=169>GCF</portal> is simply the _commmon ratio_ to a different power (the <portal cid=158>exponent</portal> depends on what terms from the sequence we are considering). Conversely, the <portal cid=169>LCM</portal> is just the smallest of the number we are interested in.
 
 ## Geometric progression: What is a geometric sequence/progression?
 
@@ -61,72 +61,47 @@ Which is a result you can easily compute compute on your own and represents the 
 
 ## From the geometric sequence formula to a geometric sum calculator for infinite terms
 
+After seeing how to obtain the geometric series formula for a finite number of terms, it is natural (at least for mathematicians) to ask _how can I obtain the infinite sum of a geometric sequences?_ It might seem impossible to do so but there are certain tricks that allow us to calculate this value in simple steps. For this we need to introduce the concept of _limit_. This is a mathematical process by which we can understand what happens at infinity or in cases where we find a mathematically undefined expression such as `0/0` or `0⁰`. 
 
+Talking about limits is a very complex subject and it goes beyond the scope of this calculator. It is for this reason that we have decided to just mention them and not actually go in detail as to how to calculate them. Do not worry, thought, because you can still calculate the infinite sum of a geometrical series using our calculator. The only thing you need to know is that not all series have a defined sum; the conditions that a series has to fulfil for its sum to be a number (this is what mathematicians call _convergence_) are simple in principle, so we will explain them in the following section.
 
 ## Remarks on using the calculator as a geometric series calculator
 
+When it comes to mathematical series (from both geometric and <portal cid=509>arithmetic sequences</portal>) they are often grouped in two different categories depending on whether their infinite sum is finite (convergent series) or infinite or non-defined (divergent series). The best way to know if a series is convergent or not is to calculate their infinite sum using limits, but short of that there are some tricks that can allow us to rapidly distinguish between convergent and divergent series without having to do all the calculations. This tricks include: looking at the initial and general term, looking at the ratio, comparing with other series.
+
+For a series to be convergent the general term (aₙ) has to always get smaller as we increase the value of `n`. If `aₙ` gets smaller we cannot guarantee that the series will be convergent but if `aₙ` is constant of gets bigger as we increase `n` we can definitely say that the series will be divergent. If we are not sure whether `aₙ` gets smaller or not, we can simply look at the inital term and the ratio, or even calculate some of the first terms. This will give us a sense for how `aₙ` evolves.
+
+The second option we have is to compare the evolution of our geometric progression against one that we know for sure converges (or diverges), which can be done with a quick search online. Speaking broadly if the series we want to know about is smaller than one that we know for sure that converges, we can be certain that our series will also converge. Conversely if our series is bigger than one we know for sure is divergent, our series will always diverge. In the rest of the cases (bigger than a convergent or smaller than a divergent) we cannot say anything about our geometric series and we are forced to find another series to compare to or to use another method.
+
+These criteria apply for arithmetic and geometric progressions. In fact these two are closely related with each other and both sequences can be linked by the operations of exponentiation and taking <portal cid=470>logarithms</portal>
+
 ## Zeno's paradox and other geometric sequence examples
 
-Powers of two
-Power series
-Zeno's paradox
+We have already seen a geometric sequence example in the form of the so-called _Sequence of powers of two_. This is a very important sequence because of computers and their usage of binary representation of data. In this progression we can find values such as the maximum allowed number in a computer (varies depending on the type of variable we use), the numbers of <portal cid=220>bytes</portal> in a gigabyte, or the number of second till the end of <portal cid=1118>UNIX time</portal> (both original and _patched_ values).
 
+On top of the power-of-two sequence, we can have any other power sequence if we simply replace `r = 2` with the value of the base we are interested in. Power series are commonly used and widely known and can be expressed using the convenient geometric sequence formula. But this power sequences of any kind are not the only sequences we can have, and we will show you even more important or interesting geometric progressions like the alternating series of the mind blowing Zeno's paradox.
+
+Let's start with Zeno's paradox, a paradox that at its core is just a mathematical puzzle in the form of an infinite geometric series. Zeno was a Greek philosopher the pre-dated Socrated. He devised a mechanism by which he could prove that movement was impossible and should never happen in real life. The idea is to divide the distance between the starting point (A) and the finishing point (B) in half. Once you have covered the first half you divide the remaining distance half again... You can repeat this process as many times as you want which means that you will always have some <portal cid=144>distance</portal> left to get to point B.
+
+Zeno's paradox seems to predict that, since we have an infinite amount of halves to walk, we would need an infinite amount of time to travel from A to B. However, as we know from our everyday experience this is not true and we can always get to point A to point B in a finite amount of time (except for Spanish people that always seem to arrive infitely late everywhere). The solution to this apparent paradox can be found using maths.
+
+If we express the time it takes to get from A to B (let's call it `t` for now) in the form of a geometric series we would have a series defined by: `a₁ = t/2` with the common ratio being: `r = 2`. So the first half would take `t/2` to be walked, then we would cover half of the remaining distance in `t/4`, then `t/8`, Etc.. If we now perform the infinite sum of the geometric series we would find that:
+`S = ∑ aₙ = t/2 + t/4 + ... = t*(1/2 + 1/4 + 1/8 +...) = t * 1 = t`
+Which is the mathematical proof that we can get from A to B in a finite amount of time (`t` in this case). 
+
+To finish it off, and it case Zeno's paradox was not enough of a mind-blowing experience, let's mention the alternating unit series. This series starts at `a₁ = 1` and has a ratio `r = -1` which yields a series of the form: 
+`S = ∑ aₙ = 1 - 1 + 1 - 1 + ...`
+Which seems to not converge since the result depends on where we take an even (`S = 0`) or odd (`S = 1`) number of terms. There is a trick by which, however, we can make this series converge to one finite number. The trick itself is very simple but it is cemented on very complex mathematical (and even meta-mathematical) arguments so if you ever show this to a mathematician you risk getting into big trouble, you've been warned. Let's see the _"solution"_:
+`S = 1 - 1 + 1 - 1 + ...`
+We multiply both sides by `-1`:
+`-S = -1 + 1 - 1 + 1 - ... = -1 + (1 - 1 + 1 - 1 + ...) = -1 + S`
+If we solve for `S` now:
+`-S - S = -1 →  2S = 1 →  S = 1/2`
+
+Now you can go and show-off to your friends, as long as they are not mathematicians.
 
 
 
 
 NEW
 =======================================================================================
-=======================================================================================
-OLD
-
-This geometric sequence calculator will help you to analyze a geometric sequence - that is, a sequence in which each term is constructed by multiplying the previous one by a constant factor. You will be able to find this factor, as well as any term of the sequence and the geometric series - sum of n consecutive terms. If the sequence has a sum to infinity, our geometric sum calculator will find it as well. If you want to know what rules and formulas does it use, simple keep reading! 
-
-## Geometric progression: What is a geometric sequence/progression?
-
-A geometric sequence is an ordered set of numbers, in which each consecutive number is found by multiplying the previous term by a factor called the **common ratio**. Just as in case of any other sequence, it can have a finite (for example 30) or an infinite number of terms. 
-
-Geometric sequences are uniquely defined by two main coefficients: the **common ratio** and the **first term**. If you know these two values, you will be able to calculate each term of the sequence in a few seconds.
-
-Some examples of a geometric sequence include:
-* 2, 4, 8, 16, 32, 64, 128...
-* 6, -3, 1.5, -0.75, 0.375...
-* 1, -1, 1, -1, 1, -1, 1... (called the alternating sequence with `r = -1`)
-
-## Geometric Sequence equation and geometric sequence definition
-## Explicit formula of a geometric sequence and the nᵗʰ term
-
-What happens if you want to calculate a certain term of a geometric sequence - for example, the tenth one? You surely don't want to keep multiplying the numbers over and over. You probably have already noticed that you don't have to. The only thing you need to do is to take the first term and multiply it by the common ratio raised to a certain power. When put into a formula, this rule looks like this:
-
-`aₙ = a₁ * rⁿ⁻¹`
-
-where:
-* *a** is the nᵗʰ term of the sequence,
-* **r** is the common ratio and
-* **a₁** is the first term of the sequence.
-
-## Geometric sequence formula and how to become a geometric sum calculator
-
-Now, let's assume that you want to calculate the geometric series with our geometric sequence calculator (a series is simply a sum of the sequence). Do you need to calculate each and every term and finally add them together?
-
-The answer is no. You can use a geometric sum equation that requires you to know only three things - the common ratio, the first term and number of terms you want to add up. This formula is derived using the properties of polynomial division.
-
-`Σ = a₁ * (1 - rⁿ) / (1-r)`
-
-## Geometric series formula: sum of a geometric sequence
-
-You probably noticed that if the common ratio is lower than 1, each consecutive term is smaller than the previous one. That means that at some point the terms will become so small that they will virtually be equal to 0 and not have any influence on the series. Such sequences have an **infinite sum** - the sum of all terms, from the first one to infinity.
-
-The necessary condition for a geometric sequence to have an infinite sum is that the absolute value of the common ratio must be lower than 1 (`|r| < 1`).
-
-Then, you can find the infinite series according to the formula
-
-`Σ = a₁ / (1-r)`
-
-## How to use the Geometric sequence calculator
-
-## Remarks on using the calculator as a geometric series calculator
-
-## Other types of sequences
-
-Our geometric sequence calculator is capable of analyzing only one specific type of a sequence. For example, the sequence 3, 5, 7, 9, 11, 13, 15... does not have a common ratio, so its sum cannot be found using this tool. Feel free to check out our <portal cid="509">arithmetic sequence calculator</portal> if you want to solve that sequence.

@@ -15,17 +15,18 @@ GEOMETRIC DISTRIBUTION
 GEOMETRIC MEAN CALCULATOR
 
 [] 139 - percentage of percentage
-[] 158 - exponent 
 [] 161 - scientific notation
 [] 265 - average
 [] 392 - significant figures
-[] 395 - factorial
 [] 470 - log
 [] 509 - arithmetic sequence
 [] 560 - dot product
 
 
+158 - exponent 
 258 - ratio
+308 - sum of linear number seq
+395 - factorial
 LCM
 GFC 
 LCM&GFC
