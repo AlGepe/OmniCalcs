@@ -31,11 +31,37 @@ Where here `x` is used to express the fact that any number will be used in its p
 
 ## How to use the Geometric sequence calculator
 
-Now that you know what is a geometric sequence and how to write both the recursive and explicit formula for a geometric sequence is time to **apply our knowledge and calculate some stuff**! 
+Now that you know what is a geometric sequence and how to write both the recursive and explicit formula for a geometric sequence is time to **apply our knowledge and calculate some stuff**! With our geometric sequence calculator you can calculate the most important values of a finite geometric sequence. These values include **the common ration, the inital term, the last term and the number of terms**. Let's see a brief description of them in the following list:
 
-## Geometric sequence formula and how to become a geometric sum calculator
+* `Initial term`: First term of the sequence
+* `Common ration`: Ratio between the term aₙ and the term aₙ₋₁
+* `Number of terms`: How many numbers does out geometric sequence contain
+* `N-th term`: Value of the last term
+* `Sum of the first N terms`: Result of adding up all the terms in the finite series
+* `Infinite sum`: Sum of all terms possible from `n=1` to `n=∞`
+
+This terms are all known to us already, except the last 2, about which we will talk in the following sections. If we ignore the summation components of the geometric sequence calculator, we will need to introduce 3 of the 4 values to obtain the 4th element. The sums are automatically calculated from this values; but seriously, don't worry about it too much, we will explain what they mean and how to use them in the next sections.
 
 ## Geometric series formula: sum of a geometric sequence
+
+So far we have talked about geometric sequences or geometric progressions, which are collections of numbers. However there are really interesting results to be obtained when we try to sum the terms on a geometric sequence. When we have a finite geometric progression, which has a limited number of terms, the process here is as simple as finding the <portal cid=308>sum of a linear number sequence</portal>. Calculating the sum of this geometric sequence can even be done by hand, in principle.
+
+We can be more efficient than that by using the geometric series formula and plating around with it. To do this we will use the mathematical sign of summation (`∑`) which means summing up every term after it. For example if we have a geometric progression named `P` and we name the sum of the geometric sequence (its associated geometric series) `S`, the relationship between both would be: 
+`S = ∑ P`
+This is the first geometric series formula we see and the simplest, but it is also not how a mathematician would write it. In mathematics geometric series and geometric sequences are typically denoted just by their general term `aₙ`, so the geometric series formula would look like this:
+`S = ∑ aₙ = a₁ + a₂ + a₃ + ... + aₘ` 
+Where `m` is the total number of terms we want to sum. 
+Unfortunately this still leaves you with the problem of actually calculating the value of the geometric series. You could always use this calculator as a geometric series calculator (we will show you how later) but it would be much better if before using any geometric sum calculator you could understand how to do it manually. There is a that can make our job much easier and involves tweaking and solving the geometric sequence equation like this: 
+`S = ∑ aₙ = ∑ a₁ * rⁿ⁻¹ = a₁ + a₁ * r + a₁ * r² + ... + a₁ * rᵐ⁻¹`
+Now multiply both sides by `(1-r)` and solve:
+`S * (1-r) = (1-r) * (a₁ + a₁ * r + a₁ * r² + ... + a₁ * rᵐ⁻¹)`
+`S * (1-r) = a₁ + a₁ * r + a₁ * r² + ... + a₁ * rᵐ⁻¹ - a₁ * r - a₁ * r² - ... - a₁ * rᵐ = a₁ - a₁ * rᵐ` 
+`S = ∑ aₙ = a₁ - a₁ * rᵐ / (1-r)`
+Which is a result you can easily compute compute on your own and represents the basic geometric series formula, when the number of terms in the series in finite. However, this is maths and not the Real Life™ so we can actually have an infinite number of terms in our geometric series and still be able to calculate the total sum of all the terms. How does this wizardry work? - I hear you ask-. Well fear not for **we shall explain all the details to you, found apprentice**.
+
+## From the geometric sequence formula to a geometric sum calculator for infinite terms
+
+
 
 ## Remarks on using the calculator as a geometric series calculator
 
