@@ -1,3 +1,18 @@
+## Vector cross product definition
+## Cross product properties
+## Cross product formula
+## How to do the cross product of two vectors
+## How to use the vector cross product calculator
+## Dot product vs cross product
+## Cross product and physics: Best Friends Forever
+## Right hand rule in physics: why is it so useful?
+
+
+
+NEW
+==========================================================================================
+==========================================================================================
+OLD
 This vector cross product calculator allows you to calculate a cross product of two arbitrary vectors in a 3D space. Instead of performing tedious manual calculations, you can input the components of two vectors into this calculator and obtain the result in a blink of an eye. Don't worry if you're not an expert on the subject; this article with explain in detail how to calculate the cross product. It will also provide you with the step-by-step derivation of the cross product formula.
 
 ## Cross vs. dot product

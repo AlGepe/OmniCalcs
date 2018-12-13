@@ -24,12 +24,12 @@ GEOMETRIC MEAN CALCULATOR
 
 
 158 - exponent 
+169 - GFC 
+170 - LCM
+171 - LCM&GFC
 258 - ratio
 308 - sum of linear number seq
 395 - factorial
-LCM
-GFC 
-LCM&GFC
 
 
 Target: 1600
