@@ -1,7 +1,35 @@
 ## Vector cross product definition
-## Cross product properties
+
+A vector is a mathematical tool, widely used in physics, that allows you to deal with collections of numbers (dimensions) in a very efficient way. The collection of operations, rules and properties to deal with vectors is called vector algebra and, similarly to the algebra of numbers, it includes multiplication operations. However, operations with vectors are more complex than with numbers since they carry much more information that has to be carefully manipulated. This is one of the reasons why in vector algebra there are two different types of multiplications or product operations: the cross product and the <portal cid=560>dot product</portal>.
+
+The definition, as it is common with mathematical stuff, is very technical but we will explain you what it means in more normal (and less accurate) terms so that even if you don't have a strong mathematical background everything will make sense for you. According to <a href=https://en.wikipedia.org/wiki/Cross_product>Wikipedia</a> the cross product, also called _vector product_ is: 
+
+`Is a binary operation on two vectors in three-dimensional space and is denoted by the symbol ×. Given two linearly independent vectors **a** and **b** the cross product, **a × b**, is a vector that is perpendicular to both **a** and **b** and thus normal to the plane containing them.`
+
+That is indeed a mouthful but we can translate from mathematical jargon into everyday explanation so that we can all understand it. First of all the definition talks about a three-dimensional space, like the one we live in, because it is the most common usage of the cross product, but the cross product can be extended to more dimensions; that is, however, beyond the scope of this text and most math-related degrees. 
+
+What the definition is telling us is that the vector cross product of any two vectors is a third vector that is perpendicular to both of them (and to the plane that contains them). This is possible in 3-dimensional space because in such a space there are 3 independent directions. To put it in everyday terms, you can think of these three directions as being height, width and depth.
+
+To know how this new third vector will look like in terms of size, and mathematical description, we will use the formula for the cross product of two vectors. In the next section you will be presented with the formal, mathematical formula that tells you how to do the cross product of any two vectors. As we also do at Omni, we will also explain what this equation means and how to use it in a simple, yet accurate way.
+
 ## Cross product formula
+
+Before we present to you the formula for the vector product we need two vectors that we will call `a` and `b`. These two vectors should not be collinear (a.k.[. parallel) for reason that we will explain after we see the formula. We will call the resulting vector from the cross product formula `c`. We also remind you that the letter `n` is used to denote a unitary vector (perpendicular to both `a` and `b`. So without further ado let's see the formula:
+
+`c = a × b = |a| * |b| * sinθ * n`,
+
+According to this formula, the resulting vector `c` from performing the cross product between `a` and `b` is a vector perpendicular to both (that's where the `n` part of the equation comes in). The modulus/norm/length of this new vector is equal to the "normal" product of the modulus of each of the initial vectors times the sinus of the angle between them (`θ`). The fact that there is a factor of perpendicularity, together with the fact that we have a sinus function in the formula are good indicators of the geometrical interpretations of the vector cross product. We will more about those when we explain the properties of this mathematical operation.
+
 ## How to do the cross product of two vectors
+
+We have seen the mathematical formula for the vector cross product, but you might still be thinking "_This is all well and good but how do I **actually** calculate the new vector?_" And that is a very good question. By far the fastest and easiest solution is to use our vector cross product calculator, but if you have read this far you are probably looking not only for results but also for knowledge, so we'll give it to you. We will divide the process into 3 different steps: calculating the modulus of a vector, calculating the angle between two vectors, and calculating the perpendicular unitary vector. Putting all these three intermediary results together by means of a simple CALCmultiplicationEND will yield the desired vector.
+
+For starters let's tackle obtaining the modulus, norm or length of a 3-D vector. For that we simply need to calculate the <portal cid=291>3d distance</portal> from the beginning to the end of the vector. That can be done using our calculator or by simply taking each of the three components, squaring them, summing them and the performing the <portal cid=151> square root</portal> of the result. Putting it in mathematical terms (using vector `a`) as an example we get:
+
+`|a| = √(a₁² + a₂² + a₃²)`
+
+Where `a₁`, `a₂` and `a₃` represent each of the components of the 3d vector `a`. 
+## Cross product properties
 ## How to use the vector cross product calculator
 ## Dot product vs cross product
 ## Cross product and physics: Best Friends Forever
