@@ -3,7 +3,7 @@
 - VECTOR CROSS PRODUCT
 - CROSS PRODUCT FORMULA
 - CROSS PRODUCT OF TWO VECTORS
- - CROSS PRODUCT PROPERTIES
+- CROSS PRODUCT PROPERTIES
 - CROSS PRODUCT DEFINITION
 - HOT TO DO CROSS PRODUCT
 MATLAB CROSS PRODUCT
@@ -12,12 +12,11 @@ CROSS PRODUCT MATRIX
 - RIGHT HAND RULE
 - RIGHT HAND RULE PHYSICS
 RIGHT HAND RULE CROSS PRODUCT
+## ADULTERATE
 
 
 [] 144 - distance
-[] 151 - square root
 [] 161 - scientific notation
-[] 291 - 3d distance
 [] 410 - centrifugal force
 [] 475 - surface area
 [] 450 - moment of inertia
@@ -31,5 +30,9 @@ RIGHT HAND RULE CROSS PRODUCT
 [] 1082 - height of a triangle
 [] xxx - area of a [...]
 
+========================================
 Target: 2300
 starting point: 643
+========================================
+151 - square root
+291 - 3d distance

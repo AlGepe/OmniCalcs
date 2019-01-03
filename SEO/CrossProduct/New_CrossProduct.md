@@ -20,6 +20,8 @@ Before we present to you the formula for the vector product we need two vectors 
 
 According to this formula, the resulting vector `c` from performing the cross product between `a` and `b` is a vector perpendicular to both (that's where the `n` part of the equation comes in). The modulus/norm/length of this new vector is equal to the "normal" product of the modulus of each of the initial vectors times the sinus of the angle between them (`θ`). The fact that there is a factor of perpendicularity, together with the fact that we have a sinus function in the formula are good indicators of the geometrical interpretations of the vector cross product. We will more about those when we explain the properties of this mathematical operation.
 
+You can also see in the formula why it is important that the two vectors `a` and `b` not be parallel. If they where parallel that would mean that the angle between both of them will be `θ = 0` and hence we will have both `sinθ = 0` and `c = 0` which is a very uninteresting result. This leads, however, into another use for the vector cross product which we will explain later.
+
 ## How to do the cross product of two vectors
 
 We have seen the mathematical formula for the vector cross product, but you might still be thinking "_This is all well and good but how do I **actually** calculate the new vector?_" And that is a very good question. By far the fastest and easiest solution is to use our vector cross product calculator, but if you have read this far you are probably looking not only for results but also for knowledge, so we'll give it to you. We will divide the process into 3 different steps: calculating the modulus of a vector, calculating the angle between two vectors, and calculating the perpendicular unitary vector. Putting all these three intermediary results together by means of a simple CALCmultiplicationEND will yield the desired vector.
@@ -29,6 +31,7 @@ For starters let's tackle obtaining the modulus, norm or length of a 3-D vector.
 `|a| = √(a₁² + a₂² + a₃²)`
 
 Where `a₁`, `a₂` and `a₃` represent each of the components of the 3d vector `a`. 
+
 ## Cross product properties
 ## How to use the vector cross product calculator
 ## Dot product vs cross product
