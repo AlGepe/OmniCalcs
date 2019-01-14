@@ -14,7 +14,7 @@ To know how this new third vector will look like in terms of size, and mathemati
 
 ## Cross product formula
 
-Before we present to you the formula for the vector product we need two vectors that we will call `a` and `b`. These two vectors should not be collinear (a.k.[. parallel) for reason that we will explain after we see the formula. We will call the resulting vector from the cross product formula `c`. We also remind you that the letter `n` is used to denote a unitary vector (perpendicular to both `a` and `b`. So without further ado let's see the formula:
+Before we present to you the formula for the vector product we need two vectors that we will call `a` and `b`. These two vectors should not be collinear (a.k.[. parallel) for reason that we will explain after we see the formula. We will call the resulting vector from the cross product formula `c`. We also remind you that the letter `n` is used to denote a <portal cid=553>unit vector</portal>(perpendicular to both `a` and `b`. So without further ado let's see the formula:
 
 `c = a × b = |a| * |b| * sinθ * n`,
 
@@ -28,17 +28,46 @@ We have seen the mathematical formula for the vector cross product, but you migh
 
 However, calculating angles between vectors might get too complicated in 3-D space if all we want to do is to compute the cross product between two vectors. So let's explore a simpler, more efficient and practical way of calculating the vector cross product by means of a different cross product formula. This new formula makes use of the decomposition of a 3D vector into its 3 components. This is a very common way to describe and operate with vectors in which each component represents a direction in space and the number accompanying it represents the length of the vector in such direction. Cannonically the three dimensions of the 3-D space we're working with are named `x`, `y` and `z` and are represented by the unitary vectors **i**, **j** and **k** respectively.
 
-Following this nomenclature each vector can be represented by a sum of these three unitary vectors. The vectors are generally omitted for brevity but are still implied and have a big bearing on the result of the cross product.
+Following this nomenclature each vector can be represented by a sum of these three unitary vectors. The vectors are generally omitted for brevity but are still implied and have a big bearing on the result of the cross product. So a vector **v** can be expressed as: `v = (3i + 4j + 1k)` or in short: `v = (3, 4, 1)` where the position of the numbers matters. Using this notation we can now see and understand a very easy way to calculate the cross product of two vector, which we will call `v = (v₁, v₂, v₃)` and `w = (w₁, w₂, w₃)`. For these two vectors the formula looks like:
+
+`v x w = ( v₂w₃ - v₂w₃,  v₃w₁ - v₁w₃, v₁w₂ - v₂w₁)`
+
+<later>This result might look like a random collection of operations between components of each vector, but nothing is further from reality. For those of you wondering where this all comes from we encourage you to try and discover it yourself. All you need to do is start with both vectors expressed as: `v = v₁i + v₂j + v₃k` and `w = w₁i + w₂j + w₃k` and multiply each component of a vector with all the components with the other. As a small help or hint we can tell you that when doing the cross product of vectors multiplied by numbers the result is the regular product of the numbers times the cross product between vectors, as we will see in the next section. It will also come in handy to remember that the cross product of parallel vectors (and hence of a vector with itself) is always `0` as we've seen before.
 
 For starters let's tackle obtaining the modulus, norm or length of a 3-D vector. For that we simply need to calculate the <portal cid=291>3d distance</portal> from the beginning to the end of the vector. That can be done using our calculator or by simply taking each of the three components, squaring them, summing them and the performing the <portal cid=151> square root</portal> of the result. Putting it in mathematical terms (using vector `a`) as an example we get:
 
 `|a| = √(a₁² + a₂² + a₃²)`
 
-Where `a₁`, `a₂` and `a₃` represent each of the components of the 3d vector `a`. 
+Where `a₁`, `a₂` and `a₃` represent each of the components of the 3d vector `a`.  </later>
 
 ## Cross product properties
+
+
 ## How to use the vector cross product calculator
+
+So after all the things we've talked about it's time to get to know how to use our cross product calculator to save time and obtain results for any to vectors in 3-D space. As you can see, the variables are devided into 3 sections, one for each vector involved in a cross product calculation. Of these three vectors `c` is probably the one you should care about the most since it is the result of the cross product of the other two vectors `a` and `b`. Each vector has 3 components as mentioned before: `x`, `y` and `z` referring to the each of the three dimensions (depth, width and height).  
+
+Once we have understood what each of the field does, let's take a quick look at a normal use case for this calculator. To include an example for calculating the cross product of two vectors, we will use the vectors: `a = (2, 3, 7)` and `b = (1, 2, 4)`. 
+
+1) First step is introduce the components of vector `a`. That is: `x=2`, `y=3` and `z=7`
+1) Next you should introduce the components of vector `b`. That is: `x=1`, `y=2` and `z=4`
+1) _Voilà!_ you have just calculated `c = a x b = (-2, -1, 1)`
+1) Repeat again until you have calculated all the cross products you needed to
+1) Share with your friends the life changing experience of calculating vector cross products. ;)
+
+You can calculate the cross product of any vectors you want, without even having to think about it. However we highly recommend you to use the properties we have mentioned above for complex operations to save you time and hassle. For example if one of the vector is simply a multiple of the other you don't even need to use our calculator, you can just simply know that the result will be zero since those to vectors are collinear.
+
 ## Dot product vs cross product
+
+We have explored most of the mathematical aspects of the cross product of two vectors in 3-D space, so it's time to talk about some interesting facts and uses of this vector operation. To kick things off we will talk about the _cousin_ of the cross product: the dot product. This two operations have a misleadingly close name but in fact represent different concepts in mathematics and geometry. On top of that computing the dot product is arguably easier than computing the cross product; nevertheless we have also made a calculator to help you calculate the <portal cid=560>dot product of 2 vectors</portal>, also called the scalar product.
+
+Keeping up with the trend of apparent similarities between the scalar product and the cross product we can take a close look at the formula for the dot product:
+`v = a · b = |a|*|b|*cosθ`
+where the only differences between the cross product and the dot product are the trigonometric function and the fact that the result is a number (scalar, hence the name) rather than a vector as it was the case with the cross product.
+
+These small difference might have you believe that both operations are very similar but they are very different in nature. For starters, the cross product is an operation that takes two vectors and returns another vector perpendicular to both, while the dot product returns a number with no direction. The dot product is also much more easily generalizable to higher or lower dimensions, while the cross product does not even exist in 2-D. Their interpretation in geometrical terms is also very different since you can think of the dot product as the length of the projection of one of the vectors onto the other.
+
+All those differences make them very distinct operations conceptually and are, therefore, not interchangeable or translatable. Both operations are very useful in both mathematics and physics as we will see in the following sections.
 ## Cross product and physics: Best Friends Forever
 ## Right hand rule in physics: why is it so useful?
 

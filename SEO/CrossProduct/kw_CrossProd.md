@@ -20,7 +20,6 @@ RIGHT HAND RULE CROSS PRODUCT
 [] 410 - centrifugal force
 [] 475 - surface area
 [] 450 - moment of inertia
-[] 553 - unit vector
 [] 560 - dot product
 [] 700 - perpendicular line
 [] 903 - magnetic force on a current-carrying wire
@@ -36,3 +35,4 @@ starting point: 643
 ========================================
 151 - square root
 291 - 3d distance
+553 - unit vector
