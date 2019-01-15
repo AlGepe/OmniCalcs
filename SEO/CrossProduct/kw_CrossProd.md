@@ -21,7 +21,6 @@ RIGHT HAND RULE CROSS PRODUCT
 [] 475 - surface area
 [] 450 - moment of inertia
 [] 560 - dot product
-[] 700 - perpendicular line
 [] 903 - magnetic force on a current-carrying wire
 [] 908 - magnetic forces between wires
 [] 970 - magnetic moment
@@ -33,6 +32,7 @@ RIGHT HAND RULE CROSS PRODUCT
 Target: 2300
 starting point: 643
 ========================================
-151 - square root
-291 - 3d distance
+[] 151 - square root
+[] 291 - 3d distance
 553 - unit vector
+700 - perpendicular line

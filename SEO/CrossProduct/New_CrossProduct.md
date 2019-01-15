@@ -8,7 +8,7 @@ The definition, as it is common with mathematical stuff, is very technical but w
 
 That is indeed a mouthful but we can translate from mathematical jargon into everyday explanation so that we can all understand it. First of all the definition talks about a three-dimensional space, like the one we live in, because it is the most common usage of the cross product, but the cross product can be extended to more dimensions; that is, however, beyond the scope of this text and most math-related degrees. 
 
-What the definition is telling us is that the vector cross product of any two vectors is a third vector that is perpendicular to both of them (and to the plane that contains them). This is possible in 3-dimensional space because in such a space there are 3 independent directions. To put it in everyday terms, you can think of these three directions as being height, width and depth.
+What the definition is telling us is that the vector cross product of any two vectors is a third vector that is <portal cid=700>perpendicular</portal> to both of them (and to the plane that contains them). This is possible in 3-dimensional space because in such a space there are 3 independent directions. To put it in everyday terms, you can think of these three directions as being height, width and depth.
 
 To know how this new third vector will look like in terms of size, and mathematical description, we will use the formula for the cross product of two vectors. In the next section you will be presented with the formal, mathematical formula that tells you how to do the cross product of any two vectors. As we also do at Omni, we will also explain what this equation means and how to use it in a simple, yet accurate way.
 
@@ -68,7 +68,15 @@ where the only differences between the cross product and the dot product are the
 These small difference might have you believe that both operations are very similar but they are very different in nature. For starters, the cross product is an operation that takes two vectors and returns another vector perpendicular to both, while the dot product returns a number with no direction. The dot product is also much more easily generalizable to higher or lower dimensions, while the cross product does not even exist in 2-D. Their interpretation in geometrical terms is also very different since you can think of the dot product as the length of the projection of one of the vectors onto the other.
 
 All those differences make them very distinct operations conceptually and are, therefore, not interchangeable or translatable. Both operations are very useful in both mathematics and physics as we will see in the following sections.
+
 ## Cross product and physics: Best Friends Forever
+
+As always, most of us are not interested just in the purely mathematical properties and uses of the cross product but also in the practical application in the real world. And what better way to get a useful application of mathematical concepts than through physics. The cross product is not an exception and it is a very useful operation in physics. We could get deep into Quantum Field Theory where both the scalar product and the cross product are widely used. However we will stay within the realm of tangible and mathematically perfect theories and look at examples in places and events we can all relate to. 
+
+The first field in which the cross product properties are widely used is electromagnetism. In nature, electric and magnetic fields are generally present perpendicular to each other, which ties perfectly into the way the cross product of two vector is expressed. Thing like calculating the <portal cid=903>magnetic forces on a current-carrying wire</portal> or computations for the <portal cid=970>magnetic moment</portal> of a system, all require the use of the cross product operation. Another example that cannot go unmentioned is the so called <portal cid=1050>Hall effect</portal> that is a very important effect in solid state physics but whose explanation is far too complicated to be treated here, so we invite you to visit the calculator we made for such effect.
+
+An even more tangible place where we can use the cross product formula to predict things is when we talk about <portal cid=450>moment of inertia</portal> and rotating objects.
+
 ## Right hand rule in physics: why is it so useful?
 
 
