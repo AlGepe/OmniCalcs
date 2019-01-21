@@ -3,7 +3,7 @@ _Lead_
 
 
 ## 1 Valentine's day, celebrate the love
-**==> GOAL: (let's not start directly with talking about sex?)
+**==> GOAL: (let's not start directly with talking about sex?)**
 
 As Valentine's day approaches, people start to plan how to celebrate their love or how to seize the opportunity to come out to their (hopefully) next lover. But one questions surrounds this celebration and few people have an answer to it: "_Who was Saint Valentine and why do we celebrate love oh his day?_". As with many Christian celebrations (yeah Valentine was a Christian priest), there is a distant pagan origin to it and a beautiful story about love for others and the Christian god. 
 
@@ -13,7 +13,8 @@ Nobody expects the Spanish inquisition, but it probably came as no surprise when
 
 In all fairness to the Pope, having Valentine's Day as a "replacement" of Lupercalia was a very smart move since not only are both celebrations related conceptually (love and fertility) but they were also rightly celebrated around the 14th of February. Not only was love celebrated in Valentine's memory, but he was a martyr for defending the institution of marriage (even more linked to fertility than love). Saint Valentine went as far as to secretly marry young couples in the times when the Roman emperor had forbidden it thinking it would improve the performance of their troops in battle. We won't argue if that was a smart move but I cannot imagine how having a wife and kids waiting for you home would not be a great motivation to be done with war fast and victorious.
 
-**=========> I'd say this section is done <============**
+**=========> Done: leftovers below <=========**
+
 [Article 1](https://en.wikipedia.org/wiki/Valentine%27s_Day)
 
 [Article 2](https://www.npr.org/2011/02/14/133693152/the-dark-origins-of-valentines-day)
@@ -24,7 +25,7 @@ In all fairness to the Pope, having Valentine's Day as a "replacement" of Luperc
 
 
 ## 2 Couples do what couples do 
-**==> GOAL: (segue from love to sex, smoothly transitioning)
+**==> GOAL: (segue from love to sex, smoothly transitioning)**
 
 Being in love is a wonderful feeling when is corresponded; the _butterflies in the stomach_, the stupid smile that you get as a default expression in your face, the bigger appreciation of everything that's beautiful and wonderful about life... But by far the best part of being in love is when you get to spend time with your partner and share those feelings of togetherness and adoration. Valentine's day is the traditional day to be spent with your beloved one and some couples go the extra mile to make it a very special day of love and romance. We will not tell you what you should do on such a day with you loved one, but let's see some things that successful couples do and see if anything triggers a good idea for you to implement in you Valentine's day celebration.
 
@@ -36,7 +37,7 @@ This last suggestion seems to be quite powerful when included into one of the mo
 
 Researchers also show how such boost in allure and desire translates into more and better sex in the couple, which is something very important for keeping a healthy and happy relationship alive. In fact healthy sexual relations are at the basis of pretty much every single happy couple. It is a tricky and scary subject for many, but sex and sexual interactions cannot be overlooked when we're talking about love, fertility and relationships; we could go as far as to say that sex is present in every aspect of our lives, whether it is a repressed feeling or a lascivious impulse.
 
-**=========> I'd say this section is done <============**
+**=========> Done, below just leftovers <=========**
 
 
 There is plenty of information about how to have a healthy relationship, how to save a bad one or what things couples should do to stay happy together, but here at omni we won't pretend to be a couple counselling service (maybe one day we'll have a counselling calculator?). In stead, we would rather lay down the facts of what people in successful relationships do; doesn't mean that doing those things would guarantee happiness, but maybe they can spark a thought for some cool plan to do this Valentine's Day. 
@@ -65,13 +66,11 @@ Can do to be happy => digital disconnect, workout, be non-judgemental, New exper
 
 ## 3 Sex touches us all, and it feels so delightful
 
-They say internet is for porn, but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being just a very vulgar expresion of it). 
-
-**=========><============**
-
 **==> GOAL:(the universality of sex and sexual desire and it's relevance -small comment about how it relates to happiness to prepare for later sections-)**
 
+They say internet is for porn, but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being just a very vulgar expresion of it). 
 
+**=========><=========**
 
 [Article 1](https://www.businessinsider.com/president-sex-scandal-history-2018-3?IR=T#george-w-bush-15)
 
@@ -86,7 +85,7 @@ They say internet is for porn, but that's just a reflection of humans' desire an
 ## 4 The sex calculator what it tells you, what it doesn't 
 **==> GOAL:(how to use it and the importance of its results: -spoiler- none, it's just for fun)**
 
-**=========><============**
+**=========><=========**
 1) BIG DISCLAIMER ABOUT ITS IMPORTANCE AND THE FUNNY COMMENTS -don't take it so seriously, Joe-
 
 [Article 1](http://www.slate.com/articles/technology/moneybox/2017/05/sex_frequency_calculator_do_you_have_sex_more_or_less_often_than_other_people.html?via=gdpr-consent)
@@ -101,7 +100,7 @@ They say internet is for porn, but that's just a reflection of humans' desire an
 **==> GOAL: (reverse take on the risks of sex; starting from sex should be safe and walking to the need for pleasurable sex and its benefits)**
 
 
-**=========><============**
+**=========><=========**
 [Article 1](http://www.ashasexualhealth.org/stdsstis/statistics/)
 
 [Article 2](https://www.health.com/sexual-health/different-types-of-orgasms-0?)
@@ -113,7 +112,7 @@ They say internet is for porn, but that's just a reflection of humans' desire an
 ## 6 Not all sex is created equal 
 **==> GOAL: (problems with bad sex -data about women that never experience orgasm-)**
 
-**=========><============**
+**=========><=========**
 _Researchers have found that 33% to 50% of women experience orgasm infrequently and are dissatisfied with how often they reach orgasm. In addition, 10% to 15% of American women have never experienced an orgasm. During intercourse, only 35% of the female population climaxes._ 
 
 [Article 1](https://www.bustle.com/articles/175577-11-charts-graphs-that-show-the-female-orgasm-by-the-numbers)
@@ -131,7 +130,7 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 ## 7 We're having less sex than our parents! 
 **==> GOAL: (Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?)**
 
-**=========><============**
+**=========><=========**
 [Article 1](https://www.cbc.ca/news/health/sex-frequency-study-us-1.4026067)
 
 [Article 2](https://globalnews.ca/news/3312027/how-often-are-people-having-sex-and-is-it-enough/)
@@ -151,7 +150,7 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 ## 9 Bang, Bang, Banging on heaven's doors 
 **==> GOAL: (spirituality and sex)**
 
-**=========><============**
+**=========><=========**
 [Option 1](https://www.youtube.com/watch?v=ldpeTLS9MIk)
 
 [Option 2](https://www.youtube.com/watch?v=eWPbhXiXQ0s)
@@ -160,7 +159,7 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 ## Now go put it all together and make this Valentine's Day the best ever
 **==> GOAL: (tone it down and bring it back to the real world with real concrete plans)
 
-**=========><============**
+**=========><=========**
 [Pussy Massage](https://www.youtube.com/watch?v=eOKCMqcu4-E&t=5s)
 
 [Penis Massage](https://www.youtube.com/watch?v=N29hSou-jGs)
