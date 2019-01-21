@@ -93,6 +93,14 @@ This obviously raises a lot of questions, in particular _what exactly is a "good
 ## 4 The sex calculator what it tells you, what it doesn't 
 **==> GOAL:(how to use it and the importance of its results: -spoiler- none, it's just for fun)**
 
+As human animals we tend to compulsively compare ourselves with others in almost every single aspect of our lives, so it should come as no surprise that "average sex per week" has over [254,000,000 results](https://www.google.com/search?ei=prdAXLLRGqPsrgTR4qbYCw&q=average+sex+per+week&oq=average+sex+per+week&gs_l=psy-ab.3..0l10.7471.25269..25606...0.0..0.116.2703.35j2......0....1..gws-wiz.......0i71j0i7i30j35i39j0i20i263j0i67.e7SNzw47m94) on Google. Being sex such a hard topic to talk about in person, we have created here a tool to help you answer that question. With the help of an [online database]() that compiles sexual intercourse frequency in the US organized by age, race, marital status... We are able to quickly tell you how you rank against other Americans in relation to the frequency of your sexual interactions.
+
+Before we tell you how to use it we would like to make one thing very clear: normal doesn't necessarily mean good in the same way that uncommon doesn't mean bad. This tool has been made for fun and entertaining purposes, and not as a diagnostic tool for any kind of sexual problem or lack thereof. However, this tool can give you meaningless bragging rights and "fun fact" ammunition for the next time (your) sexual life becomes a topic of conversation.
+
+
+
+
+
 **=========><=========**
 1) BIG DISCLAIMER ABOUT ITS IMPORTANCE AND THE FUNNY COMMENTS -don't take it so seriously, Joe-
 
