@@ -97,11 +97,15 @@ As human animals we tend to compulsively compare ourselves with others in almost
 
 Before we tell you how to use it we would like to make one thing very clear: normal doesn't necessarily mean good in the same way that uncommon doesn't mean bad. This tool has been made for fun and entertaining purposes, and not as a diagnostic tool for any kind of sexual problem or lack thereof. However, this tool can give you meaningless bragging rights and "fun fact" ammunition for the next time (your) sexual life becomes a topic of conversation.
 
+We have done our best to make the calculator as easy to use and as self-explanatory as possible. However nobody is perfect and we would rather cover all of our basis, so let's see what steps one should take to make use of this fun tool:
 
+Firstly you should input the average frequency with which you have sex. At this point the calculator will already display a partial result comparing your frequency with that of all the Americans. But the fun doesn't have to stop here, you can keep on filling in the blanks with information about you, and the calculator will add more and more detailed comparisons for your demographic groups (men/women, age group, education...) so that you can know how you rank not only compared to any American but also amongst the ones like you.
 
+Feel free to also try and learn something from the dataset by using different parameters,if you're a curious person. Or use this calculator to learn how your friends rank thought if you ask them you're never guaranteed to get the true answer **;)**
 
+Just remember that this no more than a fun tool to get (mostly) irrelevant information about people's lives. There are many more factors that play into how satisfactory or good a sexual life is other than frequency. From the obvious (and ugly) prevention of STDs and unwanted pregnancy to pleasure (which goes beyond orgasms, as we will see), intimacy or relief, there is much more about sex than pure counting and comparing who's got it bigger.
 
-**=========><=========**
+**=========>Done! -maybe a beter last paragraph? below just the leftovers<=========**
 1) BIG DISCLAIMER ABOUT ITS IMPORTANCE AND THE FUNNY COMMENTS -don't take it so seriously, Joe-
 
 [Article 1](http://www.slate.com/articles/technology/moneybox/2017/05/sex_frequency_calculator_do_you_have_sex_more_or_less_often_than_other_people.html?via=gdpr-consent)
