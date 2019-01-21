@@ -35,7 +35,7 @@ There are obvious things that can help a relationship survive and become a very 
 
 This last suggestion seems to be quite powerful when included into one of the most powerful way to improve your relationship: evolving and improving together. Researchers have found that one of the most bonding and best ways to resurrect that initial desire in a couple is to get involved in activities that help both partners grow as a person. Be it developing a new skill, learning something interesting or perfecting some abilities, these kind of activities not only boosts confidence (and obviously capabilities) of each individual, but also enhances the desire between each other.
 
-Researchers also show how such boost in allure and desire translates into more and better sex in the couple, which is something very important for keeping a healthy and happy relationship alive. In fact healthy sexual relations are at the basis of pretty much every single happy couple. It is a tricky and scary subject for many, but sex and sexual interactions cannot be overlooked when we're talking about love, fertility and relationships; we could go as far as to say that sex is present in every aspect of our lives, whether it is a repressed feeling or a lascivious impulse.
+Researchers also show how such boost in allure and desire translates into more and better sex in the couple, which is something very important for keeping a healthy and happy relationship alive. In fact, healthy sexual relations are at the basis of pretty much every single happy couple. It is a tricky and scary subject for many, but sex and sexual interactions cannot be overlooked when we're talking about love, fertility and relationships; we could go as far as to say that sex is present in every aspect of our lives, whether it is a repressed feeling or a lascivious impulse.
 
 **=========> Done, below just leftovers <=========**
 
@@ -68,9 +68,17 @@ Can do to be happy => digital disconnect, workout, be non-judgemental, New exper
 
 **==> GOAL:(the universality of sex and sexual desire and it's relevance -small comment about how it relates to happiness to prepare for later sections-)**
 
-They say internet is for porn, but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being just a very vulgar expresion of it). 
+They say [internet is for porn](https://www.youtube.com/watch?v=LTJvdGcb7Fs), but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being just a very vulgar expression of it). In our society sex is still taboo, and that prevents many from seeing it as a normal way to intimately relate to people. Some would even go as far as to claim that such lustful desires are the result of a valueless society and would long for the past times where "_not everything was about sex_". 
 
-**=========><=========**
+That is not necessarily a bad point of view, except for the fact that it denies the reality of past times where sex was as powerful of a force in people's decisions as it is today, maybe even more (but we'll explain why later). From the old Egyptian empire to the modern scandals in USA, all throughout history sexual desire has been and indissoluble part of human history, including homosexual disputes like the ones that ended in the assassination of the tyrant of Athens.
+
+It not only is undeniable that sex plays an important role in the decisions of humans (and most animals for that matter) even beyond the purely reproductive nature of it. Even [medieval Christians would actively include and reference sex](https://elpais.com/elpais/2018/07/31/inenglish/1533051824_344537.html) in their art ([here](http://www.historia-del-arte-erotico.com/romanico_spain/home.htm) are some more graphical examples). So yeah, sex is, has been, and will most likely continue to be a big part of our history. That's not a bad thing, on the contrary!
+
+If we take a look at what science has to say about sex and sexual activities, everything seems to point in the same direction: [good sex correlates with happiness](http://theconversation.com/consensual-sex-is-key-to-happiness-and-good-health-science-says-91384). Everyone experiences sex in a different way, for some is a very intimate experience only to be shared with the one special person while for others is a pleasurable experiences that can be had whenever there's a chance for it. But in those cases (and with a big emphasis on the subjective side of _good_) [having good sexual life leads to a better overall life](https://www.ncbi.nlm.nih.gov/pubmed/18576229).
+
+This obviously raises a lot of questions, in particular _what exactly is a "good sexual life"?_ It is hard to know what that means in practical terms... Is more better? Does it mean promiscuity, or maybe faithfulness? How many times should one have to have a "good sexual life"? All these are hard questions to answer and are almost always best answer with "It depends on the person/circumstances" and there's not a universally correct answer. 
+
+**=========>Might be done? first paragraph of next section might belong in this one? idk anymore, I'm confused, halp or I'll hurt myself =P =P <=========**
 
 [Article 1](https://www.businessinsider.com/president-sex-scandal-history-2018-3?IR=T#george-w-bush-15)
 
