@@ -3,7 +3,7 @@ _Lead_
 
 
 ## 1 Valentine's day, celebrate the love
-(let's not start directly with talking about sex?)
+**==> GOAL: (let's not start directly with talking about sex?)
 
 As Valentine's day approaches, people start to plan how to celebrate their love or how to seize the opportunity to come out to their (hopefully) next lover. But one questions surrounds this celebration and few people have an answer to it: "_Who was Saint Valentine and why do we celebrate love oh his day?_". As with many Christian celebrations (yeah Valentine was a Christian priest), there is a distant pagan origin to it and a beautiful story about love for others and the Christian god. 
 
@@ -24,9 +24,20 @@ In all fairness to the Pope, having Valentine's Day as a "replacement" of Luperc
 
 
 ## 2 Couples do what couples do 
-(segue from love to sex, smoothly transitioning)
+**==> GOAL: (segue from love to sex, smoothly transitioning)
 
 Being in love is a wonderful feeling when is corresponded; the _butterflies in the stomach_, the stupid smile that you get as a default expression in your face, the bigger appreciation of everything that's beautiful and wonderful about life... But by far the best part of being in love is when you get to spend time with your partner and share those feelings of togetherness and adoration. Valentine's day is the traditional day to be spent with your beloved one and some couples go the extra mile to make it a very special day of love and romance. We will not tell you what you should do on such a day with you loved one, but let's see some things that successful couples do and see if anything triggers a good idea for you to implement in you Valentine's day celebration.
+
+There are obvious things that can help a relationship survive and become a very happy one, and internet is full of articles explaining them. However, as useful as it can be in the long term we don't think having the first session of couple counselling is the ideal plan for Valentine's day; you're probably better of with the true-and-tested _box of chocolates + red rose + romantic dinner_ plan that we are all familiar with. Nevertheless, we believe that there are many other activities that couples could do as a different Valentine's day plan and later even incorporate in their everyday life.
+
+[According to many experts](https://www.redbookmag.com/love-sex/relationships/g3865/things-healthy-couples-do-together/), activities like working out or cooking together are present in most successful relationships, and could also make for an interesting and alternative plan for this Valentine's day. Research also suggest that celebrating each others individual success is related to healthier and happier relationships, so maybe you could use Valentine's day as an excuse to go the extra mile when celebrating your partner's latest achievement... 
+
+This last suggestion seems to be quite powerful when included into one of the most powerful way to improve your relationship: evolving and improving together. Researchers have found that one of the most bonding and best ways to resurrect that initial desire in a couple is to get involved in activities that help both partners grow as a person. Be it developing a new skill, learning something interesting or perfecting some abilities, these kind of activities not only boosts confidence (and obviously capabilities) of each individual, but also enhances the desire between each other.
+
+Researchers also show how such boost in allure and desire translates into more and better sex in the couple, which is something very important for keeping a healthy and happy relationship alive. In fact healthy sexual relations are at the basis of pretty much every single happy couple. It is a tricky and scary subject for many, but sex and sexual interactions cannot be overlooked when we're talking about love, fertility and relationships; we could go as far as to say that sex is present in every aspect of our lives, whether it is a repressed feeling or a lascivious impulse.
+
+**=========> I'd say this section is done <============**
+
 
 There is plenty of information about how to have a healthy relationship, how to save a bad one or what things couples should do to stay happy together, but here at omni we won't pretend to be a couple counselling service (maybe one day we'll have a counselling calculator?). In stead, we would rather lay down the facts of what people in successful relationships do; doesn't mean that doing those things would guarantee happiness, but maybe they can spark a thought for some cool plan to do this Valentine's Day. 
 
@@ -53,7 +64,14 @@ Can do to be happy => digital disconnect, workout, be non-judgemental, New exper
 
 
 ## 3 Sex touches us all, and it feels so delightful
-(the universality of sex and sexual desire and it's relevance -small comment about how it relates to happiness to prepare for later sections-)
+
+They say internet is for porn, but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being just a very vulgar expresion of it). 
+
+**=========><============**
+
+**==> GOAL:(the universality of sex and sexual desire and it's relevance -small comment about how it relates to happiness to prepare for later sections-)**
+
+
 
 [Article 1](https://www.businessinsider.com/president-sex-scandal-history-2018-3?IR=T#george-w-bush-15)
 
@@ -66,8 +84,9 @@ Can do to be happy => digital disconnect, workout, be non-judgemental, New exper
 [Article 5](https://allthatsinteresting.com/erotic-art)
 
 ## 4 The sex calculator what it tells you, what it doesn't 
-(how to use it and the importance of its results: -spoiler- none, it's just for fun)
+**==> GOAL:(how to use it and the importance of its results: -spoiler- none, it's just for fun)**
 
+**=========><============**
 1) BIG DISCLAIMER ABOUT ITS IMPORTANCE AND THE FUNNY COMMENTS -don't take it so seriously, Joe-
 
 [Article 1](http://www.slate.com/articles/technology/moneybox/2017/05/sex_frequency_calculator_do_you_have_sex_more_or_less_often_than_other_people.html?via=gdpr-consent)
@@ -79,8 +98,10 @@ Can do to be happy => digital disconnect, workout, be non-judgemental, New exper
 [Article 4](https://www.bustle.com/p/how-much-sex-should-you-have-in-a-week-it-depends-on-your-age-new-study-finds-78455)
 
 ## 5 With a great responsibility comes a great pleasure 
-(reverse take on the risks of sex; starting from sex should be safe and walking to the need for pleasurable sex and its benefits)
+**==> GOAL: (reverse take on the risks of sex; starting from sex should be safe and walking to the need for pleasurable sex and its benefits)**
 
+
+**=========><============**
 [Article 1](http://www.ashasexualhealth.org/stdsstis/statistics/)
 
 [Article 2](https://www.health.com/sexual-health/different-types-of-orgasms-0?)
@@ -90,8 +111,9 @@ Can do to be happy => digital disconnect, workout, be non-judgemental, New exper
 [Article 4](https://www.psychologytoday.com/au/blog/stress-and-sex/201208/how-many-times-week-is-it-healthy-have-sex)
 
 ## 6 Not all sex is created equal 
-(problems with bad sex -data about women that never experience orgasm-)
+**==> GOAL: (problems with bad sex -data about women that never experience orgasm-)**
 
+**=========><============**
 _Researchers have found that 33% to 50% of women experience orgasm infrequently and are dissatisfied with how often they reach orgasm. In addition, 10% to 15% of American women have never experienced an orgasm. During intercourse, only 35% of the female population climaxes._ 
 
 [Article 1](https://www.bustle.com/articles/175577-11-charts-graphs-that-show-the-female-orgasm-by-the-numbers)
@@ -107,8 +129,9 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 
 
 ## 7 We're having less sex than our parents! 
-(Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?) 
+**==> GOAL: (Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?)**
 
+**=========><============**
 [Article 1](https://www.cbc.ca/news/health/sex-frequency-study-us-1.4026067)
 
 [Article 2](https://globalnews.ca/news/3312027/how-often-are-people-having-sex-and-is-it-enough/)
@@ -119,22 +142,25 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 
 
 ## 8 How to sex so that your sex is lit 
-(tips and tricks for better sex w/ videos)
+**==> GOAL: (tips and tricks for better sex w/ videos)
 
 [Youtube 1](https://www.youtube.com/user/sexplanations/videos)
 
 [Youtube 2](https://www.youtube.com/user/laylamartintv)
 
 ## 9 Bang, Bang, Banging on heaven's doors 
-(spirituality and sex)
+**==> GOAL: (spirituality and sex)**
 
+**=========><============**
 [Option 1](https://www.youtube.com/watch?v=ldpeTLS9MIk)
 
 [Option 2](https://www.youtube.com/watch?v=eWPbhXiXQ0s)
 
 
 ## Now go put it all together and make this Valentine's Day the best ever
+**==> GOAL: (tone it down and bring it back to the real world with real concrete plans)
 
+**=========><============**
 [Pussy Massage](https://www.youtube.com/watch?v=eOKCMqcu4-E&t=5s)
 
 [Penis Massage](https://www.youtube.com/watch?v=N29hSou-jGs)
