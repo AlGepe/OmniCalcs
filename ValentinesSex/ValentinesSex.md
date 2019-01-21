@@ -28,7 +28,20 @@ In all fairness to the Pope, having Valentine's Day as a "replacement" of Luperc
 
 Being in love is a wonderful feeling when is corresponded; the _butterflies in the stomach_, the stupid smile that you get as a default expression in your face, the bigger appreciation of everything that's beautiful and wonderful about life... But by far the best part of being in love is when you get to spend time with your partner and share those feelings of togetherness and adoration. Valentine's day is the traditional day to be spent with your beloved one and some couples go the extra mile to make it a very special day of love and romance. We will not tell you what you should do on such a day with you loved one, but let's see some things that successful couples do and see if anything triggers a good idea for you to implement in you Valentine's day celebration.
 
+There is plenty of information about how to have a healthy relationship, how to save a bad one or what things couples should do to stay happy together, but here at omni we won't pretend to be a couple counselling service (maybe one day we'll have a counselling calculator?). In stead, we would rather lay down the facts of what people in successful relationships do; doesn't mean that doing those things would guarantee happiness, but maybe they can spark a thought for some cool plan to do this Valentine's Day. 
 
+
+1) The things couples SHOULD DO => not the best Valentine's date => maybe not that date...
+1) ...however! Alternative valentine's plans anyone?
+1) end with growing together kind of activities
+1) growing together == better sex which is paramount and essential to most relationships.... because sex is/has been/will be the force that primitive desire that moves us humans
+
+
+Growing together => more and better sex
+
+Fight at the beginning, defined household tasks, celebrate each other's achievements, have common friends, be friends. => Happy couples do
+
+Can do to be happy => digital disconnect, workout, be non-judgemental, New experiences, surprises/keep it fresh, SEX-STUFF
 
 [Article 1](https://www.mindbodygreen.com/articles/couples-have-more-sex-when-they-learn-together)
 
@@ -54,6 +67,8 @@ Being in love is a wonderful feeling when is corresponded; the _butterflies in t
 
 ## 4 The sex calculator what it tells you, what it doesn't 
 (how to use it and the importance of its results: -spoiler- none, it's just for fun)
+
+1) BIG DISCLAIMER ABOUT ITS IMPORTANCE AND THE FUNNY COMMENTS -don't take it so seriously, Joe-
 
 [Article 1](http://www.slate.com/articles/technology/moneybox/2017/05/sex_frequency_calculator_do_you_have_sex_more_or_less_often_than_other_people.html?via=gdpr-consent)
 
