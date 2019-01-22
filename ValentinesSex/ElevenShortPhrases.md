@@ -1,0 +1,13 @@
+[-100, ""],
+[-100, "We ain't judging, but do you even like sex?"],
+[-85, "It is about quality more than quantity, but maybe a bit more quantity won't hurt?"],
+[-70, "],
+[-40, "],
+[-10, "],
+[0, "You are just above average, which means you are... better? Well done, I guess.],
+[10, "],
+[40, "],
+[70, "],
+[85, "],
+[100, "Bragging rights OVER 9000!! We both know it's quality that matters more than quantity, but maybe they don't so go tell everyone!" ],
+

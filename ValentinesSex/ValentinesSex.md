@@ -78,7 +78,7 @@ If we take a look at what science has to say about sex and sexual activities, ev
 
 This obviously raises a lot of questions, in particular _what exactly is a "good sexual life"?_ It is hard to know what that means in practical terms... Is more better? Does it mean promiscuity, or maybe faithfulness? How many times should one have to have a "good sexual life"? All these are hard questions to answer and are almost always best answer with "It depends on the person/circumstances" and there's not a universally correct answer. 
 
-**=========>Might be done? first paragraph of next section might belong in this one? idk anymore, I'm confused, halp or I'll hurt myself =P =P <=========**
+**=========>Might be done? first paragraph of next section might belong in this one? idk anymore, I'm confused, halp or I'll hurt myself in my confusion! =P ;) <=========**
 
 [Article 1](https://www.businessinsider.com/president-sex-scandal-history-2018-3?IR=T#george-w-bush-15)
 
@@ -103,7 +103,7 @@ Firstly you should input the average frequency with which you have sex. At this 
 
 Feel free to also try and learn something from the dataset by using different parameters,if you're a curious person. Or use this calculator to learn how your friends rank thought if you ask them you're never guaranteed to get the true answer **;)**
 
-Just remember that this no more than a fun tool to get (mostly) irrelevant information about people's lives. There are many more factors that play into how satisfactory or good a sexual life is other than frequency. From the obvious (and ugly) prevention of STDs and unwanted pregnancy to pleasure (which goes beyond orgasms, as we will see), intimacy or relief, there is much more about sex than pure counting and comparing who's got it bigger.
+Just remember that this is no more than a fun tool to get (mostly) irrelevant information about people's lives. There are many more factors that play into how satisfactory or good a sexual life is other than frequency. From the obvious (and ugly) prevention of STDs and unwanted pregnancy to pleasure (which goes beyond orgasms, as we will see), intimacy or relief, there is much more about sex than pure counting and comparing who's got it bigger.
 
 **=========>Done! -maybe a beter last paragraph? below just the leftovers<=========**
 1) BIG DISCLAIMER ABOUT ITS IMPORTANCE AND THE FUNNY COMMENTS -don't take it so seriously, Joe-
@@ -116,8 +116,33 @@ Just remember that this no more than a fun tool to get (mostly) irrelevant infor
 
 [Article 4](https://www.bustle.com/p/how-much-sex-should-you-have-in-a-week-it-depends-on-your-age-new-study-finds-78455)
 
-## 5 With a great responsibility comes a great pleasure 
+## 5 A -not so serious- note on frequency 
+**==> GOAL: (Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?)**
+
+-We have said, and we will repeat, that frequency of sexual relationships is of very little importance, however there are some interesting facts to talk about.- By now you've probably discovered already that in the USA people have sex 78.5 times per year on average. This figures varies depending on what demographic group we look at, with a general decline in frequency with age. A question that might have crossed your mind is: "_was it always like this?_" and some of you might have even tried to guess the answer.
+
+"_Surely our parents didn't have as much sex than us, they lived other times when it was shameful and frown upon_" it's a very common thought amongst the younger generations. Surely Tinder and all the dating apps would have given us an edge... NOPE! <del>[CHUCK TESTA](https://www.youtube.com/watch?v=LJP1DphOWPs)</del> In fact, according to the data, we are having less sex than 20 years ago! That means that no matter what your age is, on averages our parents had more sex at our age than we do. Shocking, right?
+
+
+
+**=========><=========**
+[Article 1](https://www.cbc.ca/news/health/sex-frequency-study-us-1.4026067)
+
+[Article 2](https://globalnews.ca/news/3312027/how-often-are-people-having-sex-and-is-it-enough/)
+
+[Article 3](https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=hvifiUuXvBCKmPAnLeYDvfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRFaiNrR5COBI0x2YjUz7yjxkR5ERWsGuo-unRRQJXxL6gBaE_UdtOWUkYUCtdu5EKVkJWFvEk3zVrKAl2dxVtxND7K-i4bmb6zkceBAJeg6c=)
+
+[Article 4]()
+
+
+## 6 With a great responsibility comes a great pleasure 
 **==> GOAL: (reverse take on the risks of sex; starting from sex should be safe and walking to the need for pleasurable sex and its benefits)**
+
+We have all (hopefully) heard about the risks of having sex, from STDs to unwanted pregnancy through traumatic experiences. If you haven't please do your research, any of these things can make the best night of your life not even remotely worth it. But one thing that as a society we focus very little regarding sex: pleasure. It is undeniable that sex should be safe but sex should also be synonyms with pleasure and enjoyment.
+
+Sex
+
+
 
 
 **=========><=========**
@@ -129,7 +154,7 @@ Just remember that this no more than a fun tool to get (mostly) irrelevant infor
 
 [Article 4](https://www.psychologytoday.com/au/blog/stress-and-sex/201208/how-many-times-week-is-it-healthy-have-sex)
 
-## 6 Not all sex is created equal 
+## 7 Not all sex is created equal 
 **==> GOAL: (problems with bad sex -data about women that never experience orgasm-)**
 
 **=========><=========**
@@ -145,19 +170,6 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 
 
 ================**Maybe swap the order of 6 and 7**================
-
-
-## 7 We're having less sex than our parents! 
-**==> GOAL: (Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?)**
-
-**=========><=========**
-[Article 1](https://www.cbc.ca/news/health/sex-frequency-study-us-1.4026067)
-
-[Article 2](https://globalnews.ca/news/3312027/how-often-are-people-having-sex-and-is-it-enough/)
-
-[Article 3](https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=hvifiUuXvBCKmPAnLeYDvfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRFaiNrR5COBI0x2YjUz7yjxkR5ERWsGuo-unRRQJXxL6gBaE_UdtOWUkYUCtdu5EKVkJWFvEk3zVrKAl2dxVtxND7K-i4bmb6zkceBAJeg6c=)
-
-[Article 4](
 
 
 ## 8 How to sex so that your sex is lit 
