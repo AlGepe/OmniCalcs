@@ -93,7 +93,7 @@ This obviously raises a lot of questions, in particular _what exactly is a "good
 ## 4 The sex calculator what it tells you, what it doesn't 
 **==> GOAL:(how to use it and the importance of its results: -spoiler- none, it's just for fun)**
 
-As human animals we tend to compulsively compare ourselves with others in almost every single aspect of our lives, so it should come as no surprise that "average sex per week" has over [254,000,000 results](https://www.google.com/search?ei=prdAXLLRGqPsrgTR4qbYCw&q=average+sex+per+week&oq=average+sex+per+week&gs_l=psy-ab.3..0l10.7471.25269..25606...0.0..0.116.2703.35j2......0....1..gws-wiz.......0i71j0i7i30j35i39j0i20i263j0i67.e7SNzw47m94) on Google. Being sex such a hard topic to talk about in person, we have created here a tool to help you answer that question. With the help of an [online database]() that compiles sexual intercourse frequency in the US organized by age, race, marital status... We are able to quickly tell you how you rank against other Americans in relation to the frequency of your sexual interactions.
+As human animals we tend to compulsively compare ourselves with others in almost every single aspect of our lives, so it should come as no surprise that "average sex per week" has over [254,000,000 results](https://www.google.com/search?ei=prdAXLLRGqPsrgTR4qbYCw&q=average+sex+per+week&oq=average+sex+per+week&gs_l=psy-ab.3..0l10.7471.25269..25606...0.0..0.116.2703.35j2......0....1..gws-wiz.......0i71j0i7i30j35i39j0i20i263j0i67.e7SNzw47m94) on Google. Being sex such a hard topic to talk about in person, we have created here a tool to help you answer that question. With the help of an [online database](https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=hvifiUuXvBCKmPAnLeYDvfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRFaiNrR5COBI0x2YjUz7yjxkR5ERWsGuo-unRRQJXxL6gBaE_UdtOWUkYUCtdu5EKVkJWFvEk3zVrKAl2dxVtxND7K-i4bmb6zkceBAJeg6c=) that compiles sexual intercourse frequency in the US organized by age, race, marital status... We are able to quickly tell you how you rank against other Americans in relation to the frequency of your sexual interactions.
 
 Before we tell you how to use it we would like to make one thing very clear: normal doesn't necessarily mean good in the same way that uncommon doesn't mean bad. This tool has been made for fun and entertaining purposes, and not as a diagnostic tool for any kind of sexual problem or lack thereof. However, this tool can give you meaningless bragging rights and "fun fact" ammunition for the next time (your) sexual life becomes a topic of conversation.
 
@@ -119,16 +119,19 @@ Just remember that this is no more than a fun tool to get (mostly) irrelevant in
 ## 5 A -not so serious- note on frequency 
 **==> GOAL: (Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?)**
 
--We have said, and we will repeat, that frequency of sexual relationships is of very little importance, however there are some interesting facts to talk about.- By now you've probably discovered already that in the USA people have sex 78.5 times per year on average. This figures varies depending on what demographic group we look at, with a general decline in frequency with age. A question that might have crossed your mind is: "_was it always like this?_" and some of you might have even tried to guess the answer.
+The frequency of sexual interactions is of very little importance, however there are some interesting facts to talk about. For example, [studies have shown](https://www.bustle.com/p/how-much-sex-should-you-have-in-a-week-it-depends-on-your-age-new-study-finds-78455) that, statistically, couples that have sex once a week or more, on average, are happier than those who have less sex than that. However whether they have more sex because they are happier with each other or the other way around, is still a mystery. According to most experts we [should really not worry about others](https://www.huffpost.com/entry/how-often-you-should-be-having-sex-according-to-sex-therapists_n_57c5b96ee4b09cd22d92d358) and just focus on what works best for us and our relationship.
 
-"_Surely our parents didn't have as much sex than us, they lived other times when it was shameful and frown upon_" it's a very common thought amongst the younger generations. Surely Tinder and all the dating apps would have given us an edge... NOPE! <del>[CHUCK TESTA](https://www.youtube.com/watch?v=LJP1DphOWPs)</del> In fact, according to the data, we are having less sex than 20 years ago! That means that no matter what your age is, on averages our parents had more sex at our age than we do. Shocking, right?
+By now you've probably discovered already that in the USA people have sex 78.5 times per year on average. This figures varies depending on what demographic group we look at, with a general decline in frequency with age. A question that might have crossed your mind is: "_was it always like this?_" and some of you might have even tried to guess the answer.
+
+"_Surely our parents didn't have as much sex than us, they lived other times when it was shameful and frown upon_" it's a very common thought amongst the younger generations. Surely Tinder and all the dating apps would have given us an edge... NOPE! <del>[CHUCK TESTA](https://www.youtube.com/watch?v=LJP1DphOWPs)</del> In fact, according to the data, we are [having less sex than 20 years ago](https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=hvifiUuXvBCKmPAnLeYDvfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRFaiNrR5COBI0x2YjUz7yjxkR5ERWsGuo-unRRQJXxL6gBaE_UdtOWUkYUCtdu5EKVkJWFvEk3zVrKAl2dxVtxND7K-i4bmb6zkceBAJeg6c=)! That means that no matter what your age is, on average our parents had more sex at our age than we do. Shocking, right?
 
 The answer as to why is this happening is still unclear, and more data would be needed for a proper conclusion. However there are several factors that seem very likely to have an impact such as the physical distance we're building by using (ironically) social networks on the internet as well as the higher availability of entertainment options on demand.
 
-This last reason is what experts point towards as the
+Imagine a mildly sexual couple on a Friday evening with no plans... 20 years ago there was either something interesting on the TV or there was nothing to do. Right now however, there's always a Netflix episode you can watch, a YouTube video to enjoy.... all on demand ready to prevent you from getting bored and shift you attention to your partner... Regardless of whether Netflix and chill made use less sexual, there's also the factor or knowledge and worry, specially when we mix sexual repression and bad sexual education.
 
 
 **=========><=========**
+
 [Article 1](https://www.cbc.ca/news/health/sex-frequency-study-us-1.4026067)
 
 [Article 2](https://globalnews.ca/news/3312027/how-often-are-people-having-sex-and-is-it-enough/)
@@ -141,14 +144,16 @@ This last reason is what experts point towards as the
 ## 6 With a great responsibility comes a great pleasure 
 **==> GOAL: (reverse take on the risks of sex; starting from sex should be safe and walking to the need for pleasurable sex and its benefits)**
 
-We have all (hopefully) heard about the risks of having sex, from STDs to unwanted pregnancy through traumatic experiences. If you haven't please do your research, any of these things can make the best night of your life not even remotely worth it. But one thing that as a society we focus very little regarding sex: pleasure. It is undeniable that sex should be safe but sex should also be synonyms with pleasure and enjoyment.
+We have all (hopefully) heard about the risks of having sex, from [STIs](http://www.ashasexualhealth.org/stdsstis/statistics/) to unwanted pregnancy through traumatic experiences. If you haven't, please do your research, any of these things can make the best night of your life not even remotely worth it. But one thing that as a society we focus very little regarding sex: pleasure. It is undeniable that sex should be safe but sex should also be synonyms with pleasure and enjoyment.
 
-Sex
+Sex is a very personal thing and reasons to do or not anything sexual vary immensely between people, as it should. But sex should always revolve around joy, freedom, pleasure... It might sound obvious to many, but in our western society (and many others) there's a repression of sexual pleasure or a very empty and individualistic view on it.
 
+Beyond a purely ethical or intellectual argument, there is also hard data to back up the claims for more shared pleasure in our sexual experiences. Many studies have found that regular satisfactory sex is [linked to better health](https://www.webmd.com/sex-relationships/guide/sex-and-health) as well as improved physical and psychological well-being. Additionally [sex can make you look younger](https://www.refinery29.com/en-us/2013/07/49988/sex-make-you-look-younger) which can make you feel younger, which in turn leads to have sex which makes you look younger... We almost have a time machine there! 
 
-
+All this findings assume, obviously, satisfying and pleasurable sex. Having bad sex and experiencing frustration during or after a sexual encounter can have a bad effect on your life. Bad experiences regarding sex are generally caused by excessive expectations, pressure, or a lack of awareness and connection during the act.
 
 **=========><=========**
+
 [Article 1](http://www.ashasexualhealth.org/stdsstis/statistics/)
 
 [Article 2](https://www.health.com/sexual-health/different-types-of-orgasms-0?)
@@ -160,7 +165,14 @@ Sex
 ## 7 Not all sex is created equal 
 **==> GOAL: (problems with bad sex -data about women that never experience orgasm-)**
 
+Unfortunately, these feelings and attitudes are fairly common in our society due mostly to the sexual repression and shaming that co-exists with very bad sexual education. As a result, studies estimate that around 33-50% of women are dissatisfied with how often they reach orgasm and up to 15% of women do not experience one in their entire life!
+
+It is specially shocking the shame that surrounds female pleasure because, unbeknownst to many men, women are arguably much better prepared for sexual pleasure and enjoyment. Men can have different types of orgasms, between 3 and 10 depending on how you define them, but women are capable of over 20 different orgasms according to some sources. Trying to imagine that as a guy can literally blow your mind so be careful.
+
+What this means is that the potential (for both men and women) to enjoy sex goes not only beyond the standard in-and-out missionary intercourses but also beyond what can be seen in porn and possibly our imagination. And such ability to experience pleasure is in everyone of us, it just takes practice, will and somewhere to learn from.
+
 **=========><=========**
+
 _Researchers have found that 33% to 50% of women experience orgasm infrequently and are dissatisfied with how often they reach orgasm. In addition, 10% to 15% of American women have never experienced an orgasm. During intercourse, only 35% of the female population climaxes._ 
 
 [Article 1](https://www.bustle.com/articles/175577-11-charts-graphs-that-show-the-female-orgasm-by-the-numbers)
@@ -172,17 +184,45 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 [Article 4](https://www.refinery29.com/en-us/2013/07/49988/sex-make-you-look-younger)
 
 
-================**Maybe swap the order of 6 and 7**================
+## (8) How to sex so that your sex is lit 
+**==> GOAL: (tips and tricks for better sex w/ videos)**
+
+Like with everything new that we want to learn, there are many resources from which to learn how to be better lovers and experience more and better pleasure. Internet is a mindfield full of these kinds of books, videos, courses or even just forums where people would share their experiences and tips and tricks on how to make your sexual encounters better. We know it sounds weird, but that's the most efficient way to learn anything new.
+
+Not to leave anyone hopeless in this sea of missinformation we can recomend a couple books  and resources for those curious
+
+- [Come as you are]()https://www.amazon.com/Come-You-Are-Surprising-Transform-ebook/dp/B00LD1ORBI) is a very highly regarded book on female sexuality with science based information
+- [OTHER BOOK]() SMTH
+- [Sexplanations](https://www.youtube.com/user/sexplanations) Has a funny and unrestrained yet educational take on how to have a healthy sexual life
+- [Layla Martin](https://www.youtube.com/user/laylamartintv) Educational YouTube channel on conscious sexuality and the healing and spiritual side of sex 
+
+But before you go and dive deep into those tools there are certain behaviours or attitudes that can greatly help anyone willing to '1-up' their sex life. In terms of the things we should avoid we find things like desperately looking for orgasms as a measure of good sex, putting pressure on ourselves or our partner to perform good and be perfect in bed, or being judgmental with our partners.
+
+These are the kind of attitudes that give us nothing but disappointment, fear, blockage... That is, things that take away from the enjoyment and pleasure of the experience. Another very negative thing to do is, ironically, watch too much porn; especially of the hardcore, brainnummuning, over-the-top kind. Studies have show that such behaviour can easily lead to addiction, [brain damage](https://www.yourbrainonporn.com/rebooting-porn-use-faqs/does-porn-addiction-cause-irreversible-damage-to-the-brain/) or [sexual desensitization](https://www.independent.co.uk/life-style/love-sex/porn-sex-impact-men-health-and-desensitisation-a7449311.html) at the very least.
+
+We're obviously not condemning all porn-watching behaviours, there's a healthy way to watch porn an even include it inside a healthy sexual life without, but also with a partner. In fact, almost any sexual practice can healthy if done the right way; which leads us to the "DOs" for a healthy sexual life. 
+
+Communication, self-awareness, respect...
 
 
-## 8 How to sex so that your sex is lit 
-**==> GOAL: (tips and tricks for better sex w/ videos)
 
-[Youtube 1](https://www.youtube.com/user/sexplanations/videos)
+[Layla Martin](https://www.youtube.com/user/laylamartintv)
+[one book](https://www.layla-martin.com/wildwoman-ebook/)
+
+
+
+
+DOs: communication, self-awareness, respect, enjoy
+
+DON'Ts: hardcore-brain-numming porn, expectations, look for orgasms, force
+
+
+**=========><=========**
+[Youtube 1](https://www.youtube.com/user/sexplanations)
 
 [Youtube 2](https://www.youtube.com/user/laylamartintv)
 
-## 9 Bang, Bang, Banging on heaven's doors 
+## (9) Bang, Bang, Banging on heaven's doors 
 **==> GOAL: (spirituality and sex)**
 
 **=========><=========**
@@ -191,7 +231,7 @@ _Researchers have found that 33% to 50% of women experience orgasm infrequently 
 [Option 2](https://www.youtube.com/watch?v=eWPbhXiXQ0s)
 
 
-## Now go put it all together and make this Valentine's Day the best ever
+## (10) Now go put it all together and make this Valentine's Day the best ever
 **==> GOAL: (tone it down and bring it back to the real world with real concrete plans)
 
 **=========><=========**
