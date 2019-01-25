@@ -123,6 +123,9 @@ Just remember that this is no more than a fun tool to get (mostly) irrelevant in
 
 "_Surely our parents didn't have as much sex than us, they lived other times when it was shameful and frown upon_" it's a very common thought amongst the younger generations. Surely Tinder and all the dating apps would have given us an edge... NOPE! <del>[CHUCK TESTA](https://www.youtube.com/watch?v=LJP1DphOWPs)</del> In fact, according to the data, we are having less sex than 20 years ago! That means that no matter what your age is, on averages our parents had more sex at our age than we do. Shocking, right?
 
+The answer as to why is this happening is still unclear, and more data would be needed for a proper conclusion. However there are several factors that seem very likely to have an impact such as the physical distance we're building by using (ironically) social networks on the internet as well as the higher availability of entertainment options on demand.
+
+This last reason is what experts point towards as the
 
 
 **=========><=========**
