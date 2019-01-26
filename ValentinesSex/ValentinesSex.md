@@ -3,7 +3,6 @@ _Lead_
 
 
 ## 1 Valentine's day, celebrate the love
-**==> GOAL: (let's not start directly with talking about sex?)**
 
 As Valentine's day approaches, people start to plan how to celebrate their love or how to seize the opportunity to come out to their (hopefully) next lover. But one questions surrounds this celebration and few people have an answer to it: "_Who was Saint Valentine and why do we celebrate love oh his day?_". As with many Christian celebrations (yeah Valentine was a Christian priest), there is a distant pagan origin to it and a beautiful story about love for others and the Christian god. 
 
@@ -13,19 +12,8 @@ Nobody expects the Spanish inquisition, but it probably came as no surprise when
 
 In all fairness to the Pope, having Valentine's Day as a "replacement" of Lupercalia was a very smart move since not only are both celebrations related conceptually (love and fertility) but they were also rightly celebrated around the 14th of February. Not only was love celebrated in Valentine's memory, but he was a martyr for defending the institution of marriage (even more linked to fertility than love). Saint Valentine went as far as to secretly marry young couples in the times when the Roman emperor had forbidden it thinking it would improve the performance of their troops in battle. We won't argue if that was a smart move but I cannot imagine how having a wife and kids waiting for you home would not be a great motivation to be done with war fast and victorious.
 
-**=========> Done: leftovers below <=========**
-
-[Article 1](https://en.wikipedia.org/wiki/Valentine%27s_Day)
-
-[Article 2](https://www.npr.org/2011/02/14/133693152/the-dark-origins-of-valentines-day)
-
-[Article 3](https://lifehacker.com/the-real-history-of-valentines-day-1822975633)
-
-[Article 4](https://www.realsimple.com/holidays-entertaining/holidays/valentines-day/history-of-valentines-day)
-
 
 ## 2 Couples do what couples do 
-**==> GOAL: (segue from love to sex, smoothly transitioning)**
 
 Being in love is a wonderful feeling when is corresponded; the _butterflies in the stomach_, the stupid smile that you get as a default expression in your face, the bigger appreciation of everything that's beautiful and wonderful about life... But by far the best part of being in love is when you get to spend time with your partner and share those feelings of togetherness and adoration. Valentine's day is the traditional day to be spent with your beloved one and some couples go the extra mile to make it a very special day of love and romance. We will not tell you what you should do on such a day with you loved one, but let's see some things that successful couples do and see if anything triggers a good idea for you to implement in you Valentine's day celebration.
 
@@ -37,36 +25,7 @@ This last suggestion seems to be quite powerful when included into one of the mo
 
 Researchers also show how such boost in allure and desire translates into more and better sex in the couple, which is something very important for keeping a healthy and happy relationship alive. In fact, healthy sexual relations are at the basis of pretty much every single happy couple. It is a tricky and scary subject for many, but sex and sexual interactions cannot be overlooked when we're talking about love, fertility and relationships; we could go as far as to say that sex is present in every aspect of our lives, whether it is a repressed feeling or a lascivious impulse.
 
-**=========> Done, below just leftovers <=========**
-
-
-There is plenty of information about how to have a healthy relationship, how to save a bad one or what things couples should do to stay happy together, but here at omni we won't pretend to be a couple counselling service (maybe one day we'll have a counselling calculator?). In stead, we would rather lay down the facts of what people in successful relationships do; doesn't mean that doing those things would guarantee happiness, but maybe they can spark a thought for some cool plan to do this Valentine's Day. 
-
-
-1) The things couples SHOULD DO => not the best Valentine's date => maybe not that date...
-1) ...however! Alternative valentine's plans anyone?
-1) end with growing together kind of activities
-1) growing together == better sex which is paramount and essential to most relationships.... because sex is/has been/will be the force that primitive desire that moves us humans
-
-
-Growing together => more and better sex
-
-Fight at the beginning, defined household tasks, celebrate each other's achievements, have common friends, be friends. => Happy couples do
-
-Can do to be happy => digital disconnect, workout, be non-judgemental, New experiences, surprises/keep it fresh, SEX-STUFF
-
-[Article 1](https://www.mindbodygreen.com/articles/couples-have-more-sex-when-they-learn-together)
-
-[Article 2](https://www.inc.com/melanie-curtin/science-says-happy-couples-have-these-13-characteristics.html)
-
-[Article 3](https://www.redbookmag.com/love-sex/relationships/g3865/things-healthy-couples-do-together/)
-
-[Article 4](https://aplus.com/a/9-things-happiest-couples-do-eharmony-harris-interactive-survey?)
-
-
 ## 3 Sex touches us all, and it feels so delightful
-
-**==> GOAL:(the universality of sex and sexual desire and it's relevance -small comment about how it relates to happiness to prepare for later sections-)**
 
 They say [internet is for porn](https://www.youtube.com/watch?v=LTJvdGcb7Fs), but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being just a very vulgar expression of it). In our society sex is still taboo, and that prevents many from seeing it as a normal way to intimately relate to people. Some would even go as far as to claim that such lustful desires are the result of a valueless society and would long for the past times where "_not everything was about sex_". 
 
@@ -78,20 +37,7 @@ If we take a look at what science has to say about sex and sexual activities, ev
 
 This obviously raises a lot of questions, in particular _what exactly is a "good sexual life"?_ It is hard to know what that means in practical terms... Is more better? Does it mean promiscuity, or maybe faithfulness? How many times should one have to have a "good sexual life"? All these are hard questions to answer and are almost always best answer with "It depends on the person/circumstances" and there's not a universally correct answer. 
 
-**=========>Might be done? first paragraph of next section might belong in this one? idk anymore, I'm confused, halp or I'll hurt myself in my confusion! =P ;) <=========**
-
-[Article 1](https://www.businessinsider.com/president-sex-scandal-history-2018-3?IR=T#george-w-bush-15)
-
-[Article 2](https://listverse.com/2016/10/22/10-sex-scandals-that-shocked-the-ancient-world/)
-
-[Article 3](http://www.historia-del-arte-erotico.com/romanico_spain/home.htm) #AllThemExplicitPics
-
-[Article 4](https://elpais.com/elpais/2018/07/31/inenglish/1533051824_344537.html)
-
-[Article 5](https://allthatsinteresting.com/erotic-art)
-
 ## 4 The sex calculator what it tells you, what it doesn't 
-**==> GOAL:(how to use it and the importance of its results: -spoiler- none, it's just for fun)**
 
 As human animals we tend to compulsively compare ourselves with others in almost every single aspect of our lives, so it should come as no surprise that "average sex per week" has over [254,000,000 results](https://www.google.com/search?ei=prdAXLLRGqPsrgTR4qbYCw&q=average+sex+per+week&oq=average+sex+per+week&gs_l=psy-ab.3..0l10.7471.25269..25606...0.0..0.116.2703.35j2......0....1..gws-wiz.......0i71j0i7i30j35i39j0i20i263j0i67.e7SNzw47m94) on Google. Being sex such a hard topic to talk about in person, we have created here a tool to help you answer that question. With the help of an [online database](https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=hvifiUuXvBCKmPAnLeYDvfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRFaiNrR5COBI0x2YjUz7yjxkR5ERWsGuo-unRRQJXxL6gBaE_UdtOWUkYUCtdu5EKVkJWFvEk3zVrKAl2dxVtxND7K-i4bmb6zkceBAJeg6c=) that compiles sexual intercourse frequency in the US organized by age, race, marital status... We are able to quickly tell you how you rank against other Americans in relation to the frequency of your sexual interactions.
 
@@ -117,7 +63,6 @@ Just remember that this is no more than a fun tool to get (mostly) irrelevant in
 [Article 4](https://www.bustle.com/p/how-much-sex-should-you-have-in-a-week-it-depends-on-your-age-new-study-finds-78455)
 
 ## 5 A -not so serious- note on frequency 
-**==> GOAL: (Data about sex intercourse declining over the las 20 years, ¿ because scary sex-ed + new tech -inet-?)**
 
 The frequency of sexual interactions is of very little importance, however there are some interesting facts to talk about. For example, [studies have shown](https://www.bustle.com/p/how-much-sex-should-you-have-in-a-week-it-depends-on-your-age-new-study-finds-78455) that, statistically, couples that have sex once a week or more, on average, are happier than those who have less sex than that. However whether they have more sex because they are happier with each other or the other way around, is still a mystery. According to most experts we [should really not worry about others](https://www.huffpost.com/entry/how-often-you-should-be-having-sex-according-to-sex-therapists_n_57c5b96ee4b09cd22d92d358) and just focus on what works best for us and our relationship.
 
@@ -129,20 +74,7 @@ The answer as to why is this happening is still unclear, and more data would be 
 
 Imagine a mildly sexual couple on a Friday evening with no plans... 20 years ago there was either something interesting on the TV or there was nothing to do. Right now however, there's always a Netflix episode you can watch, a YouTube video to enjoy.... all on demand ready to prevent you from getting bored and shift you attention to your partner... Regardless of whether Netflix and chill made use less sexual, there's also the factor or knowledge and worry, specially when we mix sexual repression and bad sexual education.
 
-
-**=========><=========**
-
-[Article 1](https://www.cbc.ca/news/health/sex-frequency-study-us-1.4026067)
-
-[Article 2](https://globalnews.ca/news/3312027/how-often-are-people-having-sex-and-is-it-enough/)
-
-[Article 3](https://link.springer.com/epdf/10.1007/s10508-017-0953-1?shared_access_token=hvifiUuXvBCKmPAnLeYDvfe4RwlQNchNByi7wbcMAY4YL86Mm2rvz6Dvu-ljx9jRFaiNrR5COBI0x2YjUz7yjxkR5ERWsGuo-unRRQJXxL6gBaE_UdtOWUkYUCtdu5EKVkJWFvEk3zVrKAl2dxVtxND7K-i4bmb6zkceBAJeg6c=)
-
-[Article 4]()
-
-
 ## 6 With a great responsibility comes a great pleasure 
-**==> GOAL: (reverse take on the risks of sex; starting from sex should be safe and walking to the need for pleasurable sex and its benefits)**
 
 We have all (hopefully) heard about the risks of having sex, from [STIs](http://www.ashasexualhealth.org/stdsstis/statistics/) to unwanted pregnancy through traumatic experiences. If you haven't, please do your research, any of these things can make the best night of your life not even remotely worth it. But one thing that as a society we focus very little regarding sex: pleasure. It is undeniable that sex should be safe but sex should also be synonyms with pleasure and enjoyment.
 
@@ -152,40 +84,16 @@ Beyond a purely ethical or intellectual argument, there is also hard data to bac
 
 All this findings assume, obviously, satisfying and pleasurable sex. Having bad sex and experiencing frustration during or after a sexual encounter can have a bad effect on your life. Bad experiences regarding sex are generally caused by excessive expectations, pressure, or a lack of awareness and connection during the act.
 
-**=========><=========**
-
-[Article 1](http://www.ashasexualhealth.org/stdsstis/statistics/)
-
-[Article 2](https://www.health.com/sexual-health/different-types-of-orgasms-0?)
-
-[Article 3](https://helloclue.com/articles/sex/wtf-is-coregasm-how-to-have-one)
-
-[Article 4](https://www.psychologytoday.com/au/blog/stress-and-sex/201208/how-many-times-week-is-it-healthy-have-sex)
 
 ## 7 Not all sex is created equal 
-**==> GOAL: (problems with bad sex -data about women that never experience orgasm-)**
 
 Unfortunately, these feelings and attitudes are fairly common in our society due mostly to the sexual repression and shaming that co-exists with very bad sexual education. As a result, studies estimate that around 33-50% of women are dissatisfied with how often they reach orgasm and up to 15% of women do not experience one in their entire life!
 
-It is specially shocking the shame that surrounds female pleasure because, unbeknownst to many men, women are arguably much better prepared for sexual pleasure and enjoyment. Men can have different types of orgasms, between 3 and 10 depending on how you define them, but women are capable of over 20 different orgasms according to some sources. Trying to imagine that as a guy can literally blow your mind so be careful.
+It is specially shocking the shame that surrounds female pleasure because, unbeknownst to many men, women are arguably much better prepared for sexual pleasure and enjoyment. Men can have different types of orgasms, between 3 and 10 depending on how you define them, but women are capable of over 20 different orgasms (including some [surprising ones](https://helloclue.com/articles/sex/wtf-is-coregasm-how-to-have-one) according to some sources. Trying to imagine that as a guy can literally blow your mind so be careful.
 
 What this means is that the potential (for both men and women) to enjoy sex goes not only beyond the standard in-and-out missionary intercourses but also beyond what can be seen in porn and possibly our imagination. And such ability to experience pleasure is in everyone of us, it just takes practice, will and somewhere to learn from.
 
-**=========><=========**
-
-_Researchers have found that 33% to 50% of women experience orgasm infrequently and are dissatisfied with how often they reach orgasm. In addition, 10% to 15% of American women have never experienced an orgasm. During intercourse, only 35% of the female population climaxes._ 
-
-[Article 1](https://www.bustle.com/articles/175577-11-charts-graphs-that-show-the-female-orgasm-by-the-numbers)
-
-[Article 2](https://tonic.vice.com/en_us/article/neepb8/the-science-of-female-pleasure-still-needs-more-attention)
-
-[Article 3](https://www.webmd.com/sex-relationships/guide/sex-and-health)
-
-[Article 4](https://www.refinery29.com/en-us/2013/07/49988/sex-make-you-look-younger)
-
-
 ## (8) How to sex so that your sex is lit 
-**==> GOAL: (tips and tricks for better sex w/ videos)**
 
 Like with everything new that we want to learn, there are many resources from which to learn how to be better lovers and experience more and better pleasure. Internet is a mindfield full of these kinds of books, videos, courses or even just forums where people would share their experiences and tips and tricks on how to make your sexual encounters better. We know it sounds weird, but that's the most efficient way to learn anything new.
 
@@ -225,7 +133,6 @@ DON'Ts: hardcore-brain-numming porn, expectations, look for orgasms, force
 [Youtube 2](https://www.youtube.com/user/laylamartintv)
 
 ## (9) Bang, Bang, Banging on heaven's doors 
-**==> GOAL: (spirituality and sex)**
 
 Such is the effect that these tricks have on people's sexual life that, for many, sex become a spiritual experience beyond just the pure pleasure and intimacy. This kinds of connections have been present in human history since time immemorial and have managed to survive to our times. 
 
@@ -241,7 +148,6 @@ Of course, sex doesn't need to be spiritual to be good, and not everyone is comf
 
 
 ## (10) Now go put it all together and make this Valentine's Day the best ever
-**==> GOAL: (tone it down and bring it back to the real world with real concrete plans)
 
 A what a better occasion to put all this together than Valentine's day. There's obviously many other plans to do on lover's day, but sex is as valid an option as any other specially when paried with some other nice joint activity. For some it might be the only way to substitute chocolate without getting an angry response.
 
