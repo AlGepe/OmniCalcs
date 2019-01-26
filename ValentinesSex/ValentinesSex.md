@@ -191,33 +191,35 @@ Like with everything new that we want to learn, there are many resources from wh
 
 Not to leave anyone hopeless in this sea of missinformation we can recomend a couple books  and resources for those curious
 
-- [Come as you are]()https://www.amazon.com/Come-You-Are-Surprising-Transform-ebook/dp/B00LD1ORBI) is a very highly regarded book on female sexuality with science based information
-- [OTHER BOOK]() SMTH
+- [Come as you are](https://www.amazon.com/Come-You-Are-Surprising-Transform-ebook/dp/B00LD1ORBI) **by Emily Nagoski**:is a very highly regarded book on female sexuality with science based information
+- [Mating in captivity](https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0) **by Esther Perel**: A deep look at what it takes to keep desire alive through everyday life
+- [Sexual intelligence](https://www.amazon.com/Sexual-Intelligence-What-Really-Sex/dp/0062026070) **by Marty Klein**: a take on the importance of the mindset when having sex
 - [Sexplanations](https://www.youtube.com/user/sexplanations) Has a funny and unrestrained yet educational take on how to have a healthy sexual life
 - [Layla Martin](https://www.youtube.com/user/laylamartintv) Educational YouTube channel on conscious sexuality and the healing and spiritual side of sex 
 
 But before you go and dive deep into those tools there are certain behaviours or attitudes that can greatly help anyone willing to '1-up' their sex life. In terms of the things we should avoid we find things like desperately looking for orgasms as a measure of good sex, putting pressure on ourselves or our partner to perform good and be perfect in bed, or being judgmental with our partners.
 
-These are the kind of attitudes that give us nothing but disappointment, fear, blockage... That is, things that take away from the enjoyment and pleasure of the experience. Another very negative thing to do is, ironically, watch too much porn; especially of the hardcore, brainnummuning, over-the-top kind. Studies have show that such behaviour can easily lead to addiction, [brain damage](https://www.yourbrainonporn.com/rebooting-porn-use-faqs/does-porn-addiction-cause-irreversible-damage-to-the-brain/) or [sexual desensitization](https://www.independent.co.uk/life-style/love-sex/porn-sex-impact-men-health-and-desensitisation-a7449311.html) at the very least.
+These are the kind of attitudes that give us nothing but disappointment, fear, blockage... That is, things that take away from the enjoyment and pleasure of the experience. Another very negative thing to do is, ironically, watch too much porn; especially of the hardcore, brain-numbing, over-the-top kind. Studies have show that such behaviour can easily lead to addiction, [brain damage](https://www.yourbrainonporn.com/rebooting-porn-use-faqs/does-porn-addiction-cause-irreversible-damage-to-the-brain/) or [sexual desensitization](https://www.independent.co.uk/life-style/love-sex/porn-sex-impact-men-health-and-desensitisation-a7449311.html) at the very least.
 
 We're obviously not condemning all porn-watching behaviours, there's a healthy way to watch porn an even include it inside a healthy sexual life without, but also with a partner. In fact, almost any sexual practice can healthy if done the right way; which leads us to the "DOs" for a healthy sexual life. 
 
+Everyone is different and there's not a single instruction for an amazing sexual life. However, there certain things like communication (verbal or otherwise), respect, understanding... That are at the core of any healthy sexual life, and healthy relationship, too. Knowing what you partner wants and feels as well as expressing yourself in a safe and accepting environment can only improve both your sex life and your relationship.
+
+Another important point for having better sex is to be self-aware in all aspects. This not only helps you act better but XXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Integrating these kind of attitudes into your sexual life will take time, and you will most likely need expert help to fully embrace them. Once you start, though, they are almost certain to improve your enjoyment of sex, the connexion with your partner(s). It will also improve your life overall, as we have discussed before.
+
+
+**=========>Still needs some work<=========**
 Communication, self-awareness, respect...
 
-
-
-[Layla Martin](https://www.youtube.com/user/laylamartintv)
 [one book](https://www.layla-martin.com/wildwoman-ebook/)
-
-
-
 
 DOs: communication, self-awareness, respect, enjoy
 
 DON'Ts: hardcore-brain-numming porn, expectations, look for orgasms, force
 
 
-**=========><=========**
 [Youtube 1](https://www.youtube.com/user/sexplanations)
 
 [Youtube 2](https://www.youtube.com/user/laylamartintv)
@@ -225,7 +227,14 @@ DON'Ts: hardcore-brain-numming porn, expectations, look for orgasms, force
 ## (9) Bang, Bang, Banging on heaven's doors 
 **==> GOAL: (spirituality and sex)**
 
+Such is the effect that these tricks have on people's sexual life that, for many, sex become a spiritual experience beyond just the pure pleasure and intimacy. This kinds of connections have been present in human history since time immemorial and have managed to survive to our times. 
+
+Books like Kamasutra are growing again in popularity in our western culture as we slowly awake as a society to conscious pleasure. Practices like Tantric sex that were almost forgotten are slowly gaining traction thanks to more and more open attitudes to what sex should be. And having new perspectives towards sex can only be a good thing in a free society.
+
+Of course, sex doesn't need to be spiritual to be good, and not everyone is comfortable talking about "_sex energy_" or "_Chakras_". As we said before, sex is as personal as things can get, there is nothing wrong as long as it's pleasurable for whoever is involved. But what's definitely not ideal is to keep this all in the realm of pure theory.
+
 **=========><=========**
+
 [Option 1](https://www.youtube.com/watch?v=ldpeTLS9MIk)
 
 [Option 2](https://www.youtube.com/watch?v=eWPbhXiXQ0s)
@@ -233,6 +242,12 @@ DON'Ts: hardcore-brain-numming porn, expectations, look for orgasms, force
 
 ## (10) Now go put it all together and make this Valentine's Day the best ever
 **==> GOAL: (tone it down and bring it back to the real world with real concrete plans)
+
+A what a better occasion to put all this together than Valentine's day. There's obviously many other plans to do on lover's day, but sex is as valid an option as any other specially when paried with some other nice joint activity. For some it might be the only way to substitute chocolate without getting an angry response.
+
+A good way to go about trying new things with your partner is to first talk with them and see what they would be comfortable with. Then set the mood towards the intimate moment; a nice dinner out, some sensual music and candles when arriving home are some tried-and-tested options. Remember to let things flow, without any expectations beyond having the best time possible, together. 
+
+So or those of you who would like to give it a go we wish you the safest, most connected and, of course, pleasurable experience with that special one. Who knows? Maybe it'll spark you up the rankings of sexual intercourse!
 
 **=========><=========**
 [Pussy Massage](https://www.youtube.com/watch?v=eOKCMqcu4-E&t=5s)
