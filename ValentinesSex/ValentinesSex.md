@@ -1,41 +1,44 @@
-(for the moment just ideas to talk about briefly)
-_Lead_
+_Lead_ `to be written when everything else is finished`
+            
+       formatting to be done when text is approved
+    
+`numbers on section titles only there for organization purposes, to be removed before publishing`
 
 
 ## 1 Valentine's day, celebrate the love
 
 As Valentine's day approaches, people start to plan how to celebrate their love and give way to their passions and desires. There is, however, one question many will have: "_What did Saint Valentine have to do with love?_". As with many Christian celebrations, there is a distant pagan origin to it. 
 
-Such origin appears to be the Roman celebration of Lupercalia, a festivity around female fertility in which a dog and a goat would be sacrificed. Since apparently these sacrifices alone would not guarantee that women would be fertile, they would then whip them with pieces of skin from the slain animals. Moreover, this celebration included a match-making lottery in which young couples would be randomly united for at least the duration of Lupercalia, in a crude version of the modern "First Date". 
+Such origin appears to be the Roman celebration of Lupercalia, a festivity around female fertility in which a dog and a goat would be sacrificed. Since, apparently, these sacrifices alone would not guarantee that women would be fertile, they would then whip them with pieces of skin from the slain animals. Moreover, this celebration included a matchmaking lottery in which young couples would be randomly united for at least the duration of Lupercalia, in a crude version of the modern "First Date". 
 
 But then, surprising no one, the Catholic church banned Lupercalia. In 5th Century pope Gelasius I, decided to incorporate Lupercalia into the already Christian Valentine's Day. This adulteration of such a seemingly joyful (albeit obscene) celebration was probably not very well received but those used to would rather whip women with dead animals than celebrate love (probably more people than you imagine).
 
-Saint Valentine's history is the classical Christian martyr: be a nice person, do something that's illegal but shouldn't, get offer freedom in exchange for betraying your god, refuse, get killed. In the case of Valentine his "crime" was secretly marry young couples in the times when the Roman emperor his troops would fight better if he abolished marriage.
+Saint Valentine's history is the classical Christian martyr: be a nice person, do something that's illegal but shouldn't, get offer freedom in exchange for betraying your god, refuse, get killed. In the case of Valentine, his "crime" was secretly marry young couples in the times when the Roman emperor his troops would fight better if he abolished marriage.
 
-We won't argue if that was a smart move but I cannot imagine how having a wife and kids waiting for you home would not be a great motivation to be done with war fast and victorious.
+We won't argue if that was a smart move, but I cannot imagine how having a wife and kids home waiting for you would not be a great motivation to be done with war fast and victorious.
 
 
 ## 2 Couples do what couples do 
 
-Love moves mountains, or something like that. Love can become this powerful force that will help you go the extra mile and will give you a sense of completeness and fulfilment. But love and successful relationships don't just happen, they need to be nourished and taken care of. One of the best ways is to spend time together.
+Love moves mountains, or something like that. Love can become this powerful force that will help you go the extra mile and will give you a sense of completeness and fulfillment. But love and successful relationships don't just happen, they need to be nourished and taken care of. One of the best ways is to spend time together.
 
-[According to many experts](https://www.redbookmag.com/love-sex/relationships/g3865/things-healthy-couples-do-together/), activities like working out or cooking together are present in most successful relationships, and could also make for an interesting and alternative plan for this Valentine's day. It is also highly recommended to celebrate together individual success for that extra feeling of team and support.
+[According to many experts](https://www.redbookmag.com/love-sex/relationships/g3865/things-healthy-couples-do-together/), activities, like working out or cooking together, are present in most successful relationships, and could also make for an exciting and alternative plan for this Valentine's day. It is also highly recommended to celebrate together individual success for that extra feeling of team and support.
 
 The balance between self-development and being part of something bigger than yourself could apparently be the key to a better relationship. Amongst other benefits, it's becoming increasingly clear that individual progress helps keep the "_spark_" alive in long term relationships, which gives way to many other benefits.
 
-For example, increased levels of attraction lead to more and better sex. Frequent good sex might sound like something primitive and frivolous, but no only does it prevent most of the cheating situations, but is also linked with improved well-being in healthier couples. And, let's face it! It is a difficult topic to talk about, but is crucial to understand our behaviours, relationships and history as human animals.
+For example, increased levels of attraction lead to more and better sex. Frequent good sex might sound like something primitive and frivolous, however, not only does it prevent most of the cheating situations, but is also linked with improved well-being in healthier couples. And, let's face it! It is a difficult topic to talk about but is crucial to understand our behaviors, relationships, and history as human animals.
 
 ## 3 Sex touches us all, and it feels so delightful
 
-They say [internet is for porn](https://www.youtube.com/watch?v=LTJvdGcb7Fs), but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being mostly a vulgar expression of it). Sex is mostly taboo, which prevents it from being seen as a normal way to intimately relate to people. Many think this fixation is a modern thing and long for past times where "_not everything was about sex_". 
+They say [internet is for porn](https://www.youtube.com/watch?v=LTJvdGcb7Fs), but that's just a reflection of humans' desire and passion towards sexuality in general (with porn being mostly a vulgar expression of it). Sex is mostly taboo, which prevents it from being seen as a healthy way to intimately relate to people. Many think this fixation is a modern thing and long for past times where "_not everything was about sex_". 
 
-This idea totally ignores the reality of previous times, where sex was as powerful of a force as it is today, maybe even more (but we'll explain why later). From the old Egyptian empire to the modern scandals in USA, all throughout history. Sexual desire has been an indissoluble part of human history. This includes homosexual disputes such as those who got [Athens' tyrant, Hipparchus, killed](https://en.wikipedia.org/wiki/Harmodius_and_Aristogeiton)
+This idea entirely ignores the reality of previous times, where sex was as powerful of a force as it is today, maybe even more (but we'll explain why later). From the old Egyptian empire to the modern scandals in the USA, all throughout history. Sexual desire has been an indissoluble part of human history. This includes homosexual disputes such as those who got [Athens' tyrant, Hipparchus, killed](https://en.wikipedia.org/wiki/Harmodius_and_Aristogeiton)
 
 Even [medieval Christians would actively include and reference sex](https://elpais.com/elpais/2018/07/31/inenglish/1533051824_344537.html) in their art ([here](http://www.historia-del-arte-erotico.com/romanico_spain/home.htm) are some more graphical examples). So yeah, sex is, has been, and will most likely continue to be a big part of our history, even beyond its reproductive function. That's not a bad thing, on the contrary!
 
 And the reason? Well apart from the pure pleasure of it, most research seems to point in the same direction: [good sex correlates with happiness](http://theconversation.com/consensual-sex-is-key-to-happiness-and-good-health-science-says-91384). Sex is a very personal thing, but whether you experience it as a very intimate and sacred act or in a more fun and hedonistic way [having good sexual life leads to a better overall life](https://www.ncbi.nlm.nih.gov/pubmed/18576229). 
 
-This obviously raises a lot of questions, in particular _what exactly is a "good sexual life"?_ It is hard to know what that means in practical terms... Is more better? Does it mean promiscuity, or maybe faithfulness? Is there a magic number of sexual intercourses for optimum happiness? These are difficult questions, and the answer is mostly "It depends", but let's elaborate on that.
+This naturally raises a lot of questions, in particular, _what exactly is a "good sex life"?_ It is hard to know what that means in practical terms... Is more, better? Does it mean promiscuity, or maybe faithfulness? Is there a magic number of sexual intercourses for optimum happiness? These are difficult questions, and the answer is mostly "It depends", but let's elaborate on that.
 
 ## 4 The sex calculator what it tells you, what it doesn't 
 
@@ -43,7 +46,7 @@ As human animals, we tend to compulsively compare ourselves with others in almos
 
 Before we tell you how to use it we would like to make one thing very clear: normal doesn't necessarily mean good in the same way that uncommon doesn't mean bad. This tool has been made for fun and entertainment purposes, and not as a diagnostic tool for any kind of sexual problem or lack thereof. However, this tool can give you meaningless bragging rights and "fun fact" ammunition for the next time (your) sexual life becomes a topic of conversation.
 
-We have done our best to make the calculator as easy to use and as self-explanatory as possible. However nobody is perfect and we would rather cover all of our basis, so let's see what steps one should take to make use of this fun tool:
+We have done our best to make the calculator as easy to use and as self-explanatory as possible. However, nobody is perfect and we would rather cover all of our basis, so let's see what steps one should take to make use of this fun tool:
 
 Firstly you should input the average frequency with which you have sex. At this point, the calculator will already display a partial result comparing your frequency with that of all the Americans. But the fun doesn't have to stop here, you can keep on filling in the blanks with information about you, and the calculator will add more and more detailed comparisons for your demographic groups (men/women, age group, education...) so that you can know how you rank not only compared to any American but also amongst the ones like you.
 
@@ -82,7 +85,7 @@ Unfortunately, these feelings and attitudes are fairly common in our society due
 
 It is especially shocking the shame that surrounds female pleasure because, unbeknownst to many men, women are arguably much better prepared for sexual pleasure and enjoyment. Men can have different types of orgasms, between 3 and 10 depending on how you define them, but women are capable of over 20 different orgasms (including some [surprising ones](https://helloclue.com/articles/sex/wtf-is-coregasm-how-to-have-one) according to some sources. Trying to imagine that as a guy can literally blow your mind so be careful.
 
-What this means is that the potential (for both men and women) to enjoy sex goes not only beyond the standard in-and-out missionary intercourses but also beyond what can be seen in porn and possibly our imagination. Such ability to experience pleasure is in every one of us. It just takes practice, will and somewhere to learn from.
+What this means is that the potential (for both men and women) to enjoy sex goes not only beyond the standard in-and-out missionary intercourses but also beyond what can be seen in porn and possibly our imagination. Such an ability to experience pleasure is in every one of us. It just takes practice, will and somewhere to learn from.
 
 ## (8) How to sex so that your sex is _leet_
 
@@ -102,7 +105,7 @@ These are the kind of attitudes that give us nothing but disappointment, fear, b
 
 We're clearly not condemning all porn-watching behaviors, there's a healthy way to watch porn an even include it inside a healthy sexual life without, but also with a partner. In fact, almost any sexual practice can be healthy if done the right way; which leads us to the "DOs" for a healthy sexual life. 
 
-<p style="text-align:center; font-size:10px"><iframe width="560" height="315" src="https://www.youtube.com/embed/OHgYfbbCz8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p style="text-align:center; font-size:10px"><iframe width="600" height="315" src="https://www.youtube.com/embed/OHgYfbbCz8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Everyone is different and there's not a single instruction for a fantastic sex life. However, there are certain things like communication (verbal or otherwise), respect, understanding... That are at the core of any healthy sexual life, and healthy relationship. Knowing what your partner wants and feels as well as expressing yourself in a safe and accepting environment can only improve both your sex life and your relationship.
 
@@ -110,28 +113,17 @@ Another important point for having better sex is to be self-aware in all aspects
 
 Integrating all of these attitudes into your sexual life will take time, and you will most likely need expert help to embrace them fully. Once you start, though, they are almost certain to improve your enjoyment of sex, the connexion with your partner(s). It will also improve your life overall, as we have discussed before.
 
-
-**=========>Still needs some work<=========**
-Communication, self-awareness, respect...
-
-[one book](https://www.layla-martin.com/wildwoman-ebook/)
-
-DOs: communication, self-awareness, respect, enjoy
-
 ## 9 Bang, Bang, Banging on heaven's doors 
 
 Such is the effect that these tricks have on people's sexual life that, for many, sex become a spiritual experience beyond just the pure pleasure and intimacy. This kind of connections have been present in human history since time immemorial and have managed to survive to our times. 
 
-Books like Kamasutra are growing again in popularity in our western culture as we slowly awake as a society to conscious pleasure. Practices like Tantric sex that were almost forgotten are slowly gaining traction thanks to more and more open attitudes to what sex should be. And having new perspectives towards sex can only be a good thing in a free society.
+Books like Kamasutra are growing again in popularity in our western culture as we slowly awake as a society to conscious pleasure. Practices like Tantric sex that were almost forgotten are slowly gaining traction thanks to more and more open attitudes to what sex should be. 
+
+<p style="text-align:center; font-size:10px"><iframe width="600" height="315" src="https://www.youtube.com/embed/ldpeTLS9MIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+The principles of these old traditions have also been used successfully by some therapists to [release traumas and heal](https://www.youtube.com/watch?v=eWPbhXiXQ0s)( old wounds. It might sound like magic but is simply an unexplored branch of psychology, for the moment.
 
 Of course, sex doesn't need to be spiritual to be good, and not everyone is comfortable talking about "_sex energy_" or "_Chakras_". As we said before, sex is as personal as things can get, there is nothing wrong as long as it's pleasurable for whoever is involved. But what's definitely not ideal is to keep this all in the realm of pure theory.
-
-**=========><=========**
-
-[Option 1](https://www.youtube.com/watch?v=ldpeTLS9MIk)
-
-[Option 2](https://www.youtube.com/watch?v=eWPbhXiXQ0s)
-
 
 ## 10 Now go put it all together and make this Valentine's Day the best ever
 
@@ -139,9 +131,9 @@ And what a better occasion to put all this together than Valentine's day? There 
 
 An excellent way to go about trying new things with your partner is first to talk about what they would be comfortable with. Then set the mood towards the intimate moment; a nice dinner out, some sensual music and candles when arriving home are some tried-and-tested options. Remember to let things flow, without any expectations beyond having the best time possible, together. 
 
+<p style="text-align:center; font-size:10px"><iframe width="600" height="315" src="https://www.youtube.com/embed/eOKCMqcu4-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+It is very likely that you would like to know more specifically what new things you can try for this Valentine's day night. You can watch the video above or the [male courterpart](https://www.youtube.com/watch?v=N29hSou-jGs) to learn some techniques or at least get inspired.
+
 So or those of you who would like to give it a go we wish you the safest, most connected and, of course, pleasurable experience with that special one. Who knows? Maybe it'll spark you up the rankings of sexual intercourse!
 
-**=========><=========**
-[Pussy Massage](https://www.youtube.com/watch?v=eOKCMqcu4-E&t=5s)
-
-[Penis Massage](https://www.youtube.com/watch?v=N29hSou-jGs)
