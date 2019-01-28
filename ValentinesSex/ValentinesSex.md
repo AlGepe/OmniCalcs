@@ -5,18 +5,6 @@ _Lead_ `to be written when everything else is finished`
 `numbers on section titles only there for organization purposes, to be removed before publishing`
 
 
-## 1 Valentine's day, celebrate the love
-
-As Valentine's day approaches, people start to plan how to celebrate their love and give way to their passions and desires. There is, however, one question many will have: "_What did Saint Valentine have to do with love?_". As with many Christian celebrations, there is a distant pagan origin to it. 
-
-Such origin appears to be the Roman celebration of Lupercalia, a festivity around female fertility in which a dog and a goat would be sacrificed. Since, apparently, these sacrifices alone would not guarantee that women would be fertile, they would then whip them with pieces of skin from the slain animals. Moreover, this celebration included a matchmaking lottery in which young couples would be randomly united for at least the duration of Lupercalia, in a crude version of the modern "First Date". 
-
-But then, surprising no one, the Catholic church banned Lupercalia. In 5th Century pope Gelasius I, decided to incorporate Lupercalia into the already Christian Valentine's Day. This adulteration of such a seemingly joyful (albeit obscene) celebration was probably not very well received but those used to would rather whip women with dead animals than celebrate love (probably more people than you imagine).
-
-Saint Valentine's history is the classical Christian martyr: be a nice person, do something that's illegal but shouldn't, get offer freedom in exchange for betraying your god, refuse, get killed. In the case of Valentine, his "crime" was secretly marry young couples in the times when the Roman emperor his troops would fight better if he abolished marriage.
-
-We won't argue if that was a smart move, but I cannot imagine how having a wife and kids home waiting for you would not be a great motivation to be done with war fast and victorious.
-
 
 ## 2 Couples do what couples do 
 
@@ -35,6 +23,26 @@ They say [internet is for porn](https://www.youtube.com/watch?v=LTJvdGcb7Fs), bu
 This idea entirely ignores the reality of previous times, where sex was as powerful of a force as it is today, maybe even more (but we'll explain why later). From the old Egyptian empire to the modern scandals in the USA, all throughout history. Sexual desire has been an indissoluble part of human history. This includes homosexual disputes such as those who got [Athens' tyrant, Hipparchus, killed](https://en.wikipedia.org/wiki/Harmodius_and_Aristogeiton)
 
 Even [medieval Christians would actively include and reference sex](https://elpais.com/elpais/2018/07/31/inenglish/1533051824_344537.html) in their art ([here](http://www.historia-del-arte-erotico.com/romanico_spain/home.htm) are some more graphical examples). So yeah, sex is, has been, and will most likely continue to be a big part of our history, even beyond its reproductive function. That's not a bad thing, on the contrary!
+
+And the reason? Well apart from the pure pleasure of it, most research seems to point in the same direction: [good sex correlates with happiness](http://theconversation.com/consensual-sex-is-key-to-happiness-and-good-health-science-says-91384). Sex is a very personal thing, but whether you experience it as a very intimate and sacred act or in a more fun and hedonistic way [having good sexual life leads to a better overall life](https://www.ncbi.nlm.nih.gov/pubmed/18576229). 
+
+This naturally raises a lot of questions, in particular, _what exactly is a "good sex life"?_ It is hard to know what that means in practical terms... Is more, better? Does it mean promiscuity, or maybe faithfulness? Is there a magic number of sexual intercourses for optimum happiness? These are difficult questions, and the answer is mostly "It depends", but let's elaborate on that.
+=============================================================================================================================================================================================
+**beginning of section 2 -> common activities -> sex as a common activity -> good sex is happiness -> what is good sex (end of section 3)**
+
+## Intro - looking for a name
+
+Love is truly powerful and empowering feeling. But love can die down. Long-lasting, successful relationships don't just happen, need to be nourished and taken care of. Some of the best ways, [according to many experts](https://www.redbookmag.com/love-sex/relationships/g3865/things-healthy-couples-do-together/),  are activities like working out or cooking together.
+
+The balance between self-development and being part of something bigger than yourself could also be the key to a better relationship. Amongst other benefits, it helps keep the "_spark_" alive in long term relationships, which gives way to many other benefits. For example, increased levels of attraction lead to more and better sex. 
+
+Frequent good sex might sound like something primitive and frivolous, however, not only does it prevent most of the cheating situations, but is also linked with improved well-being in healthier couples. And, let's face it! It is a difficult topic to talk about but is crucial to understand our behaviors, relationships, and history as human animals.
+
+Sex is mostly taboo, which prevents it from being seen as a healthy way to intimately relate to others. Many think that there is a modern fixation with sex and long for past times where "_not everything was about sex_". 
+
+This idea entirely ignores the reality of previous times, where sex was as powerful of a force as it is today. From the old Egyptian empire to the modern scandals in the White House, sexual desire has been an indissoluble part of human history. 
+
+This includes homosexual disputes such as those who got [Athens' tyrant, Hipparchus, killed](https://en.wikipedia.org/wiki/Harmodius_and_Aristogeiton), and [medieval Christian churches](https://elpais.com/elpais/2018/07/31/inenglish/1533051824_344537.html) decorated with explicit sex scenes ([here](http://www.historia-del-arte-erotico.com/romanico_spain/home.htm) are some more graphical examples). So yeah, sex is, has been, and will most likely continue to be a big part of our history, beyond its reproductive function.
 
 And the reason? Well apart from the pure pleasure of it, most research seems to point in the same direction: [good sex correlates with happiness](http://theconversation.com/consensual-sex-is-key-to-happiness-and-good-health-science-says-91384). Sex is a very personal thing, but whether you experience it as a very intimate and sacred act or in a more fun and hedonistic way [having good sexual life leads to a better overall life](https://www.ncbi.nlm.nih.gov/pubmed/18576229). 
 
