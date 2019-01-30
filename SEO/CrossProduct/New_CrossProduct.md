@@ -75,10 +75,13 @@ As always, most of us are not interested just in the purely mathematical propert
 
 The first field in which the cross product properties are widely used is electromagnetism. In nature, electric and magnetic fields are generally present perpendicular to each other, which ties perfectly into the way the cross product of two vector is expressed. Thing like calculating the <portal cid=903>magnetic forces on a current-carrying wire</portal> or computations for the <portal cid=970>magnetic moment</portal> of a system, all require the use of the cross product operation. Another example that cannot go unmentioned is the so called <portal cid=1050>Hall effect</portal> that is a very important effect in solid state physics but whose explanation is far too complicated to be treated here, so we invite you to visit the calculator we made for such effect.
 
-An even more tangible place where we can use the cross product formula to predict things is when we talk about <portal cid=450>moment of inertia</portal> and rotating objects.
+`Walter Lewin on moment of inertia => chair+wheel`
+
+An even more tangible place where we can use the cross product formula to predict things is when we talk about <portal cid=450>moment of inertia</portal> and rotating objects. We could endless talk how mind blowing this part of physics is. In stead, it is better if you watch the video above where **Walter Lewin** (one of the best Physics educators) explains and demonstrates everything about this weir phenomenon.
 
 ## Right hand rule in physics: why is it so useful?
 
+One of the scariest parts of physics is making sense of all the mathematical work one has to do in order to calculate stuff. As we include vectors and several dimensions, this can quickly become an uncontrollable mess that seems to not have anything to do with reality. To solve this problems, physicist have developed some easy tricks to help you navigate these muddy waters.
 
 
 NEW

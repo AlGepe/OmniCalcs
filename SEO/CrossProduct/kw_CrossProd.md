@@ -19,12 +19,8 @@ RIGHT HAND RULE CROSS PRODUCT
 [] 161 - scientific notation
 [] 410 - centrifugal force
 [] 475 - surface area
-[] 450 - moment of inertia
 [] 560 - dot product
-[] 903 - magnetic force on a current-carrying wire
 [] 908 - magnetic forces between wires
-[] 970 - magnetic moment
-[] 1050 - hall effect
 [] 1082 - height of a triangle
 [] xxx - area of a [...]
 
@@ -34,5 +30,9 @@ starting point: 643
 ========================================
 [] 151 - square root
 [] 291 - 3d distance
+450 - moment of inertia
 553 - unit vector
 700 - perpendicular line
+903 - magnetic force on a current-carrying wire
+970 - magnetic moment
+1050 - hall effect

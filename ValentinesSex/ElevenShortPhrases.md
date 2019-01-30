@@ -9,5 +9,5 @@ var comments = [
 [40, "You're well above the average; Statistically you must have had at least one amazing encounter, congrats!"],
 [70, "If your sexual encounters are as good as they are frequent, you and your partner(s) must be very satisfied"], 
 [85, "Wow, that's a lot! Make sure you still have time to eat, drink and rest ;)"],
-[100, "Wow! At your age, having so much sex is really not common!"],
+[100, "Wow! Having so much sex is really not common!"],
    ];
