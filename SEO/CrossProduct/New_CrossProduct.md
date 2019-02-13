@@ -38,13 +38,9 @@ Following this nomenclature, each vector can be represented by a sum of these th
 
 `v x w = ( v₂w₃ - v₂w₃,  v₃w₁ - v₁w₃, v₁w₂ - v₂w₁)`
 
-<later>This result might look like a random collection of operations between components of each vector, but nothing is further from reality. For those of you wondering where this all comes from we encourage you to try and discover it yourself. All you need to do is start with both vectors expressed as: `v = v₁i + v₂j + v₃k` and `w = w₁i + w₂j + w₃k` and multiply each component of a vector with all the components with the other. As a small help or hint, we can tell you that when doing the cross product of vectors multiplied by numbers the result is the "_regular_" product of the numbers times the cross product between vectors, as we will see in the next section. It will also come in handy to remember that the cross product of parallel vectors (and hence of a vector with itself) is always `0` as we've seen before.
+This result might look like a random collection of operations between components of each vector, but nothing is further from reality. For those of you wondering where this all comes from we encourage you to try and discover it yourself. All you need to do is start with both vectors expressed as: `v = v₁i + v₂j + v₃k` and `w = w₁i + w₂j + w₃k` and multiply each component of a vector with all the components with the other. As a small help or hint, we can tell you that when doing the cross product of vectors multiplied by numbers the result is the "_regular_" product of the numbers times the cross product between vectors, as we will see. It will also come in handy to remember that the cross product of parallel vectors (and hence of a vector with itself) is always `0` as we've seen before.
 
 For starters let's tackle obtaining the modulus, norm or length of a 3-D vector. For that, we simply need to calculate the <portal cid=291>3d distance</portal> from the beginning to the end of the vector. That can be done using our calculator or by simply taking each of the three components, squaring them, summing them and then performing the <portal cid=151> square root</portal> of the result. Putting it in mathematical terms (using vector `a`) as an example we get:
-
-`|a| = √(a₁² + a₂² + a₃²)`
-
-Where `a₁`, `a₂` and `a₃` represent each of the components of the 3d vector `a`.  </later>
 
 ## How to use the vector cross product calculator
 
