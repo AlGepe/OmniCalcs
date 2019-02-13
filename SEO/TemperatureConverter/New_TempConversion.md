@@ -1,4 +1,27 @@
-on calculator enables a quick switch of temperature units used around the world, such as Celsius to Fahrenheit conversion. Using temperature conversion formula, the calculator returns results in respective units in real time. Rather than use typical temperature conversion table, type in any value in the calculator and get quickly results in all the other units.
+## 1 What is temperature (brief) 
+## 2 Temperature and relation with other magnitudes
+## 3 Temperature Scales and conversions (brief description) 
+## 4 Temperature conversion using the calculator 
+## 5 Temperature conversion tables/charts 
+## 6 Celsius Scale 
+## 7 Fahrenheit scale 
+## 8 Kelvin scale 
+## 9 Very cold temperatures (absolute zero) 
+## 10 Very hot temperatures (mention negative absolute temps)
+## 11 Temperatures in the universe
+## 12 ambient, room, normal temperatures (body temperatures)
+## 13 Bodily temperatures
+## 14 Temperature and everyday life
+## 15 Bonus: Negative absolute temperatures
+
+
+
+
+NEW
+=================================================================================
+=================================================================================
+OLD
+Temperature conversion calculator enables a quick switch of temperature units used around the world, such as Celsius to Fahrenheit conversion. Using temperature conversion formula, the calculator returns results in respective units in real time. Rather than use typical temperature conversion table, type in any value in the calculator and get quickly results in all the other units.
 
 ## Temperature conversion formula
 
