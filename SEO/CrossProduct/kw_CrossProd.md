@@ -21,7 +21,6 @@ RIGHT HAND RULE CROSS PRODUCT
 [] 475 - surface area
 [] 560 - dot product
 [] 908 - magnetic forces between wires
-[] 1082 - height of a triangle
 [] xxx - area of a [...]
 
 ========================================
@@ -36,3 +35,4 @@ starting point: 643
 903 - magnetic force on a current-carrying wire
 970 - magnetic moment
 1050 - hall effect
+1082 - height of a triangle
