@@ -39,9 +39,10 @@ CONVERSION TOOLS IN GENERAL
 
 1 [] 945 - Boltzmann factor
 -
-2 [] 208 - length converter
 2 [] 359 - heat index
 2 [] 423 - dew point
+-
+4 [] 208 - length converter
 -
 6 [] 499 - Boiling point at altitude
 6 [] 505 - Boiling point

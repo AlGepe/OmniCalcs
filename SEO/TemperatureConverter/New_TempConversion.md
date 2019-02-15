@@ -1,4 +1,4 @@
-## 1 What is temperature (brief) 
+## a What is temperature (brief) 
 
 It is always hard to come up with a good definition for everyday terms, but with temperature is notoriously difficult. We all know what hot is or what cold is, but temperature? **Temperature is much harder to define without getting technical**, which is why we will get technical in just a moment. To do this we have to turn to physics, in particular to thermodynamics and statistical physics, which is like **thermodynamics meets quantum physics**.
 
@@ -20,14 +20,54 @@ Just by simply looking at the weather you can already have an intuition that tem
 
 This whole relationship between pressure, temperature, volume (and <portal cid=205>density</portal> for that matter) is best explain by the <portal cid=435>ideal gas law</portal> equation, at least in the perfect case. We won't go into details but by using such calculator together with the air density and drag calculators you could easily see how a change in temperature can significantly change the results of an experiment like the <portal cid=711>free fall with air resistance</portal>. This is easy to correct for, but if you don't do, you might end up with strange values for the <portal cid=438>gravitational force</portal> of the Earth, that might even change from day to day!
 
-All this relations between temperature and volume, or pressure, or speed... Depend on the properties of the material you are dealing with and it generally paramtrized by physicist by quantities such as <portal cid=414>specific heat</portal>, <portal cid=1060>latent heat</portal>, <portal cid=442>thermal conductivity</portal>... And then are integrated into the theories by means of rules and laws such as <portal cid=1169>Newton's law of cooling</portal>, <portal cid=952>Joule heating</portal>...
+All this relations between temperature and volume, or pressure, or speed... Depend on the properties of the material you are dealing with and it generally parametrized by physicist by quantities such as <portal cid=414>specific heat</portal>, <portal cid=1060>latent heat</portal>, <portal cid=442>thermal conductivity</portal>... And then are integrated into the theories by means of rules and laws such as <portal cid=1169>Newton's law of cooling</portal>, <portal cid=952>Joule heating</portal>...
 
 Before we can dive any deeper into the consequences or practical applications of this connections, we probably should talk about this temperature conversion calculator, how temperature is measured, and why do we even need different units to measure temperature. Because, spoiler alert, having measurements in Celsius, and temperature in Fahrenheit or using the Kelvin temperature scale is very useful, even if that means we need to convert temperature from Fahrenheit to Celsius to even understand each other.
 
 ## 3 Temperature Scales and conversions (brief description) 
+
+When it comes to measuring temperature, you could say that it **is measured in degrees** and it's just that different people use different degrees. But that just delays the problem without providing a real answer, and it also makes scientist very angry since the preferred nomenclature is without the "degree" part of it. Any which way, there are many different units to measure temperature in, the most common ranging from kelvin to Celsius to Fahrenheit, **depending on the country or the type of conversation**.
+
+However, there are **many more units of temperature**, some arguably as useless as unknown. **In this temperature unit conversion calculator we have them all** and we will let you play with weird temperature conversions, and even show you how to make your own temperature conversion table for unknown units, if you're into that sort of stuff. For now let's just mention some of them.
+
+Among the most weird and obscure we can think of are units of temperature such as: Rankine, Delisle, Newton, Réaumur, Rømer... If you're an avid reader and follower of science you've probably noticed that they are all names of scientist. In fact, from (Lord) Kelvin to Fahrenheit to Celsius **all the units of temperature are names of those who (allegedly) created such temperature scales**.
+
+The only exception would be the centigrade scale, which we would mention briefly later, but it's practically the same as the Celsius. The reason there are so many units is that temperature is hard to measure and there is not an obvious way to stablish proper scale. In fact, **for thousands of years nobody even knew if there was even an upper or lower limit to temperatures**, so it was very hard to stablish points of reference. 
+
+We will see in more **detail some of the most important temperature scales**, and the temperature conversion between this commonly used scales. We will also see how natural phenomenons such as freezing point, <portal cid=423>dew point</point> or <portal cid=499>boiling points</portal> were crucial in the development of a widespread temperature scale.
+
 ## 4 Temperature conversion using the calculator 
+
+Before we dive deeper into the temperature scales themselves we should probably take a look at how to use the tool that allows us to convert from Fahrenheit to Celsius or basically from any temperature units into any other. When faced with such a problem, **your options are always twofold: either you DIY it the help of Google, or you use our easy calculator and save time**. To those who chose the first option: -_We're sorry to see you go, please come back another day_-. To the rest: let's see how to use this calculator, or any other [converstion calculators from Omni](https://www.omnicalculator.com/conversion), such as the <portal cid=208>length conversion</portal>, or the <portal cid=1118>Unix time converter</portal>.
+
+In the particular case of the temperature conversion calculator we provide **all available units at a glance**. By default the order in which they appear is:
+
+* Celsius
+* Fahrenheit
+* Kelvin
+* Rankine
+* Delisle
+* Newton
+* Réaumur
+* Rømer
+
+However, you can change it to whatever order better suits your needs. It is very easy to change the units of a particular field, and it only takes a couple clicks. Let's say that you want change the first text box from Celsius to Fahrenheit, the second one from K
+Fahrenheit to Kelvin and the third one from Kelvin to Fahrenheit, all you need to do is:
+
+1) Click over `ºC`, use the drop down menu to change units from Celsius to Fahrenheit by selecting `Fahrenheit (ºF)`.
+1) Click over `ºF` on the second text box, and select `Kelvin (K)`. You now have changed the units from Fahrenheit to Kelvin on the second field.
+1) Click over `K`, select `Celsius (ºC)` from the drop down menu.
+1) Contemplate your masterpiece, and maybe use it to convert temperature units.
+
+Once you have all the units in your desire position, just proceed by entering the value of temperature in your reference units and from that moment you will see it appear in all other units automatically. Don't you love technology, progress and the magic of the Internet?
+
 ## 5 Temperature conversion tables/charts 
+
+
+
 ## 6 Celsius Scale 
+
+
 ## 7 Fahrenheit scale
 ## 8 Kelvin scale 
 ## 9 Very cold temperatures (absolute zero) 
