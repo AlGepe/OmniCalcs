@@ -1,10 +1,32 @@
 ## 1 What is temperature (brief) 
+
+It is always hard to come up with a good definition for everyday terms, but with temperature is notoriously difficult. We all know what hot is or what cold is, but temperature? **Temperature is much harder to define without getting technical**, which is why we will get technical in just a moment. To do this we have to turn to physics, in particular to thermodynamics and statistical physics, which is like **thermodynamics meets quantum physics**.
+
+But there is **no need to worry**, because when we dig deeper into what is temperature, the answer is as simple as confusing: <strong>temperature is <portal cid=26>speed</portal>, or rather, <portal cid=434>momentum</portal></strong> of the atoms and molecules that make up the material. What this means is that the higher the temperature of something, the higher the <portal cid=881>particles velocity</portal> faster the molecules that make up that something vibrate. This is very closely related to the concept of <portal cid=1008>thermal energy</portal> and means that heat is just another expression of <portal cid=200>kinetic energy</portal>.
+
+As always, there's much more to this concepts than what we've mentioned here, like for example the fact that <portal cid=213>speed</portal> is related to the kinetic energy by means of a <portal cid=151>square root</portal>. Or the fact that when we mention speed we should technically speak of the <portal cid=265>average</portal> of all the speeds of all the particles... But this would, then, become a large essay on the physical concept of temperature and there would not be space for a conversion tool.
+
+We have space and time, however, to point out some interesting facts, like how much more obvious it is that any <portal cid=439>force of friction</portal> will end up creating heat (increasing the temperature). And it is also interesting to note that once we think of temperature as a form of energy it becomes fairly clear that our body burns more <portal cid=231>calories</portal> when we exercise vigorously, which incidentally **creates much more heat inside out bodies than light exercising**. 
+
+Thinking about **temperature and heat in terms of energy is very useful** and helps us understand much better many of the things that happen around us. Nevertheless that is not the only thing we will talk about. Since **this is a temperature conversion tool first**, it is only fair that we will talk about units of measuring temperature.  We also need to acknowledge the different ways that exist of measuring temperature. We're not talking only about different types of thermometers, but also about **different scales**.
+
+We will talk about different ways of measuring temperature both in terms of temperature scales, from Celsius to Fahrenheit to Kelvin and back to Celsius; and also in terms of what properties we can use to accurately make measurements in any scale we want.
+
 ## 2 Temperature and relation with other magnitudes
+
+_Everything is connected_ is something we hear a lot, but we barely ever consider to what extent that is true. **In physics it is an unavoidable truth, one thing affects the other**; luckily for us we know almost always how one thing affects another and we can predict those changes and use them to or advantage. We have already seen how a change in temperature involves a change in momentum by the particles, but there are **many more connections than just speed-temperature**.
+
+Just by simply looking at the weather you can already have an intuition that temperature and <portal cid=984>pressure</portal> are closely related. And if you're into your <portal cid=878>cycling numbers</portal> you probably also know that temperatures affect air <portal cid=585>air density</portal> and, hence, <portal cid=1035>drag</portal> at a given speed. This is due to the <portal cid=440>thermal expansion</portal> of the gases in the air, with the corresponding increase in <portal cid=195>volume</portal> which translates to a drop in <portal cid=204>density</portal>, since the <portal cid=207>weight</portal> remains constant.
+
+This whole relationship between pressure, temperature, volume (and <portal cid=205>density</portal> for that matter) is best explain by the <portal cid=435>ideal gas law</portal> equation, at least in the perfect case. We won't go into details but by using such calculator together with the air density and drag calculators you could easily see how a change in temperature can significantly change the results of an experiment like the <portal cid=711>free fall with air resistance</portal>. This is easy to correct for, but if you don't do, you might end up with strange values for the <portal cid=438>gravitational force</portal> of the Earth, that might even change from day to day!
+
+
+
 ## 3 Temperature Scales and conversions (brief description) 
 ## 4 Temperature conversion using the calculator 
 ## 5 Temperature conversion tables/charts 
 ## 6 Celsius Scale 
-## 7 Fahrenheit scale 
+## 7 Fahrenheit scale
 ## 8 Kelvin scale 
 ## 9 Very cold temperatures (absolute zero) 
 ## 10 Very hot temperatures (mention negative absolute temps)
@@ -12,7 +34,8 @@
 ## 12 ambient, room, normal temperatures (body temperatures)
 ## 13 Bodily temperatures
 ## 14 Temperature and everyday life
-## 15 Bonus: Negative absolute temperatures
+## 15 Temperature sensors, how they work
+## 16 Bonus: Negative absolute temperatures
 
 
 
