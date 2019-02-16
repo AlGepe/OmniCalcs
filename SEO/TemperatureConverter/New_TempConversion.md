@@ -51,7 +51,7 @@ In the particular case of the temperature conversion calculator we provide **all
 * Réaumur
 * Rømer
 
-However, you can change it to whatever order better suits your needs. It is very easy to change the units of a particular field, and it only takes a couple clicks. Let's say that you want change the first text box from Celsius to Fahrenheit, the second one from K
+However, you can change it to whatever order better suits your needs. **It is very easy to change the units of a particular field**, and it only takes a couple clicks. Let's say that you want change the first text box from Celsius to Fahrenheit, the second one from K
 Fahrenheit to Kelvin and the third one from Kelvin to Fahrenheit, all you need to do is:
 
 1) Click over `ºC`, use the drop down menu to change units from Celsius to Fahrenheit by selecting `Fahrenheit (ºF)`.
@@ -67,17 +67,54 @@ Once you have all the units in your desire position, just proceed by entering th
 
 ## 6 Celsius Scale 
 
+The Celsius temperature scale is probably **the most widely use** of the 'non-scientific' units of temperature. It's origin dates to the 18th century, when Anders Celsius invented it. The principles behind it are as simple and easy to create as things can get. The first assumption that Anders made was that **ice water melts always at the same temperature, and it also boils at the same temperature**. So with a very well constructed thermometer (probably just a blank glass tube filled with alcohol) he put a mark for each of these points. Only he put 0 and 100
+
+He then **created 100 divisions between these two marks** and called each of them a "_degree_". This is the reason why this scale is also called the centigrade scale: because it has a hundred (_centi_) degrees (_grade_). Since it's creation, this unit has been pretty much the **de facto standard in most countries** (not the USA) and was even the SI unit of temperature for many years, until Lord Kelvin came and created a more scientifically founded scale.
+
+<p style="text-align:center; font-size:10px"><iframe width="600" height="315" src="https://www.youtube.com/embed/rjht4oAByCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+The key achievement of this scale is to **present the temperatures that naturally occur in our everyday life with easy to use numbers**. Numbers between 0 and 100 are easy numbers to imagine, easy to manipulate and understand. It is rare that on a normal day we would encounter temperatures that would be higher than 100ºC and even more rare to find anything lower than -100ºC. 
+
+However, there is **a problem with the Celsius scale: it's not universal**. The biggest flaw of this temperature scale is the fact that water changes its <portal cid=499>boiling point at altitude</portal>, or rather with pressure changes. It also changes it's melting point. So setting a **standardised 0ºC point or 100ºC point becomes really tricky**.
+
+This doesn't bother too much scientists, though. They would just simply **measure all the other variables, correct for them and be done with it**. However, what concerns scientists more is the lack of universal motif behind the decisions. Why chose water and not oil? What oil? What if I would be in a different planet with different conditions, could I reproduce the scale? And hence the Kelvin scale of temperatures was born; but that's a story for another section.  
 
 ## 7 Fahrenheit scale
+
+Much in the fashion of the Celsius scale, the Fahrenheit scale was created by a **man of science that wanted to make the best temperature scale** with the best temperature units in the universe; and he also failed. Daniel Gabriel Fahrenheit, was a contemporary Dutch of Anders Celsius, that thought he could do better than the centigrade scale. The whole story of how he ended up creating the current Fahrenheit units is much better explained in the video, so we would **recommend you to watch it**.
+
+<p style="text-align:center; font-size:10px"><iframe width="600" height="315" src="https://www.youtube.com/embed/rjht4oAByCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+The Fahrenheit is as acceptable as any other scale but because of how it was conceived **seems a bit less intuitive to use** for those not used to it. Temperature conversion form `F` to `C` it's also more complicated than it is to convert Celsius to Kelvin. The temperature conversion formulas for going from Fahrenheit to Celsius and from Celsius to Fahrenheit are not very complicated. Let's see now how we can take **temperature in Fahrenheit and turn that into a temperature expressed in the metric unit** of temperature, the Celsius.
+
 ## 8 Kelvin scale 
+
+And now onto the Temperature scale attributed to Lord Kelvin. The Kelvin scale of temperature is **currently the most widely used in science**, and for good reason. It has everything a truly scientific measuring unit should have: it's based on universal principles, it's independent of "outside" factors, and, as an extra bonus, it's defined in a way that makes temperature conversion easy for most. The size of a Kelvin was set to be the same as the Celsius degree, for convenience. 
+
+The universality of the Kelvin comes from the fact that `0K` is exactly the **coldest temperature physically possible**, the absolute zero. It's not easy to understand how can one be sure of a temperature being **the coldest ever possible, period**; more so if we realise that it is also not possible to reach in reality. One of the trick used to arrive at this conclusion with scientific certainty is in the relationship between pressure, temperature and volume.
+
+If you were to plot how either pressure or volume relate to temperature, you would find something fairly obvious: **pressure decreases with temperature, and so does volume**; at least in an isolated system in which all other variables are kept constant. Furthermore, you could do some analysis on this relation by means of a <portal cid=463>chi square</portal>, or <portal cid=486>linear interpolation</portal> to obtain the trend line. If you then extrapolate until you can find where the it **intercepts the axis** (just like you can do with our <portal cid=481>slope intercept calculator</portal>), you will find that the temperature at which the **volume and pressure would be 0 will be the same for most material**: `0K = -273.15ºC = 459.67ºF`.
+
+This value is what we call absolute zero, because it would be impossible to go below it, since it would mean reaching negative pressures or negative volumes, which are **physically absurd**. This is by no means the only way to find the value of absolute zero, and more modern experiments of different nature have backed up this result through other paths. It is very surprising to think that while there is no upper limit to temperatures in the universe, the lowest temperature is something very clearly defined and independent of the system.
+
+In terms of defining a temperature scale, however, we still need to get more data, since we have only defined one point of reference and we need at least two. The second point of reference was chosen by scientists to be the **triple point of water**. The reasons behind this decisions is that water is a fairly simple, widely available liquid, that also happens to be a requirement for life as we know it. The **triple point of water is a state in which water coexists in solid, liquid and gaseous forms** at the same time, and it is only possible to achieve at a certain pressure, and, crucially for us, temperature.
+
+Armed with two point of reference and our desired size of the unit (same as degree Celsius), we can start setting values for common events. Under this premises, water melts at `273.15K`, and boils at `373.15K`; with the normal human body temperature sit around `306K`. This scale has the problem of dealing with fairly big number for our everyday life in pursue of a no-negative-numbers scale, which is the reason it has not become the standard unit of measurement for everyone everywhere. It is however the SI unit of temperature, and by fair the most used of all temperature units. 
+
+Just a final remark before we move into other topics: we have been very careful to precisely say there are no "colder" temperatures than `0K` but never say "there are no negative absolute temperatures" since that would've been false. We will dedicate a bonus section for those really interested. For those the moment all you need to know is that negative absolute temperatures DO exist, they are hotter than any other positive temperature possible and only occur in very especial systems with certain properties.
+
+## 14 Temperature and everyday life
+## 15 Temperature sensors, how they work
+
+
 ## 9 Very cold temperatures (absolute zero) 
 ## 10 Very hot temperatures (mention negative absolute temps)
 ## 11 Temperatures in the universe
 ## 12 ambient, room, normal temperatures (body temperatures)
 ## 13 Bodily temperatures
-## 14 Temperature and everyday life
-## 15 Temperature sensors, how they work
 ## 16 Bonus: Negative absolute temperatures
+
+But the world keeps spinning and moving around the sun like it always did, boiling water burns, ice is cold and there's nothing colder than `0K`; so don't worry about it too much and just continue with your life :)
 
 
 

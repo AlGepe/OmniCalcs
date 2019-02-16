@@ -39,20 +39,11 @@ CONVERSION TOOLS IN GENERAL
 
 1 [] 945 - Boltzmann factor
 -
-2 [] 359 - heat index
-2 [] 423 - dew point
 -
-4 [] 208 - length converter
--
-6 [] 499 - Boiling point at altitude
-6 [] 505 - Boiling point
 -
 7 [] 1242 - thermodynamic processes
 -
 8 [] 148 - slope
-8 [] 463 - chi square
-8 [] 481 - slope intercept
-8 [] 486 - linear interpolation
 -
 11 [] 880 - photon energy
 11 [] 972 - Schwarzschild radius
@@ -95,15 +86,23 @@ Starting point: 404
 204 - density calculator
 205 - density conversion
 207 - weight conversion
+208 - length converter
 200 - kinetic energy
 231 - calorie
 265 - average
+359 - heat index
 414 - specific heat
+423 - dew point
 434 - momentum
 435 - ideal gas law
 438 - gravitational force calculator
 439 - force of friction
 440 - thermal expansion
+463 - chi square
+481 - slope intercept
+486 - linear interpolation
+499 - Boiling point at altitude
+505 - Boiling point
 585 - air density calculator
 711 - free fall with air resistance calculator
 878 - cycling wattage
@@ -113,5 +112,6 @@ Starting point: 404
 1008 - thermal energy
 1035 - drag equation
 1060 - latent heat
+1118 - Unix time converter
 1159 - running calorie
 1169 - Newton's law of cooling
