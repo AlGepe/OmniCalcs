@@ -40,12 +40,8 @@ CONVERSION TOOLS IN GENERAL
 1 [] 945 - Boltzmann factor
 -
 -
--
-7 [] 1242 - thermodynamic processes
--
 8 [] 148 - slope
 -
-11 [] 880 - photon energy
 11 [] 972 - Schwarzschild radius
 -
 13 [] 176 - windchill
@@ -62,14 +58,12 @@ CONVERSION TOOLS IN GENERAL
 [] 378 - quit smoking
 [] 472 - normal distribution
 [] 535 - walking calorie
-[] 607 - buoyancy calculator
 [] 623 - cloud base
 [] 661 - distance attenuation
 [] 815 - egg boiling calculator
 [] 833 - car vs bike
 [] 888 - Flight emissions
 [] 857 - smoking recovery
-[] 990 - redshift
 [] 1008 - thermal density
 [] 1010 - Bag footprint
 [] 1081 - car crash
@@ -82,6 +76,7 @@ Starting point: 404
 ===================USED============================
 26 - speed
 151 - square root
+178 - Ohm's law
 195 - volumen
 204 - density calculator
 205 - density conversion
@@ -98,20 +93,48 @@ Starting point: 404
 438 - gravitational force calculator
 439 - force of friction
 440 - thermal expansion
+452 - de Broglie's wavelength
+453 - Doppler effect
 463 - chi square
 481 - slope intercept
 486 - linear interpolation
 499 - Boiling point at altitude
 505 - Boiling point
+550 - voltage drop
 585 - air density calculator
+607 - buoyancy calculator
+677 - Carnot efficiency
+683 - Stefan-Boltzmann law
 711 - free fall with air resistance calculator
 878 - cycling wattage
+880 - photon energy
 881 - particles velocity
+924 - speed of sound
 952 - Joule heating
 984 - pressure
+990 - redshift
+999 - drift velocity
 1008 - thermal energy
+1009 - wire resistance
 1035 - drag equation
+1045 - black hole temperature
+1048 - electrical mobility
+1050 - hall effect
 1060 - latent heat
 1118 - Unix time converter
 1159 - running calorie
-1169 - Newton's law of cooling
+1168 - Newton's law of cooling
+1242 - thermodynamic processes
+1276 - Wien's law
+
+
+
+
+
+
+
+
+
+
+
+
