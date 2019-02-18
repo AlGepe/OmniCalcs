@@ -1,4 +1,4 @@
-With the use of the distance calculator, we are able find the distance between two points (x₁,y₁) and (x₂,y₂) on a Cartesian coordinate system. It uses the common distance formula and will compute this distance when you simply enter the coordinates. As you will see in the next section, the distance equation will show how to find the distance between two points and is closely related to the <portal cid="53">Pythagorean theorem</portal>.
+# LEAD
 
 
 ## What is distance?
@@ -39,7 +39,7 @@ So in a more concrete fashion, this would be the steps your should take to calcu
 
 Working the example by hand, we get `√(9-3)²+(15-5)²` = `√36 + 100` = `√136`, which is approximately equal to 11.66.  Note that when taking the square root you will get a positive and negative value, but since we are dealing with distance, we are only concerned with the positive result. 
 
-## Driving distance between cities: a real world example
+## Driving distance between cities: a real world example (to be checked and expanded)
 
 An application of the distance calculator is that is can be used together with the <portal cid="30">gas calculator</portal>. 
 

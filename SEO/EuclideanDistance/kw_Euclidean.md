@@ -4,7 +4,6 @@ DISTANCE
 LONG DISTANCE RELATIONSHIP
 DISTANCE CALCULATOR           **40k**
 DRIVING DISTANCE
-DISTANCE BRACELETS
 DISTANCE BETWEEN 							**27k**
 DISTANCE BETWEEN CITIES
 DISTANCE FROM EARTH TO MOON
@@ -70,3 +69,4 @@ Starting: 450 (usable)
 ========================================
 53 - Pythagorean theorem
 151 - square root
+208 - length converter
