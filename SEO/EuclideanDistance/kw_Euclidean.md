@@ -52,7 +52,6 @@ EUCLIDEAN DISTANCE						**8k**
 [] 700 - perpendicular line
 [] 704 - parallel line
 [] 733 - height	
-[] 751 - length contraction
 [] 833 - car vs bike
 [] 854 - grams to cups	
 [] 896 - sphere volume
@@ -70,3 +69,8 @@ Starting: 450 (usable)
 53 - Pythagorean theorem
 151 - square root
 208 - length converter
+560 - dot product
+561 - cross product
+751 - length contraction
+1085 - square
+1111 - triangle angles

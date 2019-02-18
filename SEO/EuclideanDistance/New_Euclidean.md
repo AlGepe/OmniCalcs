@@ -14,9 +14,15 @@ Next step to do, if you want to be mathematical accurate and precise, is define 
 
 ## The distance formula for Euclidean distance
 
+The Euclidean space or Euclidean geometry is precisely what we all think of space of geometry before we receive any deep mathematical training in any of these aspects. In Euclidean space the sum of <portal cid=1111>triangle angles</portal> is 180º. <portal cid=1085>Squares</portal> have all their angles equal to 90º, always... Which is something we all take for granted, but that is not true in all spaces.  Let's also not confuse Euclidean space with multidimensional spaces. Euclidean space can have as many dimensions as you want and still be Euclidean. 
 
+We do not want to bore you with mathematical definitions of what a "_space_" is and what makes the Euclidean space unique, since that would be too complicated to explain in a simple distance calculator. However we can try to give some examples of other spaces that are commonly used and that might help you understand why Euclidean space is not the only space. Also you will hopefully understand why we are no going to bother calculating distances in other spaces.
 
+The first example we present to you in a bit obscure, but I hope you can excuse myself as a physicist for starting with this very important type of space: "_Minkowski space_" The reason I've selected this is because it is highly used in physics, in particular in relativity theory, general relativity and even in relativistic quantum field theory. This space is very similar to Euclidean space, but differs from it in a very critical feature: <portal cid=560>dot product</portal>, also called the _inner product_ (not to be confused with the <portal cid=561>cross product</portal>). 
 
+=======Curved space=========
+
+The distance formula is `√(x₂ - x₁)² + (y₂ - y₁)²`, which relates to the <portal cid=53>Pythagorean theorem</portal>, which is `a² + b² = c²`, where `a` and `b` are legs of a right triangle and `c` is the hypotenuse. Suppose (x₁,y₁) and (x₂,y₂)are coordinates of the endpoints of the hypotenuse. Then `(x₂ - x₁)²` in the distance equation corresponds to `a²` and `(y₂ - y₁)²`corresponds to `b²`. Since `c = √a² + b²`, you can see how it is just an extension of the Pythagorean theorem.
 
 ## Distance from a straight like or any continuous structure
 
@@ -26,9 +32,7 @@ Next step to do, if you want to be mathematical accurate and precise, is define 
 
 As we have mentioned before, distance can mean many things but we focused this calculator on obtaining the distance between two points in 2-D space.  In 2-D space points are defined by two coordinates each, and that's why the distance calculator here has four text boxes for you to fill-in. Using the calculator is very straight-forward, but before you use it, we would recommend you to get acquainted with the distance formula and the procedure you would have to follow if it was 1950 and the Internet was still not a thing.
 
-Suppose we have coordinates `(3,5) and (9,15)` and we want to calculate the distance. The distance formula is `√(x₂ - x₁)² + (y₂ - y₁)²`, which relates to the <portal cid=53>Pythagorean theorem</portal>, which is `a² + b² = c²`, where `a` and `b` are legs of a right triangle and `c` is the hypotenuse. Suppose (x₁,y₁) and (x₂,y₂)are coordinates of the endpoints of the hypotenuse. Then `(x₂ - x₁)²` in the distance equation corresponds to `a²` and `(y₂ - y₁)²`corresponds to `b²`. Since `c = √a² + b²`, you can see how it is just an extension of the Pythagorean theorem.
-
-So in a more concrete fashion, this would be the steps your should take to calculate the 2-D distance between these two points:
+Suppose we have coordinates `(3,5) and (9,15)` and we want to calculate the distance. These would be the steps your should take to calculate the 2-D distance between these two points:
 
 1. Input the values into the formula: `√(x₂ - x₁)² + (y₂ - y₁)²`.
 1. Subtract values in parentheses.
