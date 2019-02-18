@@ -22,6 +22,8 @@ The first example we present to you in a bit obscure, but I hope you can excuse 
 
 =======Curved space=========
 
+====Below there's no paragraph, just a couple sentences to be included===
+
 The distance formula is `√(x₂ - x₁)² + (y₂ - y₁)²`, which relates to the <portal cid=53>Pythagorean theorem</portal>, which is `a² + b² = c²`, where `a` and `b` are legs of a right triangle and `c` is the hypotenuse. Suppose (x₁,y₁) and (x₂,y₂)are coordinates of the endpoints of the hypotenuse. Then `(x₂ - x₁)²` in the distance equation corresponds to `a²` and `(y₂ - y₁)²`corresponds to `b²`. Since `c = √a² + b²`, you can see how it is just an extension of the Pythagorean theorem.
 
 ## Distance from a straight like or any continuous structure
