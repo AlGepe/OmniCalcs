@@ -1,11 +1,24 @@
+DISTANCE FORMULA 							**200k**
+DISTANCE FROM                 **90k**
+DISTANCE
+LONG DISTANCE RELATIONSHIP
+DISTANCE CALCULATOR           **40k**
+DRIVING DISTANCE
+DISTANCE BRACELETS
+DISTANCE BETWEEN 							**27k**
+DISTANCE BETWEEN CITIES
+DISTANCE FROM EARTH TO MOON
+DISTANCE FROM EARTH TO SUN
+DISTANCE BETWEEN TWO POINTS
+EUCLIDEAN DISTANCE						**8k**
+
+
 []   2 - tip
 []   6 - convert fraction to percentage
 [] 	11 - sales tax
 [] 	12 - compound interest
 [] 	30 - gas
-[]  53 - Pythagorean theorem
 [] 148 - slope	
-[] 151 - square root	
 [] 158 - exponent	
 [] 161 - scientific notation	
 [] 169 - GCF	
@@ -53,3 +66,7 @@
 
 Target: 2500
 Starting: 450 (usable)
+
+========================================
+53 - Pythagorean theorem
+151 - square root
