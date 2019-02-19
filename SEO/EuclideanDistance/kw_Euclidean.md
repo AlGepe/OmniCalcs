@@ -30,11 +30,8 @@ EUCLIDEAN DISTANCE						**8k**
 [] 206 - temperature	
 [] 207 - weight	
 [] 231 - calorie	
-[] 239 - midpoint	
 [] 258 - ratio	
 [] 265 - average
-[] 288 - circumference	
-[] 291 - 3D distance
 [] 392 - significant figures	
 [] 404 - percentage	
 [] 427 - permutation	
@@ -45,16 +42,11 @@ EUCLIDEAN DISTANCE						**8k**
 [] 507 - lottery	
 [] 539 - Earth curvature
 [] 547 - plug-in hybrid economy
-[] 552 - polar coordinates
-[] 554 - cylindrical coordinates
 [] 628 - stopping distance
 [] 630 - sleep	
-[] 700 - perpendicular line
-[] 704 - parallel line
 [] 733 - height	
 [] 833 - car vs bike
 [] 854 - grams to cups	
-[] 896 - sphere volume
 [] 906 - triangle area
 [] 923 - lighting distance
 [] 972 - Schwarzschild radius
@@ -69,8 +61,24 @@ Starting: 450 (usable)
 53 - Pythagorean theorem
 151 - square root
 208 - length converter
+210 - area converter
+239 - midpoint	
+288 - circumference	
+291 - 3D distance
+486 - linear interpolation
+552 - polar coordinates
+554 - cylindrical coordinates
+555 - spherical coordinates
+554 - cylindrical coordinates
 560 - dot product
 561 - cross product
+700 - perpendicular line
+704 - parallel line
 751 - length contraction
+752 - circle
+753 - circle equation
+896 - sphere volume
+1067 - sphere
 1085 - square
 1111 - triangle angles
+1141 - time zones converter
