@@ -36,12 +36,28 @@ But..."_How to calculate the orbital period in these extreme cases?_" - I here y
 
 If you turn your attention to the calculator itself you will see that it has two distinct parts: one labelled "_Satellite around central body_" and the second one aptly named "_Binery systema_". For this first part we will focus on the first one, which will help us calculate orbital periods for small satellites orbiting on the low Earth orbits.
 
+In this section we have only to fields to fill, so it will be easy. In fact, you only need to fill one of the fields for the calculator to work. As we mentioned before, you only need to know the density of the central body to obtain the orbital period of the small satellite orbiting around it. The equation we're using in this approximation is a very simple one: 
 
+`T = √(3 * π / G * ρ)`
+Where `T` is the orbital period, `G` is the universal gravitational constant and `ρ` is the density of the central body. We can use this simple equation to calculate the orbital period of any satellite around any planet. For example in the case of the Earth the density is `5.51g/cm³` which would give a period of `58.6 days`.
+
+It is important to remember that as we move away from the surface of the Earth (or the central body) this approximation falls off. This is clearly visible when we consider that different satellites have different orbital periods. This gives rise to orbits like the geostationary and geosynchronous orbits. These orbits are such that have and orbital period of exactly `1day = 23.934446hours`. The difference between the geostationary orbit and the geosynchronous orbit is the position with respect to the equator. The geostationary orbit is exactly above the equator and therefore the satellites in this orbit stay all over the say point on Earth's surface. The geosynchronous orbit, however, is located anywhere and does not have a one to one mapping of any particular point on Earth.
+
+You are probably wondering how many satellites orbit the Earth currently... And we have the answer. Space debris is a big problem due to how many satellites orbit the Earth at the moment, and the number is only increasing. Nowadays is becoming such a problem that space agencies are starting to consider possible solutions to be implemented in the near future. But enough rambling, let's give you the figure; just how many satellites orbit the Earth? The latest statistics point at over 3700 satellites orbiting the Earth right now, of which only about 1100 are operative... Let's hope gravity doesn't stop working and those satellites never fall on our heads!
 
 ## How to calculate the orbital period of a binary star system
 
+We now should move to binary star systems. We have already seen what is the binary star definition, namely a system made of 2 stars of similar size orbiting each other, so it's now time to calculate their orbital period. For such purpose we have made the second part of the orbital period calculator. In this space we have several variables: 
+
+* **Mass 1**: The mass of the first star, also named `M1`
+* **Mass 2**: The mass of the first star, also named `M2`
+* **Semi-axos**: The semi-major axis of the elliptical orbit with one star in the focus. We'll call it `a`
+* **T binary**: Orbital period of the binary star system, also called `Tbinary`
+
+The equation ruling this system is the following: `Tbinary = 2*π * √(a³/G*(M1+M2))` where once again `G` is the universal gravitation constant. Note that for both parts of the calculator `G` can be changed by using the advanced options.
+
+This equation is not limited to systems that comply fully with the binary star definition, it can be extended to any binary system. One such example is the Pluto-Charon system; none of the objects are stars (not even planets) and hence do no fulfil the binary star definition, but yet they are a binary system of which we can compute the orbital period using our orbital period calculator.
+
+In fact this binary star/system calculation is a much better approximation and could be extended to system that wouldn't typically be considered binary systems. For example, if we take the Sun and the Earth, we could still obtain reasonable results if we consider them a binary system. By inputting `M1= 1Sun`, `M2= 1Earth` and setting the `a = 1au` the mean distance between Sun and Earth we obtain an orbital period of `Tbinary = 365.2days` which is `1year` almost to the minute.
+
 Mention  pluto's binary system
-
-## Let's talk solar system: Earth's Orbit around the Sun, Moon orbit, Mars orbit...
-
-
