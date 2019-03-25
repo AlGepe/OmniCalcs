@@ -106,15 +106,56 @@ Putting these values together into our calorie calculator we get a result of abo
 
 Speaking of weight loss, which is the reason most of you would've landed in this calories burned calculator, let's turn our attention away from "how many calories did I burn?" and towards "how many calories per day do I consume?". For this purpose we have another calculator, but let's talk about dietary calories for a moment before we calculate anything.
 
-not all calories are processes by intestines => dietary calorie
-not all calories are equal
+If we talk in physics terms, everything has calories. From a simple dish of pasta to even a glass of water, everything has some energy inside of it. However, our body cannot process and obtain all the energy in everything. To put an extreme example, the energy stored in Uranium atoms is enough to create the most powerful bomb in human history, however if you were to eat Uranium you wouldn't have tons of energy, or get super fat... You would just die.
+
+And that's why the concept of "dietary calorie" was brought into existence. Dietary calories refer to the amount of energy in an edible product that our body is capable of access. In water, for example, there are no dietary calories despite all the energy stored in its chemical bonds, simply because our body can not obtain such energy. Luckily for us, when food manufacturers state the amount of calories in a certain meal or product, they only talk about dietary calories (generally kcal or Cal, to be precise) which means we don't need to make any calculations when watching our food intake.
+
+Once we talk about dietary calories, we can start thinking about weight loss through diets. In very broad terms (purely thermodynamics terms for the most part), the weight loss game seems simple: **Calories in minus calories out and then convert to  body fat weight lost or gained.** The reality is much more complicated than that as we will see later, but for now let's focus on the tree main caloric states we can be in: 
+
+1. Caloric deficit
+1. Caloric balance
+1. Caloric surplus
+
+Caloric balance is the state in which the number of calories burned equals the number of calories taken. In the simplistic thermodynamics approach this is the state in which we don't lose weight but we also don't gain any weight, we are at balance. 
+
+The next state is caloric deficit, which is the most used tactic for losing weight. In this state we eat less calories than we burned creating such a caloric imbalance. There are two main ways to achieve this imbalance: Eating less and exercising more. You can also achieve this state by any combination of the two. Common sense dictates that this is the path to weight loss and fat burning, and that's mostly true. However, we will see in the next section all the asterisks and caveats that accompany this assumption.
+
+Lastly we have the caloric surplus, which is the state of eating more calories than we burn. This is the state mostly used to gain weight, mostly in the form of fat. Nevertheless, weight gain doesn't necessarily mean getting fat as people in the fitness industry know very well. The practice of "Bulking" within fitness refers to the practice of purposely bringing yourself to a caloric surplus state in the pursue of muscle growth. 
+
+Bulking typically involves fat gains as well as muscle gains. This is technically not necessary since to gain muscle caloric surplus is not needed, only "Nitrogen surplus" or protein surplus. Reality is more complicated as it can be very difficult to achieve a protein surplus without incurring in caloric surplus.
+
+This last fact about bulking, suggests that the model "calories in minus calories our" is not the whole story. Let us move into the next section to clarify the nuances of calorie balance and weight loss.
 
 ## Do fats make you fat? I don't think so, maybe
 
-getting rich as a example/metaphor
+A calorie is a calorie, they say. It might seem right on first sight but the reality is actually different. For once, there is the obvious issue with the "size" of a dietary calorie. Do you know how many lettuce you have to eat to get 1000kcal? On the other hand, if you turn towards a pizza you will find yourself exceeding that amount before you start to think you might have had enough.
+
+Then there is the nutrition aspect of food. Our bodies need more than just calories to function, from macronutrients such as carbohydrates, proteins and fat, to micronutrients like vitamins and minerals. Meet your body's requirements for these elements is crucial for a healthy life. So when it comes to getting our calories it matters what food we eat, not just the amount of calories.
+
+And last but definitely not least is the hormonal side of eating. These is a complex topic that requires intensive knowledge of biology and medicine and so it often overlooked. However, as the time passes and more and more studies come out, the scientific community realises the importance of understanding the relationship between food and hormones. 
+
+In short, here are certain types of hormones that promote different functions in our bodies such as fat burning, fat storage and even changes in your BMR. Taking all this factors into consideration is crucial to understand how your body reacts to your food intake and will help you lose/gain weight (depending on your goal) while staying healthy and preventing any future problems or side effects.
+
+So coming back to "a calorie is a calorie" let's use an analogy to understand why, while that's true technically, it's also very wrong and misleading. You can compare the idea of "calories in vs calories out" for weight loss to saying that the way to get rich is to "spend less than you earn". Yes, it is true; but it hides the underlying complexity of the problem while offering very little practical help to anyone willing to lose weight (or get rich).
+
+We are obviously not saying that the calories burned or eaten don't matter, as with the case of getting rich you need to tick that box as a prerequisite. But next time you try to lose weight don't just think about your calories burned against your calories eaten. In stead, do a little bit of research, eat healthy and, if you can, get professional help. 
 
 ## Fun fact: how you lose weight when you sleep
 
-carbon/breathing
+And lastly, let's take a look at a fun fact about weight loss without necessarily involving exercises or burning calories. It is common knowledge that we are lighter in the morning than we were at night the day before. This seems like a bit of a mystery at first sight since it happens even if we don't go to the bathroom in the middle of the night. Let's take a look at where has that weight gone and why is this effect happening to all of us more or less equally.
 
-Number one requirement for losing weight: keep breathing!!
+First of all we should explain the premises. You can even try this at home if you're feeling sceptical. Get ready for bed, put on your pyjamas, do anything you do before slipping into your comfortable bed, but just before you do so weigh yourself on your home scale. Right down the value and repeat the process in the morning, first thing after waking up. 
+
+Note that it won't work if you go to the bathroom in the middle of the night or if you pay a cheeky visit to the fridge in the safety of the dark. Assuming you've followed the steps correctly, the reading you get in the morning should be lower than before going to sleep. You can even do this several days in a row and you'll see the same effect.
+
+When asked for a possible explanation of this effect, people quickly point at Einstein's equation relating mass and energy, as the possible cause of such weight loss. Though Einstein's equation is much more subtle than any process of weight loss occurring in our body, this is not a bad guess. In some (very non-physics like) sense, that's what happens when we burn calories and as a result we lose weight.
+
+However, the real reason why we wake up lighter in the morning is much more interesting and easy to understand with just the most basic knowledge of science. By process of elimination we could narrow down the possible causes to the only two mechanism in which we exchange matter with the outside while sleeping: sweating and breathing. But sweating doesn't always happen at night and the weight loss can be found even in the coldest of nights with barely any cover on.
+
+So... It must be breathing! Shocked? You should be, it's not immediately obvious how breathing can help us lose weight. If we think in chemistry terms, breathing is no more than the exchange of oxygen (O2) and carbon dioxide (CO2) with the environment. Can you already see where the weight loss occurs? Exactly! One gas is heavier than the other.
+
+Oxygen has an atomic mass of 16au and carbon is 12au per atom. This means that when we inhale we take 32au per molecule of O2 and then exhale 44au back in the form of carbon dioxide. This means difference of 12 au per molecule, which is not much, but taking into account how many molecules there are in a breath, and how many breaths we take every night... It all adds up. 
+
+Definitely an unexpected and very interesting explanation for this surprising effect. Another important thing to realize is that this process keeps happening as long as we are alive. The reason we don't just become lighter from breathing a couple days is that this effect is too small when we compare it the food and liquid we eat and drink everyday. Though noticeable in strict conditions (such as over a good night's sleep) the effect is overpowered by the more than 3kg that we normally introduce in our body as water, food...
+
+Unfortunately, this is not a good way to lose weight, we still need to replenish our burned calories for a healthy lifestyle and exercise periodically not only to prevent heart diseases but also for keeping our weight in check. However, this effect bring to light something very important, that we should never forget. The number one requirement for losing weight: keep breathing!!
