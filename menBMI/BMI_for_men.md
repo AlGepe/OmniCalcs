@@ -6,9 +6,9 @@ If you are here you're probably trying to find an answer to the question _What i
 
 `BMI = weight / height²`
 
-As you can see, BMI is very simple to calculate which is both its strength and its biggest flaw. Since it uses only <portal cid=733>height</portal> and weight it leaves out a big amount of factors that affect the body composition of a person such as <portal cid=123>lean body mass</portal>, <portal cid=292>body fat</portal>, <portal cid=777>body water percentage</poratal>... That play a big role in correct functioning of our bodies.
+As you can see, BMI is very simple to calculate which is both its strength and its biggest flaw. Since it uses only <portal cid=733>height</portal> and weight it leaves out a big amount of factors that affect the body composition of a person such as <portal cid=123>lean body mass</portal>, <portal cid=292>body fat</portal>, <portal cid=777>body water percentage</portal>... That play a big role in correct functioning of our bodies.
 
-If you are interested in learning what type of body you have, rather than you body mass index, we invite you to visit our <portal cid=748>waist to height ratio calculator</portal> and our <portal cid=566>body type calculator</portal> where you will find all the necessary information. Alternatively we have available other calculation tools such as <portal cid=237>army body fat calculator</portal>, <portal cid=233>navy body fat calculator</portal> that will give you other valuable metrics related to your body's health.
+If you are interested in learning what type of body you have, rather than you body mass index, we invite you to visit our <portal cid=748>waist to height ratio calculator</portal> and our <portal cid=566>body type calculator</portal> where you will find all the necessary information. Alternatively we have available other calculation tools such as <portal cid=232>army body fat calculator</portal>, <portal cid=233>navy body fat calculator</portal> that will give you other valuable metrics related to your body's health.
 
 ## Why we need a BMI calculator for male
 
@@ -16,11 +16,11 @@ We have seen that the BMI formula does not include sex in any kind or form, so w
 
 Broadly speaking, we could compare men and women together and we wouldn't be too far from the reality, but for improved precision we have decided to separate our BMI calculators into the 4 main population groups: children, teenagers, men, and women. For each of them we have a calculator ready so that you can get the best results and comparisons no matter your population group. Here is a list of the available calculators:
 
-.) General <portal cid=81>BMI calculator </portal>
-.) <portal cid=XX>BMI calculator for kids</portal>
-.) <portal cid=XX>BMI calculator for teenagers</portal>
-.) <portal cid=XX>BMI calculator for women</portal>
-.) BMI calculator for men (this one) 
+- General <portal cid=81>BMI calculator </portal>
+- <portal cid=XX>BMI calculator for kids</portal>
+- <portal cid=XX>BMI calculator for teenagers</portal>
+- <portal cid=XX>BMI calculator for women</portal>
+- BMI calculator for men (this one) 
 
 So make sure to check out the one that's relevant for you. Here we will focus only on the BMI charts for men, and all the relevant values and BMI ranges for male population only. Starting, in the next section with the different categories of BMI, why the exist and what they mean.
 
@@ -28,7 +28,7 @@ So make sure to check out the one that's relevant for you. Here we will focus on
 
 When it comes to set up the different BMI ranges for men, there are almost countless options, which is very much the reason why there are several official ways to group normal BMI in males. For the rest of the text we will adhere to the guidelines presented by the World Health Organization (WHO). The division and categorization made by WHO leads to three major BMI ranges for males (the aforementioned underweight, normal/healthy, and overweight).
 
-However each of the categories can be subdivided to make distinctions between slight overweight and hyper obesity on one end and to distinguish slightly underweight men from severely undernourished individuals. In out calculation we use the finer of the BMI groupings, for a total of 11 different BMI ranges for men. As mentioned previously, different organizations have different ways to group values of BMI for men, but most of the thresholds are the same or at a reasonable <portal cid=144>distance</portal>.
+However each of the categories can be subdivcarbsided to make distinctions between slight overweight and hyper obesity on one end and to distinguish slightly underweight men from severely undernourished individuals. In out calculation we use the finer of the BMI groupings, for a total of 11 different BMI ranges for men. As mentioned previously, different organizations have different ways to group values of BMI for men, but most of the thresholds are the same or at a reasonable <portal cid=144>distance</portal>.
 
 It is important to point out that even the WHO themselves acknowledge the fact that BMI is a statistical parameter. The meaning of such statement is that having a _healthy BMI for men_ doesn't automatically mean that you are have healthy man. If you have a healthy BMI for men you are only _statistically more likely_ to be healthy than if you are outside of the normal BMI. We will talk more about the connection between BMI and health in a later section.
 
@@ -67,7 +67,7 @@ BMI prime will be a number, hopefully very close to 1, since that is the ideal n
 Now that we know all the important information about BMI for men, BMI percentiles and BMI ranges for males, it's time to see how one can put all this together using the BMI calculator for men so that you too can answer the burning question that is _"What's my BMI?"_. These are the steps to follow to get you BMI, BMI prime and your percentile  according to BMI and age:
 
 1) Introduce your <portal cid=207>weight</portal> in your preferred mass units
-1) Introduce you height in your desired <portal cid=208>length</units> units
+1) Introduce you height in your desired <portal cid=208>length</portal> units
 1) At this point you'll get your calculated BMI as well as your BMI prime together with your WHO-category according to these numbers
 1) Input you age in years if you want to know your percentile
 1) The result will appear showing your percentile compared to USA population in your age bracket.
@@ -80,16 +80,16 @@ Now that you know what is your BMI, you might be wondering what can you do if it
 
 The first and most important thing you gotta ask yourself is whether or not you healthy, regarless of your weight. For example, if you <portal cid=379>smoke several packages of cigarettes</portal>, your first priority should be to <portal cid=378>quit smoking</portal>, since that is very likely they biggest risk factor you are dealing with. If you are no convinced you can check our calculator on <portal cid=861>what percentage of smokers get lung cancer</portal> and the one showing the effects on your health if you <portal cid=857>quit smoking now</portal>.
 
-Assuming you are not a smoker, or you're addressing that issue, we can move to the next step: exercise. Exercising is one of the healthiest things you can do since it improves your mental health as well as improve you <portal cid=1161>ECG heart rate</portal> and your heart health in general. 
+Assuming you are not a smoker, or you're addressing that issue, we can move to the **next step: exercise**. Exercising is one of the healthiest things you can do since it improves your mental health as well as improve you <portal cid=1161>ECG heart rate</portal> and your **heart health in general**. 
 
 You can use our <portal cid=102>max heart rate calcualtor</portal>, <portal cid=234>target heart rate calculator</portal> to check on your heart's health; and feel free to get the most out of your training by using our <portal cid=874>heart rate zone calculator</portal> to calculate and use the different training <portal cid=235>heart rate zones</portal>.
 
 As far as exercises go, <portal cid=236>running</portal> and <portal cid=535>walking</portal> are probably the easiest to do. If you're interested we recommend that you visit our <portal cid=1135>running pace calculator</portal> as well as our <portal cid=1159>running calorie calculator</portal>. Other exercises that give great results are <portal cid=541>weightlifting</portal> and <portal cid=878>cycling</portal>.
 
-Provided you have followed the two advice above you are probably in good shape already. However, you might be still struggling with your weight, and hence BMI, so it won't hurt to set up the record straight and give you some tip on nutrition and <portal cid=231>calories</portal>, specifically on <portal cid=627>calories burned</portal> and <portal cid=742>calorie deficit</portal>.
+Provided you have followed the two advice above you are probably in good shape already. However, you might be still struggling with your weight, and hence BMI, so it won't hurt to set up the record straight and give you some tip on nutrition and <portal cid=231>calories</portal>, specifically on <portal cid=627>calories burned</portal> and calorie deficit.
 
-If you're interested in changing your BMI as a mean to get healthy, we have some calculators that will help you <portal cid=1250>lose weight</portal> or at least keep a healthy balance. For starters it is important that you know your <portal cid=199>BMR</portal> or <portal cid=1004>resting calorie</portal> consumption, so that you can plan better your <portal cid=740>meal calories</portal>.
+If you're interested in changing your BMI as a mean to get healthy, we have some calculators that will help you <portal cid=1250>lose weight</portal> or at least keep a healthy balance. For starters it is important that you know your <portal cid=199>BMR</portal> or <portal cid=1164>resting calorie</portal> consumption, so that you can plan better your <portal cid=740>meal calories</portal>.
 
-The key part of a good diet is to keep a balance of nutrients while you maintain a calorie deficit. For this our <portal cid=742>macro calculator</portal> is very useful since it allows to plan your <portal cid=743>carbohydrate</portal> intake, <portal cid=744>protein intake</portal> and <portal cid=747>fat intake</portal> to achieve your goals.
+The key part of a good diet is to keep a balance of nutrients while you maintain a <portal cid=1004>energy</portal> deficit, often referred to as _calorie deficit_. For this our <portal cid=742>macro calculator</portal> is very useful since it allows to plan your <portal cid=743>carbohydrate</portal> intake, <portal cid=744>protein intake</portal> and <portal cid=747>fat intake</portal> to achieve your goals.
 
-Lastly, you can always try travelling to other planets. Since your <portal cid=347>weight on other planets</portal> changes with respect to your weight on Earth, you might be able to find the right one to fix you BMI. We have heard of people that find this idea easier to do that exercising, but we would never recommend it unless planetary travel includes a strict diet and training routine.
+Lastly, you can always try traveling to other planets. Since your <portal cid=347>weight on other planets</portal> changes with respect to your weight on Earth, you might be able to find the right one to fix you BMI. We have heard of people that find this idea easier to do that exercising, but we would never recommend it unless planetary travel includes a strict diet and training routine.
