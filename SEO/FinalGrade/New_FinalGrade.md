@@ -30,13 +30,25 @@ Now is time to talk about the <strike>clusterf***</strike> mess that are differe
 
 Then things start to get complicated when we look at the USA and their grading system using letters from A to F (generally skipping the letter E). You can be forgiven for thinking this makes conversions really hard and it is very difficult to translate your grade from one country to another.
 
-However, the letter in the north american grading system are have the same meaning as the numbers in other systems, in fact the Norwegian and Polish system have an <a href=https://www.scholaro.com/pro/Countries/poland/Grading-System>almost 1-to-1 equivalence with the system in the United states of America</a>. So at the end of the day converting from one grading system to another is much easier than it would seem.
+However, the letter in the North American grading system are have the same meaning as the numbers in other systems, in fact the Norwegian and Polish system have an <a href=https://www.scholaro.com/pro/Countries/poland/Grading-System>almost 1-to-1 equivalence with the system in the United states of America</a>. So at the end of the day converting from one grading system to another is much easier than it would seem.
 
 ## What grade do I need on my final exam? Tricks for better time/effort management
 
-One question you might be asking yourself is: What grade do I need on my final exam? And though it might be a lazy question to ask, it's also a very good one if you need to be efficient with your time management.
+One question you might be asking yourself is: What grade do I need on my final exam? And though it might be a lazy question to ask, it's also a very good one if you need to be efficient with your time management. Let's take a look a very common situation that happens to students during the finals period.
+
+Let's assume you're an average student, and let's say you've done well but not excellent on average on you subjects. Now the finals are coming and your goals are twofold: first and foremost you want to pass all the subjects; and given you achieve the first one you want as high a grade as you can possibly get in each of them.
+
+But time is finite and so is you attention. So one way you could go about it would be to answer that question you already have: "_What grade do I need on my final?_" for every subject. By knowing this you can dedicate more time to those subjects that you either find harder, or for which you need a higher grade on your final exam.
+
+Assuming you will pass all your subjects you can later focus on the subjects that would be more relevant for your future career or that you like the best. This might sound like indulging, which it kinda is, but it is also the most efficient since liking something increases your motivation and your will to put effort into it.
+
+And now that you know how important it can be to know what grade you need in your next exam, let's use our final grade calculator and show you how to calculate you final grade. Our calculator is not limited to final exams, it can both work as a semester grade calculator or as a finals calculator, as we will see now.
 
 ## How to use the final grade calculator
+
+So it's time to learn how to calculate grades using our semester grade calculator or final grade calculator or final exam grade calculator or however you wanna call it, we don't really care as long as it's helpful for you. First thing you should do, though, is to familiarise yourself with the calculator.
+
+It might look a bit intimidating at first, but let's go field by field and you'll see that it is actually much easier than it might seem now.
 
 ## Final exam and anxiety, how to balance now and then sensibly
 
