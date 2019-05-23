@@ -48,12 +48,38 @@ And now that you know how important it can be to know what grade you need in you
 
 So it's time to learn how to calculate grades using our semester grade calculator or final grade calculator or final exam grade calculator or however you wanna call it, we don't really care as long as it's helpful for you. First thing you should do, though, is to familiarise yourself with the calculator.
 
-It might look a bit intimidating at first, but let's go field by field and you'll see that it is actually much easier than it might seem now.
+It might look a bit intimidating at first, but let's go field by field and you'll see that it is actually much easier than it might seem now. Here is a list and a short description of what each field means:
 
-## Final exam and anxiety, how to balance now and then sensibly
+* **Current grade**: The grade you currently have on your subject, before the final exam.
+* **Final exam's weight**: Percentage of the final grade of the subject assigned to the final exam. 
+* **Required grade**: Passing grade. The minimum grade necessary to achieve your goal.
+* **Final exam grade needed**: The grade required to achieve your goal or the passing grade in said subject.
+
+All the fields are expressed in percentage since mathematically is the easiest way to account for all grading systems at once. Also many (final) exams' grades are expressed as a percentage or as fraction of the total amount of points available (perfect score). The only percentage that is a bit different than the rest, conceptually, is the weight of the final exam.
+
+This weight represent the part of the final grade assigned to the final exam alone. For example if we have a grading system with a maximum of 10 points and we have a final exam with a weight of 75% it means that there are `0.75*10 = 7.5 points` in the final grade that correspond directly to the final exam.
+
+Let's take a look at a simple example. Let's say you've enrolled in this subject that is coming to an end. There is only the final exam left for the subject to be over, and throughout the semester you've been doing small projects and mid-term exams for this subject, so that now your current average grade for this subject sits at 65% of the total points you could've gotten. Let's also assume that the final exam grade counts as 70% of the total grade of the subject. 
+
+This means that you have already collected `(1-0.7) * 0.65 * 100 = 19.5%` of the total grade. Let's talk about a grading system over 100 points; if you did not get any point on the final exam you would get a final grade of 19.5points. Now to calculate what grade you need on your final, we need to find how many points you would need to pass. Let's say a passing grade is 50 points.
+
+So that means you need `50-19.5 = 30.5 points` to pass. Since the final exam carries 70% of the final grade, it means that those 30.5 point in the final grade translate to `30.5 / .7 = 43.6 points`. So by getting 43.6% of the final exam correctly you are guaranteed to pass the subject. But please, aim higher than that; just in case ;)
 
 ## Beyond the final grade, a word on knowledge and studying
 
+
+
+## Final exam and anxiety, how to balance now and then sensibly
+
+One of the biggest problems associated with final exams is anxiety / stress. As we have mentioned before, getting good grades can be crucial at some points in life. Add to this that exams grow in importances as we get older and we barely face any final exam in our maturity, and that's a recipe for real anxiety problems. 
+
+One very important thing to realise (and it's almost impossible to do before certain age) is that nothing is really "written in stone". We all remember the first real important exams we had and how they felt almost like "life or death" situation... Then as years passed we realised that exams are not always as important as we thought, and that second chances are more common than it seemed when in our younger years. 
+
+That is not to say that exams don't matter and that there's always another chance; not at all. However, there is a level of stress and anxiety that is very unhealthy and counter-productive, and we should try to avoid that at all cost. And for that, it's important to keep in mind that there not a single "life deciding" exam.
+
+Life tends to be the result of multiple important and unimportant decisions, and none of them is 100% responsible for our future. As cheesy as those are, there are many many examples of very successful, highly realised people that did not pass any of the exams that we would consider "hard requirements" to achieve their success; think Steve Jobs dropping out of college if you're out of examples.
+
+Then again, those are just the exceptions to the rule. So the takeaway, if there's any to be gotten from a calculator, is that you're better off getting those grades as high as possible... But there is always another way to your destination. As it was <a href=https://hitchhikers.fandom.com/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(travel_guide)>inscribed on the cover of the standard repository of all knowledge and wisdom</a>: Don't Panic!
 
 ############################################################################################
 Final grade calculator is a time-saving device effective for quickly determining what your final grade will be based on some given data. Because getting the right grade could be the difference between getting top honors or simply passing a class, it's necessary to know exactly what grade you need to get on that last exam in order to receive the grade you need or desire. If you are interested in the final grade calculator, you might be interested checking out the <portal cid="265">average calculator</portal> too.
