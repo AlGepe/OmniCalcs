@@ -67,7 +67,17 @@ So that means you need `50-19.5 = 30.5 points` to pass. Since the final exam car
 
 ## Beyond the final grade, a word on knowledge and studying
 
+We have touched lightly on the fact that grades don't mean knowledge, so let's expand a bit more on that, almost counter-intuitive, statement. In an ideal world, the exams and tests you have to do to pass a subject would be perfectly designed so that you could only pass if you knew enough. On top of that, since we're talking about the 'perfect' scenario, your grade would exactly represent your level of knowledge in the subject.
 
+However, an exam like this would require a lot of research and planning, would probably need be tailor-made for each student, and would have to be completely different from one year to the next so as to avoid students from just studying previous exams. As you can clearly see, this is far from practical and borderline impossible to achieve in a world where time is limited (as is the capacity of professors).
+
+Enter Real World™ compromises. Professors (and teachers) have limited time and need to optimise it so, for example, having the same type of exam with different questions from year to year is a good and very common compromise.
+
+Another compromise that professors are very likely to do is to only select a few relevant topics from the subject, instead of having questions about everything they taught in the course. This allows exams to be short enough to be done in just a couple of hours as opposed to the several days that it could take to go over the whole subject.
+
+All this compromises allow for exams to actually be performed, but they hinder their accuracy to represent the knowledge of the student. If done correctly, there should still be a high correlation between the knowledge you have and the grade you get, but some times there can be huge disparities.
+
+In the worst cases you might have to decided if you'd rather have great knowledge and average grade or amazing grade and sub-par knowledge. In general we would recommend aiming for knowledge but you are probably the best judge of your situation, if you unfortunately happen to encounter it.
 
 ## Final exam and anxiety, how to balance now and then sensibly
 
