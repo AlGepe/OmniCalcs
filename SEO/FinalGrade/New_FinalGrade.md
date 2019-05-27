@@ -79,6 +79,17 @@ All this compromises allow for exams to actually be performed, but they hinder t
 
 In the worst cases you might have to decided if you'd rather have great knowledge and average grade or amazing grade and sub-par knowledge. In general we would recommend aiming for knowledge but you are probably the best judge of your situation, if you unfortunately happen to encounter it.
 
+## I finished my exam, I got my final grade, now what?
+
+If you are using this calculator you probably haven't done your exams yet... But at some point you'll be done with them and you will have to stop asking "_what grade do I need on my final?_" and start asking "_and now what?_". If you have finished one of the many years in your studies, enjoy a well deserved break and clear your head from the stressful exam period. However,  if you have just finished high school, college or maybe completed all your university studies, you are far from done. 
+
+The next steps to take are very important in deciding your future, and the most likely thing you would have to (or at least want to) is apply either for your next stage in your education or for a job. For either of them it's important to know how to show your capabilities, interests and knowledge to those who haven't met you yet. A good CV, a well crafted motivational letter and not giving up are some things that will help you succeed getting that position you aim for. 
+
+Here at Omni we cannot write your motivational letter or polish your CV, but still we would like to offer as much help as we can. As we have discussed, your grades are the typical way to prove your knowledge, but not all places use the same grading system. Fear not, because here is where our Omnicalculators can prove very helpful for you.
+
+For starters you can calculate your <portal cid=1322>High School GPA</portal> or your <portal cid=1318>College GPA calculators</portal>. This can be very important if you're applying for a position abroad, since GPA is the _de facto_ international standard for grades. What's more, some colleges have their own way to re-evaluate your grades; generally using a weighted average. Here we can offer you the help of our <portal cid=264>weighted average calculator</portal> to make this process as easy as it can be. 
+
+
 ## Final exam and anxiety, how to balance now and then sensibly
 
 One of the biggest problems associated with final exams is anxiety / stress. As we have mentioned before, getting good grades can be crucial at some points in life. Add to this that exams grow in importances as we get older and we barely face any final exam in our maturity, and that's a recipe for real anxiety problems. 
@@ -90,31 +101,3 @@ That is not to say that exams don't matter and that there's always another chanc
 Life tends to be the result of multiple important and unimportant decisions, and none of them is 100% responsible for our future. As cheesy as those are, there are many many examples of very successful, highly realised people that did not pass any of the exams that we would consider "hard requirements" to achieve their success; think Steve Jobs dropping out of college if you're out of examples.
 
 Then again, those are just the exceptions to the rule. So the takeaway, if there's any to be gotten from a calculator, is that you're better off getting those grades as high as possible... But there is always another way to your destination. As it was <a href=https://hitchhikers.fandom.com/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(travel_guide)>inscribed on the cover of the standard repository of all knowledge and wisdom</a>: Don't Panic!
-
-############################################################################################
-Final grade calculator is a time-saving device effective for quickly determining what your final grade will be based on some given data. Because getting the right grade could be the difference between getting top honors or simply passing a class, it's necessary to know exactly what grade you need to get on that last exam in order to receive the grade you need or desire. If you are interested in the final grade calculator, you might be interested checking out the <portal cid="265">average calculator</portal> too.
-
-## What are the basics involved in the final grade calculator?
-
-Let's breakdown the values needed and look at a simple formula. 
-* **Current grade**: what is your average grade for all the work done in class so far. For example, 80%. It might be helpful to use our <portal cid="259">grade calculator</portal> if you're having any difficulties figuring out your current grade.
-* **Final exam's weight**: how much your final exam is worth compared to all the other class values (assignments, projects, quizzes, etc.) For instance, 40% of your overall grade.
-* **Required grade**: this is the final grade you get in the class, and the one you need to pass the class or achiever your personal goals. For example, let's say it's 85%.
-* **Final exam grade needed**: the final exam grade you need to score in order to get the 'required grade'. Given all the values mentioned above, the Final Exam grade needed is 92.5%.
-
-Let's put all these values together in one simple equation now: 
-
-## How to calculate the final grade?
-
-To use the final grade calculator you must supply some basic data. First, you need to know what your current grade is. Then, you need to plug in the weight of the final exam. Teachers and professors normally supply that information in the class syllabus or provide it at some moment during the course. Once you determine what those values are, you need to supply only one more value, namely, the required grade. This is the minimum grade you need or want in order to achieve your academic aims, whatever they may be. Let's consider the following example:
-
-1. Imagine your current grade is an 88%
-1. The final exam weight counts for 50% of your overall grade (it's a <portal cid="264">weighted average</portal>, where the final exam usually is more important than anything else that came before).
-1. You want to get a 93% in the class (an A or top percentage bracket depending on the grading method)
-1. You will need to score at least a 97% on the final exam.
-
-## How is the final grade calculator useful?
-
-Academic life implies schoolwork and ultimately some form of evaluation of performance. Being able to correctly estimate what kind of effort you need to put into a course can be a big deal when you have many different classes to attend. Time is a limited quantity and so is personal energy. Doing some clever calculations, students can intelligently organize their time in order to get the best grades where it matters most. 
-
-The final grade calculator is just one means to this end. Instead of studying blindly, students can use it to decide how and where to invest the best of their study time and energy.  You might cut down study time on the course where you need a lower final exam grade and invest that valuable time working harder in another area. Whether you just need a passing grade or a single percentage point higher to get that *summa cum laude*, the final grade calculator can save you a bit of study time by quickly informing you exactly what kind of final exam grade you need to achieve your goal.
