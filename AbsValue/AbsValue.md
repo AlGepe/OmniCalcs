@@ -26,7 +26,18 @@ Then we also have the absolute value as a way of abbreviating our writing. For e
 
 ## Absolute value functions and absolute value graphs
 
-And this usefulness leads directly into absolute value graphs and absolute value inside functions. Both simple things in theory, but both tricky at the beginning.
+And this usefulness leads directly into absolute value graphs and absolute value inside functions. Both simple things in theory, but both tricky at the beginning. Let's start with the most basic absolute value function: `f(x) = |x|`. Before we think about its shape, we already know that this absolute value function can only have values above the x-axis, that is `f(x)` only has positive values. 
+
+Digging a bit deeper we can start with the positive part `x>0`, in this case `f(x) = x` so we get a straight line at exactly 45º which bisects the first quadrant of the Cartesian axis. The part for negative x, `x<0` can be re-written as `f(x) = -x` and give a symmetrical line to the positive x part with the y-axis acting as the axis of symmetry. This part bisects the second quadrant and forms an angle of 135º with the x-axis. For completeness sake we should add that `f(0) = |0| = 0` completing the symmetry.
+
+Things get a bit more complicated when we get more complicated expression inside the absolute value. As long as the absolute value is surrounding the whole expressions, we can use a small trick. If we look back at `f(x) = |x|` as a modification on `f(x)=x` we can see that the difference is that the negative part of `f(x)=x` has been lifted up to have positive values. More precisely, what we've done is flip it over around the x-axis, to a mirror image of the original part. 
+
+This same trick can be used for any function wrapped in absolute value. Just draw the function ignoring the absolute value, and then flip over whatever part is below `y=0`. The result is a perfect representation of the absolute value graph without any headaches. Take a look at the examples we've chosen in the pictures of this sections.
+
+As a side note for those interested, any absolute value graph in which you need to use this trick, it would be as continuous as the original one, but it will have a sharp, non differentiable, point wherever there values changed from positive to negative. For example, in the function `f(x)=|x|` we get a sharp point at `f(0) = 0`.
+
+For more complicated expression where the absolute value function is inside the expression like in `f(x) = 2x+3 / |x|` this get complicated, and require more thorough mathematical analysis. It is not impossible to do, and it's more about labour than complexity. However that goes beyond the scope of this calculator, so we will stop here and swiftly move to absolute value equations and inequalities. 
+
 
 ## Absolute value equations, and introduction
 
