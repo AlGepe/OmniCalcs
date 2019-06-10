@@ -39,6 +39,47 @@ As a side note for those interested, any absolute value graph in which you need 
 For more complicated expression where the absolute value function is inside the expression like in `f(x) = 2x+3 / |x|` this get complicated, and require more thorough mathematical analysis. It is not impossible to do, and it's more about labour than complexity. However that goes beyond the scope of this calculator, so we will stop here and swiftly move to absolute value equations and inequalities. 
 
 
-## Absolute value equations, and introduction
+## Absolute value equations, and absolute value inequalities
+
+A very common place to find absolute values is when trying to solve equations. These equations where absolute values appear are called **absolute value equations**; if in stead of an equal `=` sign we have a greater than (`>`), less than (	`<`), greater or equal than (`SYMBOL`) or less or equal than (`SYMBOL`), then we have what is called an **aboluste value inequality**.
+
+The way to deal with absolute values in both cases is similar, as you would operate and simplify as much as you can avoiding touching the absolute value part until you need to do it in order to continue towards the answer. 
+
+Once we hit the point at which we need to deal with the absolute value, we isolate it on one side of the sign and we decompose it into it's possible options: positive and negative. This process is also the same for both absolute value equations and absolute value inequalities.
+
+Let's see how that would look with a very simple example. Imagine you've managed to simplify everything to the point where you have just the simple equation: 
+
+`4x + 1 = |2x-3|`
+
+We know that the part `|2x-3|` is always going to be positive but `2x-3` could be positive OR negative. If its positive the equation would be:
+
+`4x + 1 = 2x - 3`
+
+whilst in the case of it being negative, the absolute value would change it sign so we would get:
+
+`4x + 1 = -(2x - 3) => 4x + 1 = 3 - 2x`
+
+Both equations represent potential solutions of the initial equation and would yeild: 
+
+a) Positive: `x = -2`
+b) Negative: `x = 1/3`
+
+If we pay close attention we can see that we are not done, since `x = -2` means that `2x-3 = -4 -3 = -7` violating the assumption we made in this case (`2x - 3 > 0`), so we know that it cannot be a solution of the original equation; in fact if we check it we get:
+
+1`4*(-2) + 1 = |2*(-2)-3| => -8 + 1 = |-4 -3| => -7 = +7`
+
+Which is a mathematical absurd. 
+
+
+
+## How to use the absolute value calculator
+
+Using the absolute value calculator is as easy as it gets. As a mathematical operation, absolute value is very easy in and of itself, but we're are going to try and talk you through a couple tips that might help you. 
+
+First of all the absolute value calculator works by turning positive any number you input, which is all the absolute value really is. So you should **introduce a number in the input box** of the calculator and you will get the absolute value of it as a result.
+
+You could use it as a tool to check certain points of your absolute value graphs and equations, making sure your sketch, drawing or solution to those functions are correct. 
+
+It is a very simple calculator, and that is why we provide you with all the information above: to turn a very simple absolute value calculator into a tool where you can get more knowledge to be put to use in your life (or at least in your math classes).
 
 
