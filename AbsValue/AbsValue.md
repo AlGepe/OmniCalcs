@@ -68,7 +68,9 @@ If we pay close attention we can see that we are not done, since `x = -2` means 
 
 1`4*(-2) + 1 = |2*(-2)-3| => -8 + 1 = |-4 -3| => -7 = +7`
 
-Which is a mathematical absurd. 
+Which is a mathematical absurdity. 
+
+This same process of dividing the absolute value equation or absolute value inequality, then checking what solutions make sense is very useful and standard. We used a very simple example here to keep it brief, but the same techniques can be used to solve very complex inequalities or find important point in absolute value functions, so that you can draw the absolute value graphs, that we mentioned earlier.
 
 
 
